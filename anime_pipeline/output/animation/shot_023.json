@@ -1,0 +1,321 @@
+{
+  "fingerprint": "7a59f961fb8fcf5011728c01ede137e1a05cf03b46cf55a7518c8dc31f1fec9e",
+  "frames": 240,
+  "duration": 10,
+  "render_seconds": 13.91,
+  "sample_frame_hashes": [
+    "1e99be905cc40c856301732cc0e3aef0127f78af881ead04383a8e6b8472d648",
+    "3fc3f8d7d3d2de45e7052a8a94317cb8b13f907e3b16d4f6b59bcea0ab4a6dc6",
+    "4758c2078be34dfd22ee8afa7c3abd22bc3440db3775a5b7f316e39ec2a73b82",
+    "245d73d2b925d8bd4cb1ee8fefb56e068d2c8b243ea86f20513419d7c1aff867",
+    "65dcbcce4274bfe20198b6567e465cdb887452309cf061292dd4014b0b5353b4",
+    "12db9af19b56efba340550242de01b1f807f91039f944df29825c1ee17a984e8",
+    "ff39b777219ec5fdbdb715aac4f3e96a572ba36a7417a0e259706a096f113cc0",
+    "be6a2e85e69907ccd791ace080817b76489c23b7ffbfe83ed79cbbe51920346a",
+    "2acbcdee6f2563d5f6b8828da8d448ff9bcb423b434b1e87b4eb211c76925d4c",
+    "fe7baa211ef340b89c6343c59c7370d77f802b0f0300c006116bc206a0df0b11"
+  ],
+  "character_motion_samples": [
+    {
+      "kael": [
+        230.0,
+        660.0,
+        12.818,
+        "idle",
+        false
+      ],
+      "elder": [
+        1080.0,
+        660.0,
+        0.3,
+        "seal",
+        false
+      ],
+      "mira": [
+        710.0,
+        660.0,
+        12.818,
+        "idle",
+        false
+      ],
+      "riven": [
+        564.991,
+        660.0,
+        6.673,
+        "attack",
+        false
+      ]
+    },
+    {
+      "kael": [
+        330.628,
+        660.75,
+        3.99,
+        "point",
+        true
+      ],
+      "elder": [
+        1081.1,
+        660.75,
+        0.3,
+        "seal",
+        false
+      ],
+      "mira": [
+        890.625,
+        660.75,
+        3.99,
+        "idle",
+        false
+      ],
+      "riven": [
+        900.65,
+        660.75,
+        0.6,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        333.676,
+        661.5,
+        4.99,
+        "point",
+        false
+      ],
+      "elder": [
+        1082.2,
+        661.5,
+        0.3,
+        "seal",
+        false
+      ],
+      "mira": [
+        891.25,
+        661.5,
+        4.99,
+        "idle",
+        false
+      ],
+      "riven": [
+        901.3,
+        661.5,
+        1.2,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        338.556,
+        662.25,
+        5.99,
+        "point",
+        false
+      ],
+      "elder": [
+        1083.3,
+        662.25,
+        0.3,
+        "seal",
+        false
+      ],
+      "mira": [
+        891.875,
+        662.25,
+        5.99,
+        "idle",
+        false
+      ],
+      "riven": [
+        901.95,
+        662.25,
+        1.8,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        344.676,
+        663.0,
+        6.99,
+        "point",
+        false
+      ],
+      "elder": [
+        1084.4,
+        663.0,
+        0.3,
+        "seal",
+        false
+      ],
+      "mira": [
+        892.5,
+        663.0,
+        6.99,
+        "idle",
+        false
+      ],
+      "riven": [
+        902.6,
+        663.0,
+        2.4,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        351.438,
+        663.75,
+        7.99,
+        "point",
+        false
+      ],
+      "elder": [
+        1085.5,
+        663.75,
+        0.3,
+        "seal",
+        true
+      ],
+      "mira": [
+        893.125,
+        663.75,
+        7.99,
+        "idle",
+        false
+      ],
+      "riven": [
+        903.25,
+        663.75,
+        3.0,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        358.236,
+        664.5,
+        8.99,
+        "point",
+        false
+      ],
+      "elder": [
+        1086.6,
+        664.5,
+        0.3,
+        "seal",
+        false
+      ],
+      "mira": [
+        893.75,
+        664.5,
+        8.99,
+        "idle",
+        false
+      ],
+      "riven": [
+        903.9,
+        664.5,
+        3.6,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        364.461,
+        665.25,
+        9.99,
+        "point",
+        false
+      ],
+      "elder": [
+        1087.7,
+        665.25,
+        0.3,
+        "seal",
+        true
+      ],
+      "mira": [
+        894.375,
+        665.25,
+        9.99,
+        "idle",
+        false
+      ],
+      "riven": [
+        904.55,
+        665.25,
+        4.2,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        369.496,
+        666.0,
+        10.99,
+        "point",
+        false
+      ],
+      "elder": [
+        1088.8,
+        666.0,
+        0.3,
+        "seal",
+        false
+      ],
+      "mira": [
+        895.0,
+        666.0,
+        10.99,
+        "idle",
+        false
+      ],
+      "riven": [
+        905.2,
+        666.0,
+        4.8,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        372.719,
+        666.75,
+        11.99,
+        "point",
+        false
+      ],
+      "elder": [
+        1089.9,
+        666.75,
+        0.3,
+        "seal",
+        false
+      ],
+      "mira": [
+        895.625,
+        666.75,
+        11.99,
+        "idle",
+        false
+      ],
+      "riven": [
+        905.85,
+        666.75,
+        5.4,
+        "idle",
+        false
+      ]
+    }
+  ],
+  "description": "The failed strike tears a weakened arch loose. Kael sees a student trapped beneath its lower beam while the Elder braces the collapsing ward."
+}

@@ -1,0 +1,251 @@
+{
+  "fingerprint": "fe335ec2d41a9f052a3b38ed689fa671c167e4074c02efcd6f9e7d7535fe6c98",
+  "frames": 240,
+  "duration": 10,
+  "render_seconds": 15.02,
+  "sample_frame_hashes": [
+    "94a55242b64d02dc05b8b2c325a704626f1dea8c6d18ff01e52f5772cd5d432e",
+    "b7d41877c536135e00571630d3c5692704abb543618a24e49f01dacb4ba19e43",
+    "cdfe9baedbd81685d1f40e484e8adc3a347c6ae7090b51d93adf626a20416a18",
+    "5f87399f6edccd702fc3b3ddf99ab362c5def625d7d9b2dff37e8a543653dea4",
+    "8b8bfc0760e37423a046383cc2eb7da90078b9bc0dc1599eb3c89fd32ad1db21",
+    "61f7831d1e596f8a73a1b79295864e28d5214150def23b84e971dd5fd8c9cd48",
+    "52a23f60ccffdd0d55f957f7b1547324bbe1d62e1d9afe85331e2ae24ece4aad",
+    "ff2273677d0e01306850b1ce641dd80d9151cefbfe027d6b3e198b4b0eedd34c",
+    "24b82469f46b3915dadfa7258920f1b67aa511c60dc008ec128bf9574b75222b",
+    "4473c4c2fce63dfd9e69890e30742e667975fef17ae66b183aa6915fdcd83703"
+  ],
+  "character_motion_samples": [
+    {
+      "kael": [
+        494.4,
+        672.0,
+        11.258,
+        "listen",
+        false
+      ],
+      "mira": [
+        1045.6,
+        672.0,
+        11.258,
+        "idle",
+        false
+      ],
+      "riven": [
+        1108.0,
+        672.0,
+        1.21,
+        "walk",
+        false
+      ]
+    },
+    {
+      "kael": [
+        373.724,
+        672.0,
+        2.16,
+        "walk",
+        false
+      ],
+      "mira": [
+        722.124,
+        672.0,
+        2.16,
+        "walk",
+        false
+      ],
+      "riven": [
+        1096.524,
+        672.0,
+        2.16,
+        "walk",
+        true
+      ]
+    },
+    {
+      "kael": [
+        356.413,
+        672.0,
+        3.11,
+        "walk",
+        false
+      ],
+      "mira": [
+        704.813,
+        672.0,
+        3.11,
+        "walk",
+        false
+      ],
+      "riven": [
+        1079.213,
+        672.0,
+        3.11,
+        "walk",
+        true
+      ]
+    },
+    {
+      "kael": [
+        334.919,
+        672.0,
+        4.06,
+        "walk",
+        false
+      ],
+      "mira": [
+        683.319,
+        672.0,
+        4.06,
+        "walk",
+        false
+      ],
+      "riven": [
+        1057.719,
+        672.0,
+        4.06,
+        "walk",
+        true
+      ]
+    },
+    {
+      "kael": [
+        310.887,
+        672.0,
+        5.01,
+        "walk",
+        false
+      ],
+      "mira": [
+        659.287,
+        672.0,
+        5.01,
+        "walk",
+        false
+      ],
+      "riven": [
+        1033.687,
+        672.0,
+        5.01,
+        "walk",
+        false
+      ]
+    },
+    {
+      "kael": [
+        285.951,
+        672.0,
+        5.96,
+        "walk",
+        true
+      ],
+      "mira": [
+        634.351,
+        672.0,
+        5.96,
+        "walk",
+        false
+      ],
+      "riven": [
+        1008.751,
+        672.0,
+        5.96,
+        "walk",
+        false
+      ]
+    },
+    {
+      "kael": [
+        261.736,
+        672.0,
+        6.91,
+        "walk",
+        true
+      ],
+      "mira": [
+        610.136,
+        672.0,
+        6.91,
+        "walk",
+        false
+      ],
+      "riven": [
+        984.536,
+        672.0,
+        6.91,
+        "walk",
+        false
+      ]
+    },
+    {
+      "kael": [
+        239.852,
+        672.0,
+        7.86,
+        "walk",
+        false
+      ],
+      "mira": [
+        588.252,
+        672.0,
+        7.86,
+        "walk",
+        false
+      ],
+      "riven": [
+        962.652,
+        672.0,
+        7.86,
+        "walk",
+        false
+      ]
+    },
+    {
+      "kael": [
+        221.893,
+        672.0,
+        8.81,
+        "walk",
+        false
+      ],
+      "mira": [
+        570.293,
+        672.0,
+        8.81,
+        "walk",
+        false
+      ],
+      "riven": [
+        944.693,
+        672.0,
+        8.81,
+        "walk",
+        false
+      ]
+    },
+    {
+      "kael": [
+        209.435,
+        672.0,
+        9.76,
+        "walk",
+        false
+      ],
+      "mira": [
+        557.835,
+        672.0,
+        9.76,
+        "walk",
+        false
+      ],
+      "riven": [
+        932.235,
+        672.0,
+        9.76,
+        "walk",
+        false
+      ]
+    }
+  ],
+  "description": "Kael pauses at the edge of the forming circle, remembers the ribbon he returned, and joins his friends without hiding his empty wrist."
+}

@@ -1,0 +1,17 @@
+{
+  "id": "RIVEN_SOL_01",
+  "name": "Riven Sol",
+  "age": 21,
+  "hair": "#622536",
+  "hairlight": "#b14a50",
+  "coat": "#24212d",
+  "coatlight": "#493143",
+  "coatshadow": "#151623",
+  "trim": "#dd5664",
+  "iris": "#e6a260",
+  "skin": "#dca58b",
+  "shade": "#aa6b68",
+  "shirt": "#302b3b",
+  "accent": "#fa6c77",
+  "voice": "young_indian_english_male_energetic"
+}

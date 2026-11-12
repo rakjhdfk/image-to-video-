@@ -1,0 +1,17 @@
+{
+  "id": "KAEL_ARDYN_01",
+  "name": "Kael Ardyn",
+  "age": 19,
+  "hair": "#151b2d",
+  "hairlight": "#34475d",
+  "coat": "#14273d",
+  "coatlight": "#23445d",
+  "coatshadow": "#0c1728",
+  "trim": "#6aadb4",
+  "iris": "#42c8b8",
+  "skin": "#e7b394",
+  "shade": "#bc8178",
+  "shirt": "#dce7e7",
+  "accent": "#6fdad2",
+  "voice": "young_indian_english_male"
+}

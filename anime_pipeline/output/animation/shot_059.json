@@ -1,0 +1,321 @@
+{
+  "fingerprint": "54728785f9fd2f8e27ab977419b5e8645544cdd73aa245c740df6d6c83129da3",
+  "frames": 240,
+  "duration": 10,
+  "render_seconds": 15.34,
+  "sample_frame_hashes": [
+    "d1aa3a23eb4a497dd5edf19437d803d9904a7e67e6dbf941fafb4fd4386cc5de",
+    "5594a434674458efd9c5d0b7b8dd8eda69645e773fc8634b50a65796468f5769",
+    "f02b46fc824961868188baa9aacb16200dfed0293f8b684e8fb32de3453c541d",
+    "cad4bec16d1f3f63fc8300b5eb65e8a3c78500e51db8622b0a36de8d7c400a81",
+    "498b880c9ba9ddaad604358e2693a478754ba5c631b719dad86a12006dc7b658",
+    "c108fd829221e9e49b36c2b714f06ac8834e609734a8935e39ee66c76e500d56",
+    "e03d8f642814ae50106706baca1583e3abca20958464f420f9831314bd0068ae",
+    "f0bd5886ee0e7860a632ad5c474b81d7180350809080dbde54c36a578a705f4f",
+    "dfed7cdf56b2edf65c0e0c9a12e976aabdc0546c100ffe79c969e1002b131f82",
+    "40ddf475f4925c0fc82bbdfd7a95a52b0109a999d8e28a480c61a46019cc9750"
+  ],
+  "character_motion_samples": [
+    {
+      "kael": [
+        620.0,
+        660.0,
+        3.983,
+        "seal",
+        false
+      ],
+      "mira": [
+        450.0,
+        660.0,
+        3.983,
+        "point",
+        false
+      ],
+      "riven": [
+        820.0,
+        660.0,
+        3.983,
+        "point",
+        false
+      ],
+      "elder": [
+        1040.0,
+        660.0,
+        3.983,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        228.975,
+        660.75,
+        0.6,
+        "walk",
+        true
+      ],
+      "mira": [
+        504.663,
+        660.75,
+        0.6,
+        "walk",
+        false
+      ],
+      "riven": [
+        790.375,
+        660.75,
+        0.6,
+        "walk",
+        false
+      ],
+      "elder": [
+        1061.05,
+        660.75,
+        0.6,
+        "walk",
+        false
+      ]
+    },
+    {
+      "kael": [
+        227.95,
+        661.5,
+        1.2,
+        "walk",
+        false
+      ],
+      "mira": [
+        504.325,
+        661.5,
+        1.2,
+        "walk",
+        false
+      ],
+      "riven": [
+        790.75,
+        661.5,
+        1.2,
+        "walk",
+        false
+      ],
+      "elder": [
+        1062.1,
+        661.5,
+        1.2,
+        "walk",
+        false
+      ]
+    },
+    {
+      "kael": [
+        226.925,
+        662.25,
+        1.8,
+        "walk",
+        false
+      ],
+      "mira": [
+        503.987,
+        662.25,
+        1.8,
+        "walk",
+        false
+      ],
+      "riven": [
+        791.125,
+        662.25,
+        1.8,
+        "walk",
+        false
+      ],
+      "elder": [
+        1063.15,
+        662.25,
+        1.8,
+        "walk",
+        false
+      ]
+    },
+    {
+      "kael": [
+        225.9,
+        663.0,
+        2.4,
+        "walk",
+        false
+      ],
+      "mira": [
+        503.65,
+        663.0,
+        2.4,
+        "walk",
+        false
+      ],
+      "riven": [
+        791.5,
+        663.0,
+        2.4,
+        "walk",
+        false
+      ],
+      "elder": [
+        1064.2,
+        663.0,
+        2.4,
+        "walk",
+        false
+      ]
+    },
+    {
+      "kael": [
+        224.875,
+        663.75,
+        3.0,
+        "walk",
+        false
+      ],
+      "mira": [
+        503.312,
+        663.75,
+        3.0,
+        "walk",
+        false
+      ],
+      "riven": [
+        791.875,
+        663.75,
+        3.0,
+        "walk",
+        false
+      ],
+      "elder": [
+        1065.25,
+        663.75,
+        3.0,
+        "walk",
+        false
+      ]
+    },
+    {
+      "kael": [
+        223.85,
+        664.5,
+        3.6,
+        "walk",
+        false
+      ],
+      "mira": [
+        502.975,
+        664.5,
+        3.6,
+        "walk",
+        false
+      ],
+      "riven": [
+        792.25,
+        664.5,
+        3.6,
+        "walk",
+        false
+      ],
+      "elder": [
+        1066.3,
+        664.5,
+        3.6,
+        "walk",
+        false
+      ]
+    },
+    {
+      "kael": [
+        222.825,
+        665.25,
+        4.2,
+        "listen",
+        false
+      ],
+      "mira": [
+        502.637,
+        665.25,
+        4.2,
+        "listen",
+        false
+      ],
+      "riven": [
+        792.625,
+        665.25,
+        4.2,
+        "listen",
+        false
+      ],
+      "elder": [
+        1067.35,
+        665.25,
+        4.2,
+        "listen",
+        false
+      ]
+    },
+    {
+      "kael": [
+        221.8,
+        666.0,
+        4.8,
+        "listen",
+        false
+      ],
+      "mira": [
+        502.3,
+        666.0,
+        4.8,
+        "listen",
+        false
+      ],
+      "riven": [
+        793.0,
+        666.0,
+        4.8,
+        "listen",
+        false
+      ],
+      "elder": [
+        1068.4,
+        666.0,
+        4.8,
+        "listen",
+        false
+      ]
+    },
+    {
+      "kael": [
+        220.775,
+        666.75,
+        5.4,
+        "listen",
+        false
+      ],
+      "mira": [
+        501.962,
+        666.75,
+        5.4,
+        "listen",
+        false
+      ],
+      "riven": [
+        793.375,
+        666.75,
+        5.4,
+        "listen",
+        false
+      ],
+      "elder": [
+        1069.45,
+        666.75,
+        5.4,
+        "listen",
+        false
+      ]
+    }
+  ],
+  "description": "As the friends turn toward the stairs, a second socket flickers crimson behind them. Far above, the repaired sky reveals one unfamiliar star; the next story has begun."
+}

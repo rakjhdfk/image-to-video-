@@ -1,0 +1,98 @@
+{
+  "renderer": "original procedural cel-shaded articulated 2D drawings",
+  "characters": {
+    "kael": {
+      "id": "KAEL_ARDYN_01",
+      "name": "Kael Ardyn",
+      "age": 19,
+      "hair": "#151b2d",
+      "hairlight": "#34475d",
+      "coat": "#14273d",
+      "coatlight": "#23445d",
+      "coatshadow": "#0c1728",
+      "trim": "#6aadb4",
+      "iris": "#42c8b8",
+      "skin": "#e7b394",
+      "shade": "#bc8178",
+      "shirt": "#dce7e7",
+      "accent": "#6fdad2",
+      "voice": "young_indian_english_male"
+    },
+    "mira": {
+      "id": "MIRA_VEYNE_01",
+      "name": "Mira Veyne",
+      "age": 20,
+      "hair": "#cbd4e8",
+      "hairlight": "#f0f5ff",
+      "coat": "#34374f",
+      "coatlight": "#505976",
+      "coatshadow": "#202237",
+      "trim": "#c4b5e5",
+      "iris": "#a788ed",
+      "skin": "#f0c6b4",
+      "shade": "#c08d91",
+      "shirt": "#dfe4ef",
+      "accent": "#d7c1ff",
+      "voice": "young_indian_english_female"
+    },
+    "riven": {
+      "id": "RIVEN_SOL_01",
+      "name": "Riven Sol",
+      "age": 21,
+      "hair": "#622536",
+      "hairlight": "#b14a50",
+      "coat": "#24212d",
+      "coatlight": "#493143",
+      "coatshadow": "#151623",
+      "trim": "#dd5664",
+      "iris": "#e6a260",
+      "skin": "#dca58b",
+      "shade": "#aa6b68",
+      "shirt": "#302b3b",
+      "accent": "#fa6c77",
+      "voice": "young_indian_english_male_energetic"
+    },
+    "elder": {
+      "id": "ACADEMY_ELDER_01",
+      "name": "The Academy Elder",
+      "age": 70,
+      "hair": "#d6d6dc",
+      "hairlight": "#ffffff",
+      "coat": "#272638",
+      "coatlight": "#474158",
+      "coatshadow": "#171827",
+      "trim": "#c6ab63",
+      "iris": "#9e9caf",
+      "skin": "#d7b29d",
+      "shade": "#a07e7d",
+      "shirt": "#9c94aa",
+      "accent": "#ffdf88",
+      "voice": "older_indian_english_male"
+    }
+  },
+  "voice_only": {
+    "ancient": {
+      "identity": "ancient magical consciousness",
+      "visual": "abstract origin glyphs; no humanoid body"
+    },
+    "narrator": {
+      "identity": "off-screen cinematic narrator",
+      "visual": null
+    }
+  },
+  "references": [
+    "/workspace/image-to-video-/anime_pipeline/output/characters/kael/turnaround.png",
+    "/workspace/image-to-video-/anime_pipeline/output/characters/kael/expressions.png",
+    "/workspace/image-to-video-/anime_pipeline/output/characters/kael/actions.png",
+    "/workspace/image-to-video-/anime_pipeline/output/characters/mira/turnaround.png",
+    "/workspace/image-to-video-/anime_pipeline/output/characters/mira/expressions.png",
+    "/workspace/image-to-video-/anime_pipeline/output/characters/mira/actions.png",
+    "/workspace/image-to-video-/anime_pipeline/output/characters/riven/turnaround.png",
+    "/workspace/image-to-video-/anime_pipeline/output/characters/riven/expressions.png",
+    "/workspace/image-to-video-/anime_pipeline/output/characters/riven/actions.png",
+    "/workspace/image-to-video-/anime_pipeline/output/characters/elder/turnaround.png",
+    "/workspace/image-to-video-/anime_pipeline/output/characters/elder/expressions.png",
+    "/workspace/image-to-video-/anime_pipeline/output/characters/elder/actions.png"
+  ],
+  "quality_note": "These are generated original vector-style rig references, not high-detail hand-drawn or diffusion-generated anime assets."
+}

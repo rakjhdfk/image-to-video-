@@ -1,0 +1,32 @@
+{
+  "file": "/workspace/image-to-video-/anime_pipeline/output/THE_MAGICAL_WORLD_EP01_720P.mp4",
+  "technical_pass": true,
+  "checks": {
+    "duration": true,
+    "video_frames": true,
+    "resolution": true,
+    "fps": true,
+    "h264": true,
+    "aac": true,
+    "audio_48k": true,
+    "full_decode": true,
+    "no_black_segments": true,
+    "no_frozen_segments_over_2s": true
+  },
+  "actual": {
+    "seconds": 600.0,
+    "frames": "14400",
+    "dimensions": [
+      1280,
+      720
+    ],
+    "fps": "24/1",
+    "bytes": 215302921
+  },
+  "production_mode": "independent 2D character rigs with painted plates and animated tracked effects",
+  "visual_review": "Representative sample and story beats must be reviewed; automated stream checks do not certify premium anime quality or anatomical correctness.",
+  "voice_review": "See audio_report.json and voices/dialogue_manifest.json for actual backend, timing and transformed voice identities; emotion and natural male voice quality are limited by the source model.",
+  "shots_completed": 60,
+  "timeline_seconds": 600,
+  "continuity_limitations": "Motivated location cuts and keyed screen blocking; hand-drawn in-between frames and diffusion temporal conditioning are not used."
+}

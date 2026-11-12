@@ -1,0 +1,141 @@
+{
+  "source": "Original generated anime background paintings; image_gen; two 2x2 atlases, cropped and resized for the requested Python production pipeline. No external stock art.",
+  "native_atlas_size": [
+    1672,
+    941
+  ],
+  "delivery_size": [
+    1280,
+    720
+  ],
+  "assets": [
+    {
+      "name": "city",
+      "path": "/workspace/image-to-video-/anime_pipeline/output/backgrounds/city.png",
+      "source_atlas": 1,
+      "crop": [
+        0,
+        0,
+        836,
+        470
+      ],
+      "native_crop_size": [
+        836,
+        470
+      ],
+      "sha256": "8fcf7a8e9f39c40b6fb270d2d723b15a423f93c82b54bfd3e06a687be0c719cf"
+    },
+    {
+      "name": "street",
+      "path": "/workspace/image-to-video-/anime_pipeline/output/backgrounds/street.png",
+      "source_atlas": 1,
+      "crop": [
+        836,
+        0,
+        1672,
+        470
+      ],
+      "native_crop_size": [
+        836,
+        470
+      ],
+      "sha256": "66c478f5a496cc2bd30bea871e9e48339322df049c2ecf407f4e542d8649b850"
+    },
+    {
+      "name": "academy",
+      "path": "/workspace/image-to-video-/anime_pipeline/output/backgrounds/academy.png",
+      "source_atlas": 1,
+      "crop": [
+        0,
+        471,
+        836,
+        941
+      ],
+      "native_crop_size": [
+        836,
+        470
+      ],
+      "sha256": "68f28ec5e9e3733644443b4f22010d4d07640e7bc20dd9dd871d0be0f3d7d97c"
+    },
+    {
+      "name": "courtyard",
+      "path": "/workspace/image-to-video-/anime_pipeline/output/backgrounds/courtyard.png",
+      "source_atlas": 1,
+      "crop": [
+        836,
+        471,
+        1672,
+        941
+      ],
+      "native_crop_size": [
+        836,
+        470
+      ],
+      "sha256": "02d9c1bdd778917e6fbea1c567b2cd6cc11d88c1dd51cae57579a27a416c0c2a"
+    },
+    {
+      "name": "ruins",
+      "path": "/workspace/image-to-video-/anime_pipeline/output/backgrounds/ruins.png",
+      "source_atlas": 2,
+      "crop": [
+        0,
+        0,
+        836,
+        470
+      ],
+      "native_crop_size": [
+        836,
+        470
+      ],
+      "sha256": "91175e62abd7bef6ee3e525618b7841f6bafb5bd0c4da036ce75f3b809faf6b2"
+    },
+    {
+      "name": "tower",
+      "path": "/workspace/image-to-video-/anime_pipeline/output/backgrounds/tower.png",
+      "source_atlas": 2,
+      "crop": [
+        836,
+        0,
+        1672,
+        470
+      ],
+      "native_crop_size": [
+        836,
+        470
+      ],
+      "sha256": "def23c5e10501c95b5213b9c105ffdf23409196d2b560fbc640c4f18782c4b94"
+    },
+    {
+      "name": "seal",
+      "path": "/workspace/image-to-video-/anime_pipeline/output/backgrounds/seal.png",
+      "source_atlas": 2,
+      "crop": [
+        0,
+        471,
+        836,
+        941
+      ],
+      "native_crop_size": [
+        836,
+        470
+      ],
+      "sha256": "4d2f9f8c7c27ef403918dc9e31c5f04e24ae409bf9f1842dfba20eb1e87d0bcc"
+    },
+    {
+      "name": "courtyard_dusk",
+      "path": "/workspace/image-to-video-/anime_pipeline/output/backgrounds/courtyard_dusk.png",
+      "source_atlas": 2,
+      "crop": [
+        836,
+        471,
+        1672,
+        941
+      ],
+      "native_crop_size": [
+        836,
+        470
+      ],
+      "sha256": "01dcf6e426d900723e099bb0522f095a9e67c9f50119b64627d0e854a2331409"
+    }
+  ]
+}

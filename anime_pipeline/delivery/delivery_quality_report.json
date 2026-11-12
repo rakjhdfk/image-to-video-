@@ -1,0 +1,32 @@
+{
+  "technical_pass": true,
+  "checks": {
+    "seconds": true,
+    "video_frames": true,
+    "resolution": true,
+    "fps": true,
+    "video_codec": true,
+    "audio_codec": true,
+    "audio_sample_rate": true,
+    "under_github_100mib_limit": true,
+    "full_decode": true
+  },
+  "file": "THE_MAGICAL_WORLD_EP01_720P.mp4",
+  "seconds": 600,
+  "frames": 14400,
+  "resolution": [
+    1280,
+    720
+  ],
+  "fps": 24,
+  "bytes": 82656633,
+  "sha256": "4ffd1fa45b3cb9ff6c27c81bc33cd294438559885917d8d62bb5717c25c061f4",
+  "source_master_quality_report": "../output/quality_report.json",
+  "encoding": "H.264 delivery transcode at900kb/s video target, unchanged1280x720 and24fps; original AAC audio copied",
+  "status": "Prepared locally; not published or client-download verified",
+  "limitations": [
+    "Procedural 2D animation does not meet the premium hand-drawn anime target.",
+    "Voice identities are processed profiles of one Indian English female neural speaker.",
+    "Windows and GTX1660 operation remain untested."
+  ]
+}

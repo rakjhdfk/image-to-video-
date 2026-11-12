@@ -1,0 +1,321 @@
+{
+  "fingerprint": "cfc54a65d1474a276a09723c28a6ec3765c6d13bed98beaf158837f929eb20b3",
+  "frames": 240,
+  "duration": 10,
+  "render_seconds": 14.06,
+  "sample_frame_hashes": [
+    "a1dae5e99f5e8629e96da7448aff8d095b226dea70868341626f8165417bbf91",
+    "b40520dda6fe1abd3341f413a20408b149d5602f03d92f9535731878dd54a393",
+    "55a0b87395388209ba2928268f7a19939597aaf261b9d903d39667810822e144",
+    "e8374f22c9dde58d6f50520c9d26fd282ae4ea253e19e47720d0ef86062c13d0",
+    "f8bc39d8c9791f88b59c0715a1562939ee9517a3d5496512f809ad167f9eedd9",
+    "f57e22fe907b834e6fb74659a9e5dd06d652ec4ece24ed71b19216e28fdd3ab4",
+    "dc534ea6ec82e47d321b1943540740c7545ebc75a277e6694d9f337b961bf7cb",
+    "f9f67bac2e47ad20bdffef271e06f8d26e9b604fe5e68800604ae5f26f009fd9",
+    "34d1dd8368327d49184168c6c640cf7293743821fee72a76bdc27a7b934e5a69",
+    "16e191ee509653ddd9d98ab0a0d7802fa598d594bc85eaf29a7ad8d7aadb5dfc"
+  ],
+  "character_motion_samples": [
+    {
+      "kael": [
+        350.0,
+        660.0,
+        3.485,
+        "weave",
+        false
+      ],
+      "mira": [
+        650.0,
+        660.0,
+        3.485,
+        "weave",
+        false
+      ],
+      "riven": [
+        830.0,
+        660.0,
+        3.485,
+        "weave",
+        false
+      ],
+      "elder": [
+        190.0,
+        660.0,
+        3.485,
+        "point",
+        false
+      ]
+    },
+    {
+      "kael": [
+        469.575,
+        660.75,
+        0.35,
+        "seal",
+        true
+      ],
+      "mira": [
+        650.025,
+        660.75,
+        0.4,
+        "weave",
+        false
+      ],
+      "riven": [
+        830.475,
+        660.75,
+        0.4,
+        "weave",
+        false
+      ],
+      "elder": [
+        188.875,
+        660.75,
+        0.4,
+        "weave",
+        false
+      ]
+    },
+    {
+      "kael": [
+        469.15,
+        661.5,
+        0.7,
+        "seal",
+        true
+      ],
+      "mira": [
+        650.05,
+        661.5,
+        0.8,
+        "weave",
+        false
+      ],
+      "riven": [
+        830.95,
+        661.5,
+        0.8,
+        "weave",
+        false
+      ],
+      "elder": [
+        187.75,
+        661.5,
+        0.8,
+        "weave",
+        false
+      ]
+    },
+    {
+      "kael": [
+        468.725,
+        662.25,
+        1.05,
+        "seal",
+        true
+      ],
+      "mira": [
+        650.075,
+        662.25,
+        1.2,
+        "weave",
+        false
+      ],
+      "riven": [
+        831.425,
+        662.25,
+        1.2,
+        "weave",
+        false
+      ],
+      "elder": [
+        186.625,
+        662.25,
+        1.2,
+        "weave",
+        false
+      ]
+    },
+    {
+      "kael": [
+        468.3,
+        663.0,
+        1.4,
+        "seal",
+        false
+      ],
+      "mira": [
+        650.1,
+        663.0,
+        1.6,
+        "weave",
+        false
+      ],
+      "riven": [
+        831.9,
+        663.0,
+        1.6,
+        "weave",
+        false
+      ],
+      "elder": [
+        185.5,
+        663.0,
+        1.6,
+        "weave",
+        false
+      ]
+    },
+    {
+      "kael": [
+        467.875,
+        663.75,
+        1.75,
+        "seal",
+        false
+      ],
+      "mira": [
+        650.125,
+        663.75,
+        2.0,
+        "weave",
+        false
+      ],
+      "riven": [
+        832.375,
+        663.75,
+        2.0,
+        "weave",
+        false
+      ],
+      "elder": [
+        184.375,
+        663.75,
+        2.0,
+        "weave",
+        false
+      ]
+    },
+    {
+      "kael": [
+        467.45,
+        664.5,
+        2.1,
+        "seal",
+        false
+      ],
+      "mira": [
+        650.15,
+        664.5,
+        2.4,
+        "weave",
+        false
+      ],
+      "riven": [
+        832.85,
+        664.5,
+        2.4,
+        "weave",
+        false
+      ],
+      "elder": [
+        183.25,
+        664.5,
+        2.4,
+        "weave",
+        false
+      ]
+    },
+    {
+      "kael": [
+        467.025,
+        665.25,
+        2.45,
+        "seal",
+        false
+      ],
+      "mira": [
+        650.175,
+        665.25,
+        2.8,
+        "idle",
+        false
+      ],
+      "riven": [
+        833.325,
+        665.25,
+        2.8,
+        "idle",
+        false
+      ],
+      "elder": [
+        182.125,
+        665.25,
+        2.8,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        466.6,
+        666.0,
+        2.8,
+        "seal",
+        false
+      ],
+      "mira": [
+        650.2,
+        666.0,
+        3.2,
+        "idle",
+        false
+      ],
+      "riven": [
+        833.8,
+        666.0,
+        3.2,
+        "idle",
+        false
+      ],
+      "elder": [
+        181.0,
+        666.0,
+        3.2,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        466.175,
+        666.75,
+        3.15,
+        "seal",
+        false
+      ],
+      "mira": [
+        650.225,
+        666.75,
+        3.6,
+        "idle",
+        false
+      ],
+      "riven": [
+        834.275,
+        666.75,
+        3.6,
+        "idle",
+        false
+      ],
+      "elder": [
+        179.875,
+        666.75,
+        3.6,
+        "idle",
+        false
+      ]
+    }
+  ],
+  "description": "Kael folds the anchor into a closed woven loop. The void retracts upward, the rift pinches shut, and the last violet fragments dissolve above the court."
+}

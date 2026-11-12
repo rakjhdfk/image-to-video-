@@ -1,0 +1,251 @@
+{
+  "fingerprint": "ffdbc481c0769ddedbabd878283d7ab5233496594fce236d1c771734f9b55751",
+  "frames": 240,
+  "duration": 10,
+  "render_seconds": 14.95,
+  "sample_frame_hashes": [
+    "9d4876be9029d63361e49d3841e4ac722cf865c5c74cc76e0187615ddaaff39f",
+    "6691a07f4a0f82cf546350ef7dcba31e27ad44f92877dd61b706c3a415437d62",
+    "471242f70ca640741f1647aa6f7884fae7e9a052157fe2614e04616500f5e06a",
+    "4e57d68b4fa75363dc4a39a45bea7479b0d8ccdd1f5e9ded3f828eafd5933b7c",
+    "20bae50bebf36bde7bf5487d5acc8f7e6c433a8e6c0aa09c3b5a340c4c715b8e",
+    "15ebaeb25633db076c49d480d5fa7c73a1e829b050a23316e302e3dad0b56f22",
+    "4645979de73513b8433ea7ca47b5e25da1af70788269363ccd4b0bc41bc22a1f",
+    "7a4d27a10a2dea307aea17fed4ba30264eaa4bf713fb6e4ef969bdd631ff3668",
+    "5186eaf0cdbf2b0934d72d1627d63bd17bca01e4978317d8532227ff13f89584",
+    "e21aa500e963e57cb29e1f34f5d1b5219cdd157fb000d452b095a75c816bd51d"
+  ],
+  "character_motion_samples": [
+    {
+      "riven": [
+        785.6,
+        672.0,
+        12.688,
+        "battle",
+        false
+      ],
+      "mira": [
+        567.2,
+        672.0,
+        12.688,
+        "point",
+        false
+      ],
+      "kael": [
+        338.4,
+        672.0,
+        12.688,
+        "listen",
+        false
+      ]
+    },
+    {
+      "riven": [
+        408.023,
+        672.0,
+        0.85,
+        "attack",
+        true
+      ],
+      "mira": [
+        725.618,
+        672.0,
+        3.86,
+        "idle",
+        false
+      ],
+      "kael": [
+        226.418,
+        672.0,
+        3.86,
+        "idle",
+        false
+      ]
+    },
+    {
+      "riven": [
+        413.239,
+        672.0,
+        1.5,
+        "attack",
+        true
+      ],
+      "mira": [
+        717.792,
+        672.0,
+        4.86,
+        "idle",
+        false
+      ],
+      "kael": [
+        218.592,
+        672.0,
+        4.86,
+        "idle",
+        false
+      ]
+    },
+    {
+      "riven": [
+        424.942,
+        672.0,
+        2.15,
+        "attack",
+        false
+      ],
+      "mira": [
+        710.276,
+        672.0,
+        5.86,
+        "idle",
+        false
+      ],
+      "kael": [
+        211.076,
+        672.0,
+        5.86,
+        "idle",
+        false
+      ]
+    },
+    {
+      "riven": [
+        441.219,
+        672.0,
+        2.8,
+        "attack",
+        false
+      ],
+      "mira": [
+        703.216,
+        672.0,
+        6.86,
+        "idle",
+        false
+      ],
+      "kael": [
+        204.016,
+        672.0,
+        6.86,
+        "idle",
+        false
+      ]
+    },
+    {
+      "riven": [
+        460.151,
+        672.0,
+        3.45,
+        "attack",
+        false
+      ],
+      "mira": [
+        696.751,
+        672.0,
+        7.86,
+        "idle",
+        false
+      ],
+      "kael": [
+        197.551,
+        672.0,
+        7.86,
+        "idle",
+        false
+      ]
+    },
+    {
+      "riven": [
+        479.803,
+        672.0,
+        4.1,
+        "attack",
+        false
+      ],
+      "mira": [
+        691.006,
+        672.0,
+        8.86,
+        "idle",
+        false
+      ],
+      "kael": [
+        191.806,
+        672.0,
+        8.86,
+        "idle",
+        false
+      ]
+    },
+    {
+      "riven": [
+        498.23,
+        672.0,
+        4.75,
+        "attack",
+        false
+      ],
+      "mira": [
+        686.096,
+        672.0,
+        9.86,
+        "idle",
+        true
+      ],
+      "kael": [
+        186.896,
+        672.0,
+        9.86,
+        "idle",
+        false
+      ]
+    },
+    {
+      "riven": [
+        513.468,
+        672.0,
+        5.4,
+        "attack",
+        false
+      ],
+      "mira": [
+        682.114,
+        672.0,
+        10.86,
+        "idle",
+        false
+      ],
+      "kael": [
+        182.914,
+        672.0,
+        10.86,
+        "idle",
+        false
+      ]
+    },
+    {
+      "riven": [
+        523.536,
+        672.0,
+        6.05,
+        "attack",
+        false
+      ],
+      "mira": [
+        679.14,
+        672.0,
+        11.86,
+        "idle",
+        false
+      ],
+      "kael": [
+        179.94,
+        672.0,
+        11.86,
+        "idle",
+        false
+      ]
+    }
+  ],
+  "description": "Riven intercepts the wraith with a short lightning strike; its armour opens to let the bolt pass and seals immediately behind it."
+}

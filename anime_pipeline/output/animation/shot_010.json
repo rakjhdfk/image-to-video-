@@ -1,0 +1,251 @@
+{
+  "fingerprint": "890ea26b6e8769d53f4ece3dcfd37337418c86d57b8e52a898328260d4b6e95d",
+  "frames": 240,
+  "duration": 10,
+  "render_seconds": 15.82,
+  "sample_frame_hashes": [
+    "b8e44182dd85e7b4f19d3a5c50494be674a99d74fd63bf5244fc7bc93c6bd256",
+    "10e478c4242cea49ead0e34a20adcf8698b50585ff34ec5f40ec015afad75756",
+    "da4842b3158054063590ce780927fc7a4862f5f08498ed186222a1f119084ed4",
+    "61e9662dcf9448bd2c361924b5069cbd4b0848f4ceb41013d989ff91e7987902",
+    "32ba3e21657d6ad7846f6dbfbdb3e6930641ad23171e8ca1a50e3568a37b4a7a",
+    "777496a80f4ef5b2ec46e8c78ad957f5f0c899b720149c51c7ad1f7d43c3a316",
+    "fb6859ece5ecccdc8f707e247dbe5e13cae026edf6c725fab88a3802fa007cb0",
+    "7c430e21c82c74b35b22d8727d7d49861bc97a2982d81dece05a94a027e1ad0f",
+    "8f962d5a422e265b0c45d9b513d70a82b09d0925ec3cab0428d07435c619bb12",
+    "78962804416ae18e8f331e9bbf64e4f54e5651a790a35cfeb2c81fe26dd31c2c"
+  ],
+  "character_motion_samples": [
+    {
+      "kael": [
+        457.914,
+        808.8,
+        11.128,
+        "listen",
+        false
+      ],
+      "elder": [
+        920.314,
+        808.8,
+        11.128,
+        "idle",
+        false
+      ],
+      "mira": [
+        1178.714,
+        808.8,
+        1.3,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        457.244,
+        810.45,
+        2.3,
+        "listen",
+        false
+      ],
+      "elder": [
+        921.344,
+        810.45,
+        2.3,
+        "talk",
+        true
+      ],
+      "mira": [
+        1180.694,
+        810.45,
+        2.3,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        456.575,
+        812.1,
+        3.3,
+        "listen",
+        false
+      ],
+      "elder": [
+        922.375,
+        812.1,
+        3.3,
+        "talk",
+        true
+      ],
+      "mira": [
+        1182.675,
+        812.1,
+        3.3,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        455.905,
+        813.75,
+        4.3,
+        "listen",
+        false
+      ],
+      "elder": [
+        923.405,
+        813.75,
+        4.3,
+        "talk",
+        true
+      ],
+      "mira": [
+        1184.655,
+        813.75,
+        4.3,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        455.236,
+        815.4,
+        5.3,
+        "listen",
+        false
+      ],
+      "elder": [
+        924.436,
+        815.4,
+        5.3,
+        "talk",
+        true
+      ],
+      "mira": [
+        1186.636,
+        815.4,
+        5.3,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        454.567,
+        817.05,
+        6.3,
+        "listen",
+        true
+      ],
+      "elder": [
+        925.467,
+        817.05,
+        6.3,
+        "idle",
+        false
+      ],
+      "mira": [
+        1188.617,
+        817.05,
+        6.3,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        453.897,
+        818.7,
+        7.3,
+        "listen",
+        true
+      ],
+      "elder": [
+        926.497,
+        818.7,
+        7.3,
+        "idle",
+        false
+      ],
+      "mira": [
+        1190.597,
+        818.7,
+        7.3,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        453.228,
+        820.35,
+        8.3,
+        "listen",
+        false
+      ],
+      "elder": [
+        927.528,
+        820.35,
+        8.3,
+        "idle",
+        false
+      ],
+      "mira": [
+        1192.578,
+        820.35,
+        8.3,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        452.558,
+        822.0,
+        9.3,
+        "listen",
+        false
+      ],
+      "elder": [
+        928.558,
+        822.0,
+        9.3,
+        "idle",
+        false
+      ],
+      "mira": [
+        1194.558,
+        822.0,
+        9.3,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        451.889,
+        823.65,
+        10.3,
+        "listen",
+        false
+      ],
+      "elder": [
+        929.589,
+        823.65,
+        10.3,
+        "idle",
+        false
+      ],
+      "mira": [
+        1196.539,
+        823.65,
+        10.3,
+        "idle",
+        false
+      ]
+    }
+  ],
+  "description": "Before the Elder can answer, the ceremony horn calls. He withdraws, leaving Kael with a warning that sounds more personal than official."
+}

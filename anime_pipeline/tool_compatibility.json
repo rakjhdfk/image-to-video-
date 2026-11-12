@@ -1,0 +1,159 @@
+{
+  "checked_date_client": "2026-11-12",
+  "research_method": "Read current official README/license/model-registry files over verified HTTPS and resolve exact branch refs with read-only git ls-remote. No candidate model was installed by this research task. Branch observations are not immutable model provenance.",
+  "current_runtime": {
+    "os": "Linux",
+    "nvidia_gpu_available": false,
+    "cpu_allocation": 5,
+    "memory_gib_approx": 33
+  },
+  "target_runtime": {
+    "os": "Windows11",
+    "cpu": "IntelCorei7-10750H",
+    "ram_gib": 16,
+    "gpu": "NVIDIA GTX1660-series",
+    "vram_gib": 6,
+    "hardware_tested": false
+  },
+  "tools": [
+    {
+      "id": "ComfyUI",
+      "repository": "Comfy-Org/ComfyUI",
+      "branch": "master",
+      "enabled": false,
+      "purpose": "Node-based image/video inference orchestration; not an animation guarantee by itself.",
+      "code_license": "GPL-3.0",
+      "windows": "Official desktop/manual/portable installation documented.",
+      "hardware": "README describes CPU-only portable execution, VRAM offload/streaming and quantized models. GPU/VRAM viability remains checkpoint-, resolution-, batch- and workflow-dependent.",
+      "gtx_1660_6gb": "Not tested. Current README lists default CUDA13 portable for NVIDIA20-series and above and a cu126 alternative described for10-series and older;16-series is not explicitly named. Verify driver/PyTorch architecture and select a compatible manual installation before loading models.",
+      "indian_english": "Not a TTS engine; no Indian English capability established.",
+      "anime_lipsync": "Not established by installing ComfyUI. Requires a separately verified workflow/model.",
+      "commercial_use": "GPL permits commercial use subject to its obligations. Every checkpoint, custom node, training/reference asset and redistribution has separate terms; framework license does not license model outputs universally.",
+      "reason_disabled": "No GPU/model workflow configured; lightweight native2D animation is the current execution route.",
+      "commit_observed": "b2f670744386d36d39c41cc37cd1e30151046222",
+      "sources": {
+        "README.md": "https://raw.githubusercontent.com/Comfy-Org/ComfyUI/master/README.md",
+        "LICENSE": "https://raw.githubusercontent.com/Comfy-Org/ComfyUI/master/LICENSE"
+      },
+      "evidence_sha256": {
+        "README.md": "7b4ef883d0f634223598f4d03f42773e408b6ccbfb1f340fb54f321bef6f9dde",
+        "LICENSE": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+      },
+      "execution_tested_here": false
+    },
+    {
+      "id": "FFmpeg",
+      "repository": "FFmpeg/FFmpeg",
+      "branch": "master",
+      "enabled": true,
+      "purpose": "H.264/AAC encoding, audio processing, muxing and technical video validation.",
+      "code_license": "Upstream mainly LGPL-2.1-or-later; --enable-gpl changes the resulting build to GPL-2.0-or-later. This installed binary reports GPLv2-or-later.",
+      "windows": "Official source is cross-platform; a separate trusted Windows build with required codecs must be installed and its own configuration/license checked.",
+      "hardware": "CPU encoding available. No NVIDIA GPU required. libx264 and AAC are present in this cloud runtime.",
+      "gtx_1660_6gb": "Not required for CPU pipeline; NVENC functionality is not tested or assumed.",
+      "indian_english": "No voice-generation or accent guarantee.",
+      "anime_lipsync": "Not an anime mouth-animation model.",
+      "commercial_use": "Use and redistribution depend on the actual build and enabled libraries. In particular libx264 is a GPL component; do not describe this build as LGPL-only.",
+      "reason_enabled": "Already installed and needed for actual encoding/validation.",
+      "commit_observed": "72f8c3376be3fe77f17a3c3b27eff1326895250f",
+      "sources": {
+        "README.md": "https://raw.githubusercontent.com/FFmpeg/FFmpeg/master/README.md",
+        "LICENSE.md": "https://raw.githubusercontent.com/FFmpeg/FFmpeg/master/LICENSE.md",
+        "COPYING.GPLv2": "https://raw.githubusercontent.com/FFmpeg/FFmpeg/master/COPYING.GPLv2",
+        "COPYING.LGPLv2.1": "https://raw.githubusercontent.com/FFmpeg/FFmpeg/master/COPYING.LGPLv2.1"
+      },
+      "evidence_sha256": {
+        "README.md": "86474c8f0806772f831a9c7a4982fd2398507372c577d229b76f60bbb3e7dead",
+        "LICENSE.md": "e6dc72d5665a1ebd6dcc841de59278dad4ca77ecc47b03f1064a55c3e9ea8bb8",
+        "COPYING.GPLv2": "8177f97513213526df2cf6184d8ff986c675afb514d4e68a404010521b880643",
+        "COPYING.LGPLv2.1": "246041b6ecf9bc32d718a62c57877c78b5eb397b6467e74ed7ae2626ab189c30"
+      },
+      "execution_tested_here": true
+    },
+    {
+      "id": "RIFE",
+      "repository": "nihui/rife-ncnn-vulkan",
+      "branch": "master",
+      "enabled": false,
+      "purpose": "Intermediate frame interpolation between compatible source frames; not generation of story action or character animation.",
+      "code_license": "MIT for this repository code.",
+      "windows": "Portable Windows/Linux/macOS executables and bundled models documented. No CUDA or PyTorch runtime required.",
+      "hardware": "Vulkan GPU support; README also documents -g -1 CPU processing. Thread tuning changes memory use.",
+      "gtx_1660_6gb": "Potential Vulkan route, but this exact GPU/model/resolution combination was not tested. No fixed6GB guarantee established.",
+      "indian_english": "Not applicable.",
+      "anime_lipsync": "README includes a rife-anime model; that is anime frame interpolation, not audio-driven lipsync.",
+      "commercial_use": "MIT permits commercial use of code with notices. Verify exact bundled/model upstream terms before model redistribution; no blanket model-rights assertion made.",
+      "reason_disabled": "Renderer generates native24fps character motion, so interpolation is unnecessary. Never interpolate across incompatible shots/cuts.",
+      "commit_observed": "a7532fc3f9f8f008cd6eecd6f2ffe2a9698e0cf7",
+      "sources": {
+        "README.md": "https://raw.githubusercontent.com/nihui/rife-ncnn-vulkan/master/README.md",
+        "LICENSE": "https://raw.githubusercontent.com/nihui/rife-ncnn-vulkan/master/LICENSE"
+      },
+      "evidence_sha256": {
+        "README.md": "41c0b4aca03751978d7bdd04b8a274e73e772b60e71519d685be9242c6fa934a",
+        "LICENSE": "a73beab18143600af0b10c6050a953ec233775ce31c2bf3373a794db535329fd"
+      },
+      "execution_tested_here": false
+    },
+    {
+      "id": "CoquiTTS",
+      "repository": "idiap/coqui-ai-TTS",
+      "branch": "dev",
+      "enabled": false,
+      "purpose": "Neural TTS framework with many separately licensed models.",
+      "code_license": "MPL-2.0",
+      "windows": "README documents prebuilt Windows wheels and says macOS/Windows should work; tested baseline is Ubuntu24.04, Python>=3.10,<3.15, PyTorch2.2+.",
+      "hardware": "CPU/CUDA selection documented; torch, torchaudio and newer torchcodec must be selected separately. Size and memory requirements are model-specific.",
+      "gtx_1660_6gb": "No exact model/settings benchmark on this GPU verified.",
+      "indian_english": "A model-specific accent/speaker test is required. Framework multilingual support does not establish natural Indian English, expressive acting or suitable female/male identities.",
+      "anime_lipsync": "No direct anime-face guarantee.",
+      "commercial_use": "Framework MPL2 does not grant checkpoint rights. Official model registry lists XTTSv2 and XTTSv1.1 as CPML and other models under distinct licenses including noncommercial ones. Check chosen checkpoint license separately before commercial use.",
+      "reason_disabled": "Parent pipeline is testing a smaller sherpa-onnx/Melo English-India backend; avoid unnecessary heavyweight PyTorch installation.",
+      "commit_observed": "eacbf8b60f9bbae6c1e18f2a2c9b739c6edde1f9",
+      "sources": {
+        "README.md": "https://raw.githubusercontent.com/idiap/coqui-ai-TTS/dev/README.md",
+        "LICENSE.txt": "https://raw.githubusercontent.com/idiap/coqui-ai-TTS/dev/LICENSE.txt",
+        "models.json": "https://raw.githubusercontent.com/idiap/coqui-ai-TTS/dev/TTS/.models.json"
+      },
+      "evidence_sha256": {
+        "README.md": "bb59adbc3483f70bc9b72abece28a02b10d4e2150566b7e922eff5fb8ecd504f",
+        "LICENSE.txt": "1f256ecad192880510e84ad60474eab7589218784b9a50bc7ceee34c2b91f1d5",
+        "models.json": "8450208530276e7f4de7c41eb7c8330b8049594df8c94f6467ee3535d654ed92"
+      },
+      "execution_tested_here": false
+    },
+    {
+      "id": "MuseTalk",
+      "repository": "TMElyralab/MuseTalk",
+      "branch": "main",
+      "enabled": false,
+      "purpose": "Audio-driven local face-region video dubbing/lipsync; does not generate whole-body anime action.",
+      "code_license": "MIT for primary project code; LICENSE also contains third-party Apache2 and BSD notices.",
+      "windows": "Windows installation/demo documented. README recommends Python3.10 and CUDA11.7; includes a PyTorch2.0.1/CUDA11.8 installation example.",
+      "hardware": "README reports30fps+ on TeslaV100. It separately reports Windows RTX3050Ti laptop4GB in fp16 taking approximately5min for8sec. Face region is256x256.",
+      "gtx_1660_6gb": "Not tested. A4GB RTX3050Ti example does not establish GTX1660 performance, dependency support, or acceptable anime results.",
+      "indian_english": "Audio driven, not a TTS/accent generator.",
+      "anime_lipsync": "No validation of anime drawings or this project's rigs found in reviewed README. Landmark/face-region detection must be tested before relying on it.",
+      "commercial_use": "Official README permits commercial primary code/model use, requires compliance with other models' licenses, and limits supplied internet testdata to noncommercial research. Do not redistribute testdata as production assets.",
+      "reason_disabled": "Native rig mouth animation is compatible with original drawn characters; no verified anime MuseTalk path and no GPU in current runtime.",
+      "commit_observed": "0a89dec45a0192b824e3cf4daf96c239440c5ed8",
+      "sources": {
+        "README.md": "https://raw.githubusercontent.com/TMElyralab/MuseTalk/main/README.md",
+        "LICENSE": "https://raw.githubusercontent.com/TMElyralab/MuseTalk/main/LICENSE"
+      },
+      "evidence_sha256": {
+        "README.md": "63587c38fa53bd3292654a71aa6978628db02dd02cc93153030f3d0dca7721bf",
+        "LICENSE": "992ec5fd1dd4964cfa003665196cd0c0c10a7a5aa10109991e964eebd2c7f116"
+      },
+      "execution_tested_here": false
+    }
+  ],
+  "artifact_delivery": {
+    "observed_problem": "Cloud artifact download error for existing valid MP4; smaller MP4 and ZIP did not resolve client delivery.",
+    "outgoing_attachment_or_artifact_registration_tool_available": false,
+    "desktop_browser_or_open_in_codex_tool_available": false,
+    "download_file_tool_direction": "Incoming Sediment uploads only.",
+    "verified_workaround": null,
+    "instruction": "Do not claim that another local file link fixes delivery and do not invent sandbox:/mnt/data or public URLs. External publication requires an available configured destination and appropriate user authorization."
+  }
+}

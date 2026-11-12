@@ -1,0 +1,111 @@
+{
+  "fingerprint": "ba1000b30bb7e0495b19e9c18bfc846ca609b7f1383baea654352ba253116eb9",
+  "frames": 240,
+  "duration": 10,
+  "render_seconds": 13.99,
+  "sample_frame_hashes": [
+    "51872008c9905ca83c015d347609c4ce7f28d7ea0bb85a7069fa1ec53bd2b58e",
+    "c328c0b9ee430e6bcce57c4efe23ff1b2bebe3ce892830a4475ec03630b93347",
+    "5644fb1015e5cf5e93d25f2ae002b048b723f088198ab8bfddee1d1534709a47",
+    "ffbd62aefd313f574c623a812662be49c172a89c5cfb592679be756a1e6826cb",
+    "a5237edbdb91d9202c51d6308e5f70aa7cda41b1f2730c37faa95ac721597017",
+    "a40ef47e067b9c5725230cfe1e131df902bb48f443eaa320dc9e346005e26981",
+    "2055668a3709a842df43c2ff8282877cf0b4627091539b9b69175f4a2a1eb853",
+    "43052de7c131677e7a9edbb10cb2bce0febb13bff1dd9873344a7e5e1c69998d",
+    "0c70a2e53b8532d94cacb75966e41b85b7f86dabb350e89741cc4d4ed5767ca4",
+    "20a63fc997261bb93f6f2f38ef676702087ca7001488d88d0114b8edd6b8b82b"
+  ],
+  "character_motion_samples": [
+    {
+      "kael": [
+        460.0,
+        660.0,
+        0.0,
+        "walk",
+        false
+      ]
+    },
+    {
+      "kael": [
+        469.655,
+        660.75,
+        0.95,
+        "walk",
+        false
+      ]
+    },
+    {
+      "kael": [
+        496.727,
+        661.5,
+        1.9,
+        "walk",
+        false
+      ]
+    },
+    {
+      "kael": [
+        536.993,
+        662.25,
+        2.85,
+        "walk",
+        false
+      ]
+    },
+    {
+      "kael": [
+        586.187,
+        663.0,
+        3.8,
+        "walk",
+        false
+      ]
+    },
+    {
+      "kael": [
+        640.0,
+        663.75,
+        4.75,
+        "walk",
+        false
+      ]
+    },
+    {
+      "kael": [
+        694.079,
+        664.5,
+        5.7,
+        "walk",
+        false
+      ]
+    },
+    {
+      "kael": [
+        744.029,
+        665.25,
+        6.65,
+        "walk",
+        false
+      ]
+    },
+    {
+      "kael": [
+        785.411,
+        666.0,
+        7.6,
+        "walk",
+        false
+      ]
+    },
+    {
+      "kael": [
+        813.743,
+        666.75,
+        8.55,
+        "walk",
+        false
+      ]
+    }
+  ],
+  "description": "Dawn reveals Aetheria's suspended aqueducts and crystal-powered terraces; Kael crosses the lower bridge toward the Academy."
+}

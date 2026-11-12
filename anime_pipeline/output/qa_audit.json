@@ -1,0 +1,873 @@
+{
+  "audit_status": "final_rendered_shots_and_audio_audit",
+  "observed_at_utc": "2026-11-12T02:37:26.707763+00:00",
+  "blocking_issues": [],
+  "checks": {
+    "60_clips_and_states": true,
+    "all_fingerprints_match_current_effective_plan": true,
+    "all_clips_240_frames_10_seconds_native_720p_24fps_h264": true,
+    "total_video_frames": 14400,
+    "600_row_timeline_actual_voice_aligned": true,
+    "120_actual_voice_clips_valid": true,
+    "damaged_set_locations_fixed": true,
+    "audio_600_seconds_48k_stereo": true
+  },
+  "clips": [
+    {
+      "shot": 0,
+      "valid": true,
+      "frames": 240,
+      "seconds": 10.0,
+      "fingerprint_current": true,
+      "unique_sampled_frames": 10,
+      "characters_with_changing_motion_log": [
+        "kael"
+      ]
+    },
+    {
+      "shot": 1,
+      "valid": true,
+      "frames": 240,
+      "seconds": 10.0,
+      "fingerprint_current": true,
+      "unique_sampled_frames": 10,
+      "characters_with_changing_motion_log": [
+        "kael"
+      ]
+    },
+    {
+      "shot": 2,
+      "valid": true,
+      "frames": 240,
+      "seconds": 10.0,
+      "fingerprint_current": true,
+      "unique_sampled_frames": 10,
+      "characters_with_changing_motion_log": [
+        "riven",
+        "kael"
+      ]
+    },
+    {
+      "shot": 3,
+      "valid": true,
+      "frames": 240,
+      "seconds": 10.0,
+      "fingerprint_current": true,
+      "unique_sampled_frames": 10,
+      "characters_with_changing_motion_log": [
+        "riven",
+        "kael",
+        "mira"
+      ]
+    },
+    {
+      "shot": 4,
+      "valid": true,
+      "frames": 240,
+      "seconds": 10.0,
+      "fingerprint_current": true,
+      "unique_sampled_frames": 10,
+      "characters_with_changing_motion_log": [
+        "riven",
+        "kael",
+        "mira"
+      ]
+    },
+    {
+      "shot": 5,
+      "valid": true,
+      "frames": 240,
+      "seconds": 10.0,
+      "fingerprint_current": true,
+      "unique_sampled_frames": 10,
+      "characters_with_changing_motion_log": [
+        "riven",
+        "elder",
+        "kael",
+        "mira"
+      ]
+    },
+    {
+      "shot": 6,
+      "valid": true,
+      "frames": 240,
+      "seconds": 10.0,
+      "fingerprint_current": true,
+      "unique_sampled_frames": 10,
+      "characters_with_changing_motion_log": [
+        "riven",
+        "kael",
+        "mira"
+      ]
+    },
+    {
+      "shot": 7,
+      "valid": true,
+      "frames": 240,
+      "seconds": 10.0,
+      "fingerprint_current": true,
+      "unique_sampled_frames": 10,
+      "characters_with_changing_motion_log": [
+        "riven",
+        "kael",
+        "mira"
+      ]
+    },
+    {
+      "shot": 8,
+      "valid": true,
+      "frames": 240,
+      "seconds": 10.0,
+      "fingerprint_current": true,
+      "unique_sampled_frames": 10,
+      "characters_with_changing_motion_log": [
+        "riven",
+        "kael",
+        "mira"
+      ]
+    },
+    {
+      "shot": 9,
+      "valid": true,
+      "frames": 240,
+      "seconds": 10.0,
+      "fingerprint_current": true,
+      "unique_sampled_frames": 10,
+      "characters_with_changing_motion_log": [
+        "elder",
+        "kael"
+      ]
+    },
+    {
+      "shot": 10,
+      "valid": true,
+      "frames": 240,
+      "seconds": 10.0,
+      "fingerprint_current": true,
+      "unique_sampled_frames": 10,
+      "characters_with_changing_motion_log": [
+        "elder",
+        "kael",
+        "mira"
+      ]
+    },
+    {
+      "shot": 11,
+      "valid": true,
+      "frames": 240,
+      "seconds": 10.0,
+      "fingerprint_current": true,
+      "unique_sampled_frames": 10,
+      "characters_with_changing_motion_log": [
+        "riven",
+        "kael",
+        "mira"
+      ]
+    },
+    {
+      "shot": 12,
+      "valid": true,
+      "frames": 240,
+      "seconds": 10.0,
+      "fingerprint_current": true,
+      "unique_sampled_frames": 10,
+      "characters_with_changing_motion_log": [
+        "riven",
+        "elder",
+        "kael",
+        "mira"
+      ]
+    },
+    {
+      "shot": 13,
+      "valid": true,
+      "frames": 240,
+      "seconds": 10.0,
+      "fingerprint_current": true,
+      "unique_sampled_frames": 10,
+      "characters_with_changing_motion_log": [
+        "elder",
+        "kael",
+        "mira"
+      ]
+    },
+    {
+      "shot": 14,
+      "valid": true,
+      "frames": 240,
+      "seconds": 10.0,
+      "fingerprint_current": true,
+      "unique_sampled_frames": 10,
+      "characters_with_changing_motion_log": [
+        "elder",
+        "riven",
+        "kael",
+        "mira"
+      ]
+    },
+    {
+      "shot": 15,
+      "valid": true,
+      "frames": 240,
+      "seconds": 10.0,
+      "fingerprint_current": true,
+      "unique_sampled_frames": 10,
+      "characters_with_changing_motion_log": [
+        "riven",
+        "elder",
+        "kael",
+        "mira"
+      ]
+    },
+    {
+      "shot": 16,
+      "valid": true,
+      "frames": 240,
+      "seconds": 10.0,
+      "fingerprint_current": true,
+      "unique_sampled_frames": 10,
+      "characters_with_changing_motion_log": [
+        "riven",
+        "elder",
+        "kael",
+        "mira"
+      ]
+    },
+    {
+      "shot": 17,
+      "valid": true,
+      "frames": 240,
+      "seconds": 10.0,
+      "fingerprint_current": true,
+      "unique_sampled_frames": 10,
+      "characters_with_changing_motion_log": [
+        "riven",
+        "elder",
+        "kael",
+        "mira"
+      ]
+    },
+    {
+      "shot": 18,
+      "valid": true,
+      "frames": 240,
+      "seconds": 10.0,
+      "fingerprint_current": true,
+      "unique_sampled_frames": 10,
+      "characters_with_changing_motion_log": [
+        "riven",
+        "elder",
+        "kael",
+        "mira"
+      ]
+    },
+    {
+      "shot": 19,
+      "valid": true,
+      "frames": 240,
+      "seconds": 10.0,
+      "fingerprint_current": true,
+      "unique_sampled_frames": 10,
+      "characters_with_changing_motion_log": [
+        "riven",
+        "elder",
+        "kael",
+        "mira"
+      ]
+    },
+    {
+      "shot": 20,
+      "valid": true,
+      "frames": 240,
+      "seconds": 10.0,
+      "fingerprint_current": true,
+      "unique_sampled_frames": 10,
+      "characters_with_changing_motion_log": [
+        "riven",
+        "kael",
+        "mira"
+      ]
+    },
+    {
+      "shot": 21,
+      "valid": true,
+      "frames": 240,
+      "seconds": 10.0,
+      "fingerprint_current": true,
+      "unique_sampled_frames": 10,
+      "characters_with_changing_motion_log": [
+        "riven",
+        "kael",
+        "mira"
+      ]
+    },
+    {
+      "shot": 22,
+      "valid": true,
+      "frames": 240,
+      "seconds": 10.0,
+      "fingerprint_current": true,
+      "unique_sampled_frames": 10,
+      "characters_with_changing_motion_log": [
+        "riven",
+        "kael",
+        "mira"
+      ]
+    },
+    {
+      "shot": 23,
+      "valid": true,
+      "frames": 240,
+      "seconds": 10.0,
+      "fingerprint_current": true,
+      "unique_sampled_frames": 10,
+      "characters_with_changing_motion_log": [
+        "riven",
+        "elder",
+        "kael",
+        "mira"
+      ]
+    },
+    {
+      "shot": 24,
+      "valid": true,
+      "frames": 240,
+      "seconds": 10.0,
+      "fingerprint_current": true,
+      "unique_sampled_frames": 10,
+      "characters_with_changing_motion_log": [
+        "riven",
+        "kael",
+        "mira"
+      ]
+    },
+    {
+      "shot": 25,
+      "valid": true,
+      "frames": 240,
+      "seconds": 10.0,
+      "fingerprint_current": true,
+      "unique_sampled_frames": 10,
+      "characters_with_changing_motion_log": [
+        "kael"
+      ]
+    },
+    {
+      "shot": 26,
+      "valid": true,
+      "frames": 240,
+      "seconds": 10.0,
+      "fingerprint_current": true,
+      "unique_sampled_frames": 10,
+      "characters_with_changing_motion_log": [
+        "kael",
+        "mira"
+      ]
+    },
+    {
+      "shot": 27,
+      "valid": true,
+      "frames": 240,
+      "seconds": 10.0,
+      "fingerprint_current": true,
+      "unique_sampled_frames": 10,
+      "characters_with_changing_motion_log": [
+        "riven",
+        "kael",
+        "mira"
+      ]
+    },
+    {
+      "shot": 28,
+      "valid": true,
+      "frames": 240,
+      "seconds": 10.0,
+      "fingerprint_current": true,
+      "unique_sampled_frames": 10,
+      "characters_with_changing_motion_log": [
+        "riven",
+        "kael",
+        "mira"
+      ]
+    },
+    {
+      "shot": 29,
+      "valid": true,
+      "frames": 240,
+      "seconds": 10.0,
+      "fingerprint_current": true,
+      "unique_sampled_frames": 10,
+      "characters_with_changing_motion_log": [
+        "riven",
+        "kael",
+        "mira"
+      ]
+    },
+    {
+      "shot": 30,
+      "valid": true,
+      "frames": 240,
+      "seconds": 10.0,
+      "fingerprint_current": true,
+      "unique_sampled_frames": 10,
+      "characters_with_changing_motion_log": [
+        "kael"
+      ]
+    },
+    {
+      "shot": 31,
+      "valid": true,
+      "frames": 240,
+      "seconds": 10.0,
+      "fingerprint_current": true,
+      "unique_sampled_frames": 10,
+      "characters_with_changing_motion_log": [
+        "kael"
+      ]
+    },
+    {
+      "shot": 32,
+      "valid": true,
+      "frames": 240,
+      "seconds": 10.0,
+      "fingerprint_current": true,
+      "unique_sampled_frames": 10,
+      "characters_with_changing_motion_log": [
+        "kael"
+      ]
+    },
+    {
+      "shot": 33,
+      "valid": true,
+      "frames": 240,
+      "seconds": 10.0,
+      "fingerprint_current": true,
+      "unique_sampled_frames": 10,
+      "characters_with_changing_motion_log": [
+        "kael"
+      ]
+    },
+    {
+      "shot": 34,
+      "valid": true,
+      "frames": 240,
+      "seconds": 10.0,
+      "fingerprint_current": true,
+      "unique_sampled_frames": 10,
+      "characters_with_changing_motion_log": [
+        "kael"
+      ]
+    },
+    {
+      "shot": 35,
+      "valid": true,
+      "frames": 240,
+      "seconds": 10.0,
+      "fingerprint_current": true,
+      "unique_sampled_frames": 10,
+      "characters_with_changing_motion_log": [
+        "riven",
+        "kael",
+        "mira"
+      ]
+    },
+    {
+      "shot": 36,
+      "valid": true,
+      "frames": 240,
+      "seconds": 10.0,
+      "fingerprint_current": true,
+      "unique_sampled_frames": 10,
+      "characters_with_changing_motion_log": [
+        "kael",
+        "mira"
+      ]
+    },
+    {
+      "shot": 37,
+      "valid": true,
+      "frames": 240,
+      "seconds": 10.0,
+      "fingerprint_current": true,
+      "unique_sampled_frames": 10,
+      "characters_with_changing_motion_log": [
+        "riven",
+        "kael",
+        "mira"
+      ]
+    },
+    {
+      "shot": 38,
+      "valid": true,
+      "frames": 240,
+      "seconds": 10.0,
+      "fingerprint_current": true,
+      "unique_sampled_frames": 10,
+      "characters_with_changing_motion_log": [
+        "riven",
+        "kael",
+        "mira"
+      ]
+    },
+    {
+      "shot": 39,
+      "valid": true,
+      "frames": 240,
+      "seconds": 10.0,
+      "fingerprint_current": true,
+      "unique_sampled_frames": 10,
+      "characters_with_changing_motion_log": [
+        "riven",
+        "kael",
+        "mira"
+      ]
+    },
+    {
+      "shot": 40,
+      "valid": true,
+      "frames": 240,
+      "seconds": 10.0,
+      "fingerprint_current": true,
+      "unique_sampled_frames": 10,
+      "characters_with_changing_motion_log": [
+        "riven",
+        "kael",
+        "mira"
+      ]
+    },
+    {
+      "shot": 41,
+      "valid": true,
+      "frames": 240,
+      "seconds": 10.0,
+      "fingerprint_current": true,
+      "unique_sampled_frames": 10,
+      "characters_with_changing_motion_log": [
+        "riven",
+        "kael",
+        "mira"
+      ]
+    },
+    {
+      "shot": 42,
+      "valid": true,
+      "frames": 240,
+      "seconds": 10.0,
+      "fingerprint_current": true,
+      "unique_sampled_frames": 10,
+      "characters_with_changing_motion_log": [
+        "riven",
+        "kael",
+        "mira"
+      ]
+    },
+    {
+      "shot": 43,
+      "valid": true,
+      "frames": 240,
+      "seconds": 10.0,
+      "fingerprint_current": true,
+      "unique_sampled_frames": 10,
+      "characters_with_changing_motion_log": [
+        "riven",
+        "kael",
+        "mira"
+      ]
+    },
+    {
+      "shot": 44,
+      "valid": true,
+      "frames": 240,
+      "seconds": 10.0,
+      "fingerprint_current": true,
+      "unique_sampled_frames": 10,
+      "characters_with_changing_motion_log": [
+        "riven",
+        "kael",
+        "mira"
+      ]
+    },
+    {
+      "shot": 45,
+      "valid": true,
+      "frames": 240,
+      "seconds": 10.0,
+      "fingerprint_current": true,
+      "unique_sampled_frames": 10,
+      "characters_with_changing_motion_log": [
+        "riven",
+        "kael",
+        "mira"
+      ]
+    },
+    {
+      "shot": 46,
+      "valid": true,
+      "frames": 240,
+      "seconds": 10.0,
+      "fingerprint_current": true,
+      "unique_sampled_frames": 10,
+      "characters_with_changing_motion_log": [
+        "riven",
+        "elder",
+        "kael",
+        "mira"
+      ]
+    },
+    {
+      "shot": 47,
+      "valid": true,
+      "frames": 240,
+      "seconds": 10.0,
+      "fingerprint_current": true,
+      "unique_sampled_frames": 10,
+      "characters_with_changing_motion_log": [
+        "riven",
+        "elder",
+        "kael",
+        "mira"
+      ]
+    },
+    {
+      "shot": 48,
+      "valid": true,
+      "frames": 240,
+      "seconds": 10.0,
+      "fingerprint_current": true,
+      "unique_sampled_frames": 10,
+      "characters_with_changing_motion_log": [
+        "riven",
+        "kael",
+        "mira"
+      ]
+    },
+    {
+      "shot": 49,
+      "valid": true,
+      "frames": 240,
+      "seconds": 10.0,
+      "fingerprint_current": true,
+      "unique_sampled_frames": 10,
+      "characters_with_changing_motion_log": [
+        "riven",
+        "kael",
+        "mira"
+      ]
+    },
+    {
+      "shot": 50,
+      "valid": true,
+      "frames": 240,
+      "seconds": 10.0,
+      "fingerprint_current": true,
+      "unique_sampled_frames": 10,
+      "characters_with_changing_motion_log": [
+        "riven",
+        "kael",
+        "mira"
+      ]
+    },
+    {
+      "shot": 51,
+      "valid": true,
+      "frames": 240,
+      "seconds": 10.0,
+      "fingerprint_current": true,
+      "unique_sampled_frames": 10,
+      "characters_with_changing_motion_log": [
+        "riven",
+        "elder",
+        "kael",
+        "mira"
+      ]
+    },
+    {
+      "shot": 52,
+      "valid": true,
+      "frames": 240,
+      "seconds": 10.0,
+      "fingerprint_current": true,
+      "unique_sampled_frames": 10,
+      "characters_with_changing_motion_log": [
+        "riven",
+        "elder",
+        "kael",
+        "mira"
+      ]
+    },
+    {
+      "shot": 53,
+      "valid": true,
+      "frames": 240,
+      "seconds": 10.0,
+      "fingerprint_current": true,
+      "unique_sampled_frames": 10,
+      "characters_with_changing_motion_log": [
+        "riven",
+        "elder",
+        "kael",
+        "mira"
+      ]
+    },
+    {
+      "shot": 54,
+      "valid": true,
+      "frames": 240,
+      "seconds": 10.0,
+      "fingerprint_current": true,
+      "unique_sampled_frames": 10,
+      "characters_with_changing_motion_log": [
+        "riven",
+        "elder",
+        "kael",
+        "mira"
+      ]
+    },
+    {
+      "shot": 55,
+      "valid": true,
+      "frames": 240,
+      "seconds": 10.0,
+      "fingerprint_current": true,
+      "unique_sampled_frames": 10,
+      "characters_with_changing_motion_log": [
+        "riven",
+        "elder",
+        "kael",
+        "mira"
+      ]
+    },
+    {
+      "shot": 56,
+      "valid": true,
+      "frames": 240,
+      "seconds": 10.0,
+      "fingerprint_current": true,
+      "unique_sampled_frames": 10,
+      "characters_with_changing_motion_log": [
+        "riven",
+        "elder",
+        "kael",
+        "mira"
+      ]
+    },
+    {
+      "shot": 57,
+      "valid": true,
+      "frames": 240,
+      "seconds": 10.0,
+      "fingerprint_current": true,
+      "unique_sampled_frames": 10,
+      "characters_with_changing_motion_log": [
+        "riven",
+        "elder",
+        "kael",
+        "mira"
+      ]
+    },
+    {
+      "shot": 58,
+      "valid": true,
+      "frames": 240,
+      "seconds": 10.0,
+      "fingerprint_current": true,
+      "unique_sampled_frames": 10,
+      "characters_with_changing_motion_log": [
+        "riven",
+        "elder",
+        "kael",
+        "mira"
+      ]
+    },
+    {
+      "shot": 59,
+      "valid": true,
+      "frames": 240,
+      "seconds": 10.0,
+      "fingerprint_current": true,
+      "unique_sampled_frames": 10,
+      "characters_with_changing_motion_log": [
+        "riven",
+        "elder",
+        "kael",
+        "mira"
+      ]
+    }
+  ],
+  "timeline_sections": {
+    "The World of Aetheria": 60,
+    "The Powerless Boy": 60,
+    "The Awakening Ceremony": 60,
+    "A Rift in the Sky": 60,
+    "A Hero Without Power": 60,
+    "The Forgotten Voice": 60,
+    "The First Spell": 60,
+    "Three Powers, One Battle": 60,
+    "The Price of Power": 60,
+    "The First Seal": 60
+  },
+  "audio": {
+    "seconds": 600.0,
+    "sample_rate": 48000,
+    "channels": 2,
+    "clips": 120,
+    "voice_issues": [],
+    "median_spoken_wpm": 208.563281374186,
+    "p95_spoken_wpm": 260.8034194226102,
+    "actual_timing_source": "voices/dialogue_manifest.json",
+    "capability_limit": "Six pitch/rate/formant profiles share one female Indian-English neural speaker; natural distinct male/elder performances and expressive studio acting are not established."
+  },
+  "visual_limitations": [
+    "Lightweight articulated cel-vector character rigs over original generated painted plates; not premium detailed frame-by-frame anime.",
+    "Graphic effects and individually keyed blocking advance the story, but complex anatomy and high-detail combat choreography remain below the requested studio-quality target.",
+    "Backgrounds are delivered at1280x720 from original836x470 atlas crops."
+  ],
+  "continuity_corrections": {
+    "postrift_shots_using_ruins": [
+      18,
+      19,
+      20,
+      21,
+      22,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47
+    ],
+    "previous_actual_override_motion_code_present": true,
+    "character_independent_motion_evidence": "Each clip stores ten distinct sample hashes and changing per-character motion logs; this does not certify smooth artistic motion."
+  },
+  "ui": {
+    "windows11_gtx1660_interactive_tested": false,
+    "cross_platform_production_lock_present": true
+  },
+  "final_mp4": "Parent is exporting and separately validating the complete600-second MP4; this audit does not duplicate a concurrent export or claim its full decode.",
+  "delivery": "No outgoing artifact uploader. Prior local artifact download links failed. User-authorized external publication remains required for a tested alternative route.",
+  "final_storyboard_review": {
+    "shots": [
+      18,
+      19,
+      20,
+      21,
+      22,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47
+    ],
+    "damaged_set_continuity_visually_verified": true,
+    "finding": "All15 reviewed final storyboards consistently show the destroyed Academy and violet Rift; the former return to a pristine courtyard is resolved. Characters retain their clothes and colors. Simplified cutout rigs and graphic combat remain visible quality limitations."
+  }
+}

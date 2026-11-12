@@ -1,0 +1,251 @@
+{
+  "fingerprint": "c41d3189c852c3eac5f3b6018634b969880ab73341622ee7c96444db77e45541",
+  "frames": 240,
+  "duration": 10,
+  "render_seconds": 17.25,
+  "sample_frame_hashes": [
+    "27cadd8c38315346a371b23f6e5e6c949870102efa6889e83fc989d1d96239f9",
+    "538933e9d761ce9a65be136448e774bac81cab6f42234ec33cb174f7d7f71f3a",
+    "a6d6accd30a2bfff7f7b85f2759d4c0db90c9f6e41262c21040d2a170802df23",
+    "ef25a6aadfa9a64f0c28ab4f18f5128663d341a12baf65392e6888083247061a",
+    "8212fb512e2ab5ac758dbbbed3b7a3461415c33f4a2caed9acb9592175c7b0c0",
+    "c4cf1edfc286907e747f631de6be80c151c9cdbdafaaac977591a32a419005da",
+    "95ffc9d76e222475b86132baac789bb5975c7381fb27b88bdb33b3b72648c638",
+    "ecbc85a14cdf158fe87afbd65233824d3656da9ff01757b0908399a2facaffed",
+    "a5e037a4fc217ad8087a36521b22ef3486e21873689b77e51178f7e31d341815",
+    "2b506fec0a308cef38cc0b920697534cf55e1c231d0de6d40240ef8c31a7fe35"
+  ],
+  "character_motion_samples": [
+    {
+      "kael": [
+        379.512,
+        808.8,
+        10.738,
+        "listen",
+        false
+      ],
+      "riven": [
+        1100.312,
+        808.8,
+        10.738,
+        "idle",
+        false
+      ],
+      "mira": [
+        610.712,
+        808.8,
+        10.738,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        378.554,
+        810.45,
+        1.91,
+        "talk",
+        false
+      ],
+      "riven": [
+        610.604,
+        810.45,
+        1.91,
+        "weave",
+        true
+      ],
+      "mira": [
+        1102.004,
+        810.45,
+        1.91,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        377.597,
+        812.1,
+        2.91,
+        "talk",
+        false
+      ],
+      "riven": [
+        610.497,
+        812.1,
+        2.91,
+        "weave",
+        true
+      ],
+      "mira": [
+        1103.697,
+        812.1,
+        2.91,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        376.639,
+        813.75,
+        3.91,
+        "talk",
+        false
+      ],
+      "riven": [
+        610.389,
+        813.75,
+        3.91,
+        "weave",
+        true
+      ],
+      "mira": [
+        1105.389,
+        813.75,
+        3.91,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        375.681,
+        815.4,
+        4.91,
+        "talk",
+        false
+      ],
+      "riven": [
+        610.281,
+        815.4,
+        4.91,
+        "weave",
+        true
+      ],
+      "mira": [
+        1107.081,
+        815.4,
+        4.91,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        374.724,
+        817.05,
+        5.91,
+        "talk",
+        false
+      ],
+      "riven": [
+        610.174,
+        817.05,
+        5.91,
+        "idle",
+        false
+      ],
+      "mira": [
+        1108.774,
+        817.05,
+        5.91,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        373.766,
+        818.7,
+        6.91,
+        "talk",
+        true
+      ],
+      "riven": [
+        610.066,
+        818.7,
+        6.91,
+        "idle",
+        false
+      ],
+      "mira": [
+        1110.466,
+        818.7,
+        6.91,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        372.808,
+        820.35,
+        7.91,
+        "talk",
+        false
+      ],
+      "riven": [
+        609.958,
+        820.35,
+        7.91,
+        "idle",
+        false
+      ],
+      "mira": [
+        1112.158,
+        820.35,
+        7.91,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        371.851,
+        822.0,
+        8.91,
+        "talk",
+        false
+      ],
+      "riven": [
+        609.851,
+        822.0,
+        8.91,
+        "idle",
+        false
+      ],
+      "mira": [
+        1113.851,
+        822.0,
+        8.91,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        370.893,
+        823.65,
+        9.91,
+        "talk",
+        false
+      ],
+      "riven": [
+        609.743,
+        823.65,
+        9.91,
+        "idle",
+        false
+      ],
+      "mira": [
+        1115.543,
+        823.65,
+        9.91,
+        "idle",
+        false
+      ]
+    }
+  ],
+  "description": "Riven lets a harmless spark dance above one knuckle, then extinguishes it when he sees Kael's expression."
+}

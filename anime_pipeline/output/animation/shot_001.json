@@ -1,0 +1,111 @@
+{
+  "fingerprint": "847e654c9d5e454410ab5050908eb7d684d98825e3d777e8e07ca3bc9332993d",
+  "frames": 240,
+  "duration": 10,
+  "render_seconds": 14.08,
+  "sample_frame_hashes": [
+    "22bd5a5f7d7381bdb3c37d765a6432f94837383eba6d0557f89c038c13073f2d",
+    "fff1f6a75de3c77c5a344629d0414a36017d9de7b5b8109b69e720b8af6439ca",
+    "1ce08816a7a4e1ed304160741df4635f24a488b73bf2b54d3802ddee0b6104bb",
+    "a8a4a155993b3971a43940659f7b67fe77637c56dbb79d24a7168386333d28dc",
+    "3d6a343fca486f30f0c9ae1a96ee0da3b44ee5c2f7725a3596b9477b503fdb44",
+    "dc4a1339bbe4ddce54057f0217f72114008c96b698ec045aafb2c00c655d312a",
+    "08b41314a93941e3efcf2663c8be49d0683e51586264031543fbba83a3c8daab",
+    "36f9b089cee0b9da52d6d7c875061c38b25e8144074edc473d053b29db7b17ab",
+    "eb14b9180b0aecb68ad85fe3217dcec1257e0048bb439acf2133a838d2546c53",
+    "ab0514bda41cdc36e9664505c46a9b33e2a805c8bb9351dd1e90c06886306ee7"
+  ],
+  "character_motion_samples": [
+    {
+      "kael": [
+        847.981,
+        672.0,
+        9.46,
+        "walk",
+        false
+      ]
+    },
+    {
+      "kael": [
+        541.039,
+        672.0,
+        1.06,
+        "walk",
+        false
+      ]
+    },
+    {
+      "kael": [
+        540.327,
+        672.0,
+        2.01,
+        "walk",
+        false
+      ]
+    },
+    {
+      "kael": [
+        543.294,
+        672.0,
+        2.96,
+        "walk",
+        false
+      ]
+    },
+    {
+      "kael": [
+        548.963,
+        672.0,
+        3.91,
+        "point",
+        false
+      ]
+    },
+    {
+      "kael": [
+        556.351,
+        672.0,
+        4.86,
+        "point",
+        false
+      ]
+    },
+    {
+      "kael": [
+        564.459,
+        672.0,
+        5.81,
+        "point",
+        true
+      ]
+    },
+    {
+      "kael": [
+        572.278,
+        672.0,
+        6.76,
+        "point",
+        true
+      ]
+    },
+    {
+      "kael": [
+        578.78,
+        672.0,
+        7.71,
+        "walk",
+        false
+      ]
+    },
+    {
+      "kael": [
+        582.92,
+        672.0,
+        8.66,
+        "walk",
+        false
+      ]
+    }
+  ],
+  "description": "Kael passes a fountain whose silver water rises in an impossible spiral; he catches a falling flower before it reaches the canal."
+}

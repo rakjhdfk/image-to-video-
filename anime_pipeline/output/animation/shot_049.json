@@ -1,0 +1,251 @@
+{
+  "fingerprint": "29adeb2b6e09cf772ea94dd0318057a9f5e4e0eaff558c6ce5dac219a0356fb8",
+  "frames": 240,
+  "duration": 10,
+  "render_seconds": 14.32,
+  "sample_frame_hashes": [
+    "52165372c0530ce1eeec1745a76aaa5355a7d24e01ddada192c86ec566d8c54f",
+    "8bbb83d53a9c3da4777dce727b788e2cfb6a42c3457feadc954d9bbcef757791",
+    "48e8a82c777f8de6a2cc8ce2d46990f7e66011ba84c276f5e32bc6bb570d3aae",
+    "dd85bb44eee06e24aa89613071f118d9b4973c24cabb603210ac30a42e633534",
+    "a8bbbe56972678a6b220d8cc8807375a4d2497cb0cd0f6ac0d9b623afd93b01a",
+    "a7dd173796a2bba96cd2791a06725721d76cadac0bb77fdfcce7c45c2a158cf4",
+    "6819f65cef52c2c93e572a38668b009b676a7ba8b7201c0f724aedace63d368c",
+    "385a9962a7b706eac69781d4bae97a36215b8adeaa5266323323ec9b01d8e48e",
+    "e5c1b337eec322f775b9d0241bf6409246b10b6106af24e9c79457939aef79bc",
+    "f32e0d113d270841501527f296535169f3ad5dab19aa3ae3b839580882fdc882"
+  ],
+  "character_motion_samples": [
+    {
+      "kael": [
+        579.861,
+        910.795,
+        4.979,
+        "kneel",
+        false
+      ],
+      "mira": [
+        865.461,
+        910.795,
+        4.979,
+        "rescue",
+        false
+      ],
+      "riven": [
+        307.861,
+        910.795,
+        4.979,
+        "kneel",
+        false
+      ]
+    },
+    {
+      "kael": [
+        579.64,
+        810.45,
+        0.5,
+        "listen",
+        true
+      ],
+      "mira": [
+        866.29,
+        810.45,
+        0.5,
+        "idle",
+        false
+      ],
+      "riven": [
+        306.64,
+        810.45,
+        0.5,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        579.419,
+        812.1,
+        1.0,
+        "listen",
+        true
+      ],
+      "mira": [
+        867.119,
+        812.1,
+        1.0,
+        "idle",
+        false
+      ],
+      "riven": [
+        305.419,
+        812.1,
+        1.0,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        579.198,
+        813.75,
+        1.5,
+        "listen",
+        true
+      ],
+      "mira": [
+        867.948,
+        813.75,
+        1.5,
+        "idle",
+        false
+      ],
+      "riven": [
+        304.198,
+        813.75,
+        1.5,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        578.977,
+        815.4,
+        2.0,
+        "listen",
+        true
+      ],
+      "mira": [
+        868.777,
+        815.4,
+        2.0,
+        "idle",
+        false
+      ],
+      "riven": [
+        302.977,
+        815.4,
+        2.0,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        578.755,
+        817.05,
+        2.5,
+        "listen",
+        false
+      ],
+      "mira": [
+        869.605,
+        817.05,
+        2.5,
+        "idle",
+        false
+      ],
+      "riven": [
+        301.755,
+        817.05,
+        2.5,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        578.534,
+        818.7,
+        3.0,
+        "listen",
+        false
+      ],
+      "mira": [
+        870.434,
+        818.7,
+        3.0,
+        "idle",
+        false
+      ],
+      "riven": [
+        300.534,
+        818.7,
+        3.0,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        578.313,
+        820.35,
+        3.5,
+        "listen",
+        false
+      ],
+      "mira": [
+        871.263,
+        820.35,
+        3.5,
+        "idle",
+        true
+      ],
+      "riven": [
+        299.313,
+        820.35,
+        3.5,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        578.092,
+        822.0,
+        4.0,
+        "listen",
+        false
+      ],
+      "mira": [
+        872.092,
+        822.0,
+        4.0,
+        "idle",
+        false
+      ],
+      "riven": [
+        298.092,
+        822.0,
+        4.0,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        577.871,
+        823.65,
+        4.5,
+        "listen",
+        false
+      ],
+      "mira": [
+        872.921,
+        823.65,
+        4.5,
+        "idle",
+        false
+      ],
+      "riven": [
+        296.871,
+        823.65,
+        4.5,
+        "idle",
+        false
+      ]
+    }
+  ],
+  "description": "Kael holds his mother's ribbon and tries to hum its familiar lullaby. The tune will not come; the price has taken something real."
+}

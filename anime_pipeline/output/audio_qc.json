@@ -1,0 +1,21 @@
+{
+  "passed": true,
+  "duration_seconds": 600.0,
+  "sample_rate": 48000,
+  "channels": 2,
+  "dialogue_clips": 120,
+  "speakers": {
+    "narrator": 7,
+    "kael": 45,
+    "riven": 18,
+    "mira": 28,
+    "elder": 13,
+    "ancient": 9
+  },
+  "peak": 0.920013427734375,
+  "min_per_second_rms": 0.00377849955111742,
+  "all_clips_fit_shot": true,
+  "all_clips_exist": true,
+  "neural_model": "MeloTTS EN_INDIA SID2",
+  "actor_limitation": "All identities derive from one female Indian-English base using pitch/rate/formant processing; not six independent voice actors."
+}

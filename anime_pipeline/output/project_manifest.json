@@ -1,0 +1,14 @@
+{
+  "title": "THE MAGICAL WORLD",
+  "production_mode": "2D skeletal hybrid animation",
+  "resolution": [
+    1280,
+    720
+  ],
+  "fps": 24,
+  "duration": 600,
+  "required_frames": 14400,
+  "gpu_required": false,
+  "settings": {},
+  "notes": "Original painted environment plates plus independently posed human rigs, face animation, choreographed motion paths, tracked spell layers. Not diffusion video or hand-drawn frame-by-frame animation."
+}

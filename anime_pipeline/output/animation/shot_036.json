@@ -1,0 +1,181 @@
+{
+  "fingerprint": "e354ff5a8258cc67bd49fb28b86d2bf8893736f176ffcd61c168afe0910cd65a",
+  "frames": 240,
+  "duration": 10,
+  "render_seconds": 17.33,
+  "sample_frame_hashes": [
+    "fdd4b745de073657707f189baa3997dccd7274fb3fa1617dd4258fb379b482ed",
+    "8f7276cc3f00b16b123a65c392ae159a7aedefa97d652216422f71eeac26acdb",
+    "f31486b38a3be2f1970ee32f75f334ee8cd21af22b5118388c4df1d8e2daf0b6",
+    "a69e4ea28efced8458c7c64f16b6164b3f963c9160c3dde25cb5280e8c8b07f6",
+    "bd972831ae9458ca2cdd751a70dfb9b9021a44bee31010c71dbf0ce4aa47d785",
+    "ba872f5f6f6dcdbaae722c549b9b9e3c9b4494dd151cccb6b10144b8eae359e1",
+    "5732592ff5b3d4f5a3175accac7064511031cacbf98b9596e1b68446e1cbabac",
+    "13f6eb026f70869b83b4013b54e5f16de1a3b2c560c02cd8430d7550108e3198",
+    "984bbe7a4d619cb7f9c6ea56ff360835ebff8ad4426f2aa71b717fb3899424d2",
+    "cd4bb6ec52cea4550b7a5b96a7438511ea9cd7378d8efbe3e47de1b99b44476f"
+  ],
+  "character_motion_samples": [
+    {
+      "kael": [
+        650.343,
+        808.8,
+        5.975,
+        "walk",
+        false
+      ],
+      "mira": [
+        1058.343,
+        808.8,
+        0.3,
+        "weave",
+        false
+      ]
+    },
+    {
+      "kael": [
+        527.531,
+        810.45,
+        0.45,
+        "weave",
+        false
+      ],
+      "mira": [
+        991.631,
+        810.45,
+        0.45,
+        "weave",
+        false
+      ]
+    },
+    {
+      "kael": [
+        527.119,
+        812.1,
+        0.9,
+        "weave",
+        true
+      ],
+      "mira": [
+        992.919,
+        812.1,
+        0.9,
+        "weave",
+        false
+      ]
+    },
+    {
+      "kael": [
+        526.707,
+        813.75,
+        1.35,
+        "weave",
+        true
+      ],
+      "mira": [
+        994.207,
+        813.75,
+        1.35,
+        "weave",
+        false
+      ]
+    },
+    {
+      "kael": [
+        526.295,
+        815.4,
+        1.8,
+        "weave",
+        true
+      ],
+      "mira": [
+        995.495,
+        815.4,
+        1.8,
+        "weave",
+        false
+      ]
+    },
+    {
+      "kael": [
+        525.883,
+        817.05,
+        2.25,
+        "weave",
+        false
+      ],
+      "mira": [
+        996.783,
+        817.05,
+        2.25,
+        "weave",
+        false
+      ]
+    },
+    {
+      "kael": [
+        525.471,
+        818.7,
+        2.7,
+        "weave",
+        false
+      ],
+      "mira": [
+        998.071,
+        818.7,
+        2.7,
+        "weave",
+        false
+      ]
+    },
+    {
+      "kael": [
+        525.06,
+        820.35,
+        3.15,
+        "weave",
+        false
+      ],
+      "mira": [
+        999.36,
+        820.35,
+        3.15,
+        "weave",
+        false
+      ]
+    },
+    {
+      "kael": [
+        524.648,
+        822.0,
+        3.6,
+        "weave",
+        false
+      ],
+      "mira": [
+        1000.648,
+        822.0,
+        3.6,
+        "weave",
+        false
+      ]
+    },
+    {
+      "kael": [
+        524.236,
+        823.65,
+        4.05,
+        "weave",
+        false
+      ],
+      "mira": [
+        1001.936,
+        823.65,
+        4.05,
+        "weave",
+        false
+      ]
+    }
+  ],
+  "description": "Kael connects the bracket's origin line to the fallen beam; the lifted weight shifts into the surviving arch foundation instead of Mira's exhausted hand."
+}

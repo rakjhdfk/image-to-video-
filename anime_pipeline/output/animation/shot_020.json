@@ -1,0 +1,251 @@
+{
+  "fingerprint": "8c402a12dd045f6f2a76d7ab679036ba5c8347e68bdd653d248a7efd9e62e10d",
+  "frames": 240,
+  "duration": 10,
+  "render_seconds": 14.56,
+  "sample_frame_hashes": [
+    "2f10d23bc555443f0b0c4c82b4f8911b71f5d5cf7e303d08e00b1077947a9d39",
+    "19cfca3b9d8dcb8c8fd2ff5812aa70290502aedb2056e5de83ec043530f3afaf",
+    "22b917a2683bef94123cbe00a5efebcae5806d7265478cdbf26e588e59048ab6",
+    "3d5cbcc5148ee5beba7d8c601dd2b20f7bc7db1513297af3b83c1c4fe85a219e",
+    "c3359efbbb98eb78f563cb44c79a95d40f67f536977e40fbb3f067bf5b5cb6b7",
+    "a03570d2c4f58888ac5f6c03f1b49b20edb2f6aafcb4f36e9157f0f44eea3ccb",
+    "cc37d3b98114557a5658440c34bae96d36ee7055a3b68170562308b3361f8a85",
+    "325d1c56e3e82259d7cdf81bade1e2d59460665abf362aa9d09c16de3d5fe04f",
+    "7ee631b37a01fe3512815d038d6583a3e7d021b511f2fb1f538a1d473a499d52",
+    "422eb4f7de8660216543f585d361e69fcc88390c25ba61b0bbb4b5b89aa53af5"
+  ],
+  "character_motion_samples": [
+    {
+      "mira": [
+        567.2,
+        672.0,
+        12.428,
+        "point",
+        false
+      ],
+      "riven": [
+        785.6,
+        672.0,
+        12.428,
+        "battle",
+        false
+      ],
+      "kael": [
+        338.4,
+        672.0,
+        12.428,
+        "listen",
+        false
+      ]
+    },
+    {
+      "mira": [
+        559.218,
+        672.0,
+        0.65,
+        "weave",
+        true
+      ],
+      "riven": [
+        855.618,
+        672.0,
+        3.6,
+        "point",
+        false
+      ],
+      "kael": [
+        272.677,
+        672.0,
+        3.6,
+        "walk",
+        false
+      ]
+    },
+    {
+      "mira": [
+        551.392,
+        672.0,
+        1.3,
+        "weave",
+        true
+      ],
+      "riven": [
+        847.792,
+        672.0,
+        4.6,
+        "point",
+        false
+      ],
+      "kael": [
+        277.498,
+        672.0,
+        4.6,
+        "walk",
+        false
+      ]
+    },
+    {
+      "mira": [
+        543.876,
+        672.0,
+        1.95,
+        "weave",
+        true
+      ],
+      "riven": [
+        840.276,
+        672.0,
+        5.6,
+        "point",
+        false
+      ],
+      "kael": [
+        288.619,
+        672.0,
+        5.6,
+        "walk",
+        false
+      ]
+    },
+    {
+      "mira": [
+        536.816,
+        672.0,
+        2.6,
+        "weave",
+        false
+      ],
+      "riven": [
+        833.216,
+        672.0,
+        6.6,
+        "point",
+        false
+      ],
+      "kael": [
+        304.189,
+        672.0,
+        6.6,
+        "walk",
+        false
+      ]
+    },
+    {
+      "mira": [
+        530.351,
+        672.0,
+        3.25,
+        "weave",
+        false
+      ],
+      "riven": [
+        826.751,
+        672.0,
+        7.6,
+        "point",
+        true
+      ],
+      "kael": [
+        322.351,
+        672.0,
+        7.6,
+        "walk",
+        false
+      ]
+    },
+    {
+      "mira": [
+        524.606,
+        672.0,
+        3.9,
+        "weave",
+        false
+      ],
+      "riven": [
+        821.006,
+        672.0,
+        8.6,
+        "point",
+        true
+      ],
+      "kael": [
+        341.234,
+        672.0,
+        8.6,
+        "walk",
+        false
+      ]
+    },
+    {
+      "mira": [
+        519.696,
+        672.0,
+        4.55,
+        "weave",
+        false
+      ],
+      "riven": [
+        816.096,
+        672.0,
+        9.6,
+        "point",
+        false
+      ],
+      "kael": [
+        358.953,
+        672.0,
+        9.6,
+        "walk",
+        false
+      ]
+    },
+    {
+      "mira": [
+        515.714,
+        672.0,
+        5.2,
+        "weave",
+        false
+      ],
+      "riven": [
+        812.114,
+        672.0,
+        10.6,
+        "point",
+        false
+      ],
+      "kael": [
+        373.609,
+        672.0,
+        10.6,
+        "walk",
+        false
+      ]
+    },
+    {
+      "mira": [
+        512.74,
+        672.0,
+        5.85,
+        "weave",
+        false
+      ],
+      "riven": [
+        809.14,
+        672.0,
+        11.6,
+        "point",
+        false
+      ],
+      "kael": [
+        383.281,
+        672.0,
+        11.6,
+        "walk",
+        false
+      ]
+    }
+  ],
+  "description": "Mira lays silver handrails across the damaged steps while Riven grounds a falling metal banner pole away from the crowd."
+}

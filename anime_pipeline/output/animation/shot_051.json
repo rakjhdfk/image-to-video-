@@ -1,0 +1,321 @@
+{
+  "fingerprint": "e5a7562bbff22c89774fe0572dc06bc03d55d9bba305d5685dab69bc47311caf",
+  "frames": 240,
+  "duration": 10,
+  "render_seconds": 16.94,
+  "sample_frame_hashes": [
+    "4d1158eaa196639499c0f7da4294f293a3f3dd56b5afa99c72a59776b63e18f8",
+    "d627e16c88b40eac6682bd01abdfdc1104f8b3234cd29c77ee26548f1b3da127",
+    "25a755d64b52230e792103c148bc98f3f774c184a5366f3fe78e7fff1b253ad2",
+    "21857cdda02e6b79c67b1b9ba53c8f96238f5822e415d5a54455ad002c97feca",
+    "da5f7c03e1dd0fdace64473ff14b0b07060b5e764dc4d085d888dee46bce7859",
+    "0b4d0363ff9dddde1dae59d19bc51143338868f93f1d7dba2ee79f213c1050d7",
+    "11a6d77282566079bb1703cbfd8cef3422a70d480e8fce9b2a024a5128db8323",
+    "1ce65ecff967fa34a31fcf7652e1ab23cedf2fff2406677c24adf75dc84b7e24",
+    "5e84cf829d982da80808824bec1aa859b88cbcb530de799da78275a1aa3cf27b",
+    "92d43a45c0021ea6b2065521b5b8334607d5badb21878678da6dce0caaea8ee0"
+  ],
+  "character_motion_samples": [
+    {
+      "kael": [
+        524.704,
+        684.0,
+        4.979,
+        "idle",
+        false
+      ],
+      "elder": [
+        999.904,
+        684.0,
+        0.0,
+        "talk",
+        false
+      ],
+      "mira": [
+        751.504,
+        684.0,
+        4.979,
+        "listen",
+        false
+      ],
+      "riven": [
+        308.704,
+        684.0,
+        4.979,
+        "point",
+        false
+      ]
+    },
+    {
+      "kael": [
+        522.488,
+        684.75,
+        0.5,
+        "listen",
+        true
+      ],
+      "elder": [
+        998.788,
+        684.75,
+        0.5,
+        "talk",
+        false
+      ],
+      "mira": [
+        749.813,
+        684.75,
+        0.5,
+        "listen",
+        false
+      ],
+      "riven": [
+        305.988,
+        684.75,
+        0.5,
+        "listen",
+        false
+      ]
+    },
+    {
+      "kael": [
+        520.264,
+        685.5,
+        1.0,
+        "listen",
+        true
+      ],
+      "elder": [
+        997.664,
+        685.5,
+        1.0,
+        "talk",
+        false
+      ],
+      "mira": [
+        748.114,
+        685.5,
+        1.0,
+        "listen",
+        false
+      ],
+      "riven": [
+        303.264,
+        685.5,
+        1.0,
+        "listen",
+        false
+      ]
+    },
+    {
+      "kael": [
+        518.031,
+        686.25,
+        1.5,
+        "listen",
+        true
+      ],
+      "elder": [
+        996.531,
+        686.25,
+        1.5,
+        "talk",
+        false
+      ],
+      "mira": [
+        746.406,
+        686.25,
+        1.5,
+        "listen",
+        false
+      ],
+      "riven": [
+        300.531,
+        686.25,
+        1.5,
+        "listen",
+        false
+      ]
+    },
+    {
+      "kael": [
+        515.788,
+        687.0,
+        2.0,
+        "listen",
+        true
+      ],
+      "elder": [
+        995.388,
+        687.0,
+        2.0,
+        "talk",
+        false
+      ],
+      "mira": [
+        744.688,
+        687.0,
+        2.0,
+        "listen",
+        false
+      ],
+      "riven": [
+        297.788,
+        687.0,
+        2.0,
+        "listen",
+        false
+      ]
+    },
+    {
+      "kael": [
+        513.537,
+        687.75,
+        2.5,
+        "listen",
+        false
+      ],
+      "elder": [
+        994.237,
+        687.75,
+        2.5,
+        "talk",
+        false
+      ],
+      "mira": [
+        742.962,
+        687.75,
+        2.5,
+        "listen",
+        false
+      ],
+      "riven": [
+        295.037,
+        687.75,
+        2.5,
+        "listen",
+        false
+      ]
+    },
+    {
+      "kael": [
+        511.276,
+        688.5,
+        3.0,
+        "listen",
+        false
+      ],
+      "elder": [
+        993.076,
+        688.5,
+        3.0,
+        "talk",
+        true
+      ],
+      "mira": [
+        741.226,
+        688.5,
+        3.0,
+        "listen",
+        false
+      ],
+      "riven": [
+        292.276,
+        688.5,
+        3.0,
+        "listen",
+        false
+      ]
+    },
+    {
+      "kael": [
+        509.007,
+        689.25,
+        3.5,
+        "listen",
+        false
+      ],
+      "elder": [
+        991.907,
+        689.25,
+        3.5,
+        "talk",
+        false
+      ],
+      "mira": [
+        739.482,
+        689.25,
+        3.5,
+        "listen",
+        false
+      ],
+      "riven": [
+        289.507,
+        689.25,
+        3.5,
+        "listen",
+        false
+      ]
+    },
+    {
+      "kael": [
+        506.729,
+        690.0,
+        4.0,
+        "listen",
+        false
+      ],
+      "elder": [
+        990.729,
+        690.0,
+        4.0,
+        "talk",
+        false
+      ],
+      "mira": [
+        737.729,
+        690.0,
+        4.0,
+        "listen",
+        false
+      ],
+      "riven": [
+        286.729,
+        690.0,
+        4.0,
+        "listen",
+        false
+      ]
+    },
+    {
+      "kael": [
+        504.441,
+        690.75,
+        4.5,
+        "listen",
+        false
+      ],
+      "elder": [
+        989.541,
+        690.75,
+        4.5,
+        "talk",
+        false
+      ],
+      "mira": [
+        735.966,
+        690.75,
+        4.5,
+        "listen",
+        false
+      ],
+      "riven": [
+        283.941,
+        690.75,
+        4.5,
+        "listen",
+        false
+      ]
+    }
+  ],
+  "description": "The Elder joins them, lowering his staff so its woven engraving aligns with Kael's new mark. Kael demands an honest answer before accepting help."
+}

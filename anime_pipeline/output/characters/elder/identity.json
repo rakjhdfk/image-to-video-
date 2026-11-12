@@ -1,0 +1,17 @@
+{
+  "id": "ACADEMY_ELDER_01",
+  "name": "The Academy Elder",
+  "age": 70,
+  "hair": "#d6d6dc",
+  "hairlight": "#ffffff",
+  "coat": "#272638",
+  "coatlight": "#474158",
+  "coatshadow": "#171827",
+  "trim": "#c6ab63",
+  "iris": "#9e9caf",
+  "skin": "#d7b29d",
+  "shade": "#a07e7d",
+  "shirt": "#9c94aa",
+  "accent": "#ffdf88",
+  "voice": "older_indian_english_male"
+}

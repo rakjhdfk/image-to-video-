@@ -1,0 +1,251 @@
+{
+  "fingerprint": "5ec6f39f05a9f4f35cb7417ba09ae9d67659a246763992a7de08ae4270f075ea",
+  "frames": 240,
+  "duration": 10,
+  "render_seconds": 14.54,
+  "sample_frame_hashes": [
+    "b7b7ce1109565ecf63096dced126c8d3bfd08ed3e3eb9bc7f2491fbb47cbe7fd",
+    "72174bad2570fd27db59333857a50b2f8902d7294acacd5877608493ff67e6e6",
+    "dd8245cfe1f31fff07511eeeac708c783393bbdca49e2a590a051b26eb250871",
+    "de1519bb44c4fe6d735de9d1b0f0baf6ff7eea246a053f22bddf1315a158a7b5",
+    "9672eab4c8ec0ffacf0246f61d9863d298569c03c1545463e0e18c5cd9edb0fd",
+    "f5033132eff76afabb92881235adf18310f2f96d6c8a57444b5a572672d0c443",
+    "3030615d77b31f27883bd33d68f4ce9b2d7dca6060a0b29cff33c5011060034f",
+    "1b200bced0947fd825ed29b679d84304bc02521cb1894d23281c6185bcc47edb",
+    "18a6dd06440813f072acb1e590f10b62bcd795a1c6ad523a94b73669687543a0",
+    "efb0f0848f051c490d1fe79bd36184fdace82f9fe8cbc19f3db6ba9a97a39dc5"
+  ],
+  "character_motion_samples": [
+    {
+      "kael": [
+        390.601,
+        684.0,
+        12.558,
+        "walk",
+        false
+      ],
+      "mira": [
+        520.21,
+        684.0,
+        6.473,
+        "weave",
+        false
+      ],
+      "riven": [
+        828.01,
+        684.0,
+        12.558,
+        "point",
+        false
+      ]
+    },
+    {
+      "kael": [
+        279.835,
+        684.75,
+        3.73,
+        "listen",
+        false
+      ],
+      "mira": [
+        517.985,
+        684.75,
+        3.73,
+        "point",
+        false
+      ],
+      "riven": [
+        745.31,
+        684.75,
+        3.73,
+        "battle",
+        true
+      ]
+    },
+    {
+      "kael": [
+        277.05,
+        685.5,
+        4.73,
+        "listen",
+        false
+      ],
+      "mira": [
+        515.75,
+        685.5,
+        4.73,
+        "point",
+        false
+      ],
+      "riven": [
+        743.6,
+        685.5,
+        4.73,
+        "battle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        274.256,
+        686.25,
+        5.73,
+        "listen",
+        false
+      ],
+      "mira": [
+        513.506,
+        686.25,
+        5.73,
+        "point",
+        false
+      ],
+      "riven": [
+        741.881,
+        686.25,
+        5.73,
+        "battle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        271.453,
+        687.0,
+        6.73,
+        "listen",
+        false
+      ],
+      "mira": [
+        511.253,
+        687.0,
+        6.73,
+        "point",
+        false
+      ],
+      "riven": [
+        740.153,
+        687.0,
+        6.73,
+        "battle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        268.641,
+        687.75,
+        7.73,
+        "listen",
+        false
+      ],
+      "mira": [
+        508.991,
+        687.75,
+        7.73,
+        "point",
+        true
+      ],
+      "riven": [
+        738.416,
+        687.75,
+        7.73,
+        "battle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        265.821,
+        688.5,
+        8.73,
+        "listen",
+        false
+      ],
+      "mira": [
+        506.721,
+        688.5,
+        8.73,
+        "point",
+        true
+      ],
+      "riven": [
+        736.671,
+        688.5,
+        8.73,
+        "battle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        262.991,
+        689.25,
+        9.73,
+        "listen",
+        false
+      ],
+      "mira": [
+        504.441,
+        689.25,
+        9.73,
+        "point",
+        false
+      ],
+      "riven": [
+        734.916,
+        689.25,
+        9.73,
+        "battle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        260.152,
+        690.0,
+        10.73,
+        "listen",
+        false
+      ],
+      "mira": [
+        502.152,
+        690.0,
+        10.73,
+        "point",
+        false
+      ],
+      "riven": [
+        733.152,
+        690.0,
+        10.73,
+        "battle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        257.304,
+        690.75,
+        11.73,
+        "listen",
+        false
+      ],
+      "mira": [
+        499.854,
+        690.75,
+        11.73,
+        "point",
+        false
+      ],
+      "riven": [
+        731.379,
+        690.75,
+        11.73,
+        "battle",
+        false
+      ]
+    }
+  ],
+  "description": "A wraith of fractured violet armour descends from the rift and strikes the empty ceremonial dais, scattering crystal shards."
+}

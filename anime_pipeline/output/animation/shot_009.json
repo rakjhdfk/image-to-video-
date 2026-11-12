@@ -1,0 +1,181 @@
+{
+  "fingerprint": "fba0b7a2950dc1784c95bc118d27992012012284a6bbaae2c3116b63d09300dd",
+  "frames": 240,
+  "duration": 10,
+  "render_seconds": 14.88,
+  "sample_frame_hashes": [
+    "0b441fe0783f835cd7ca86093924c4736c4d8ada29ef55a59480aa088ec61292",
+    "c17b988bf7fdc73ee076bd7fe31758fede19d3dd6e8d9d5196066dec7df98068",
+    "c3c2638bcbd255c2ada7d013d68dc3f39320564faedb5a78326c0f2e08c90b44",
+    "b6b3b205e76028a6a4c0676d5a73c52ae7542aaa85ebd07e79de755de3478533",
+    "9c6844fb3cc63f7ba0ed20e2deec02c9108995887c695a427f45215e41e09c92",
+    "b4301999f3e76f85c33777041620d8cf07d23a952d9a85a2cf38349715973ca3",
+    "be81afdde127b51653351668fa132dbf2863c32ee436b1531269103af5c2fc7e",
+    "93f4b1d08254f326ccb4ce04aa4af88132829eebf8a19cf9f25ae1ca777b02f7",
+    "c0958044c1f99280f861f8dc7374c5bf849068dc64d3498597c0a962746de9d0",
+    "4e34692f995634abdb92b8694c15d287b30a801de9a49e750c70f8db78b4912c"
+  ],
+  "character_motion_samples": [
+    {
+      "kael": [
+        612.657,
+        684.0,
+        0.4,
+        "kneel",
+        false
+      ],
+      "elder": [
+        823.273,
+        684.0,
+        1.17,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        453.699,
+        684.75,
+        2.17,
+        "listen",
+        false
+      ],
+      "elder": [
+        821.749,
+        684.75,
+        2.17,
+        "talk",
+        true
+      ]
+    },
+    {
+      "kael": [
+        451.315,
+        685.5,
+        3.17,
+        "listen",
+        false
+      ],
+      "elder": [
+        820.215,
+        685.5,
+        3.17,
+        "talk",
+        true
+      ]
+    },
+    {
+      "kael": [
+        448.923,
+        686.25,
+        4.17,
+        "listen",
+        false
+      ],
+      "elder": [
+        818.673,
+        686.25,
+        4.17,
+        "talk",
+        true
+      ]
+    },
+    {
+      "kael": [
+        446.522,
+        687.0,
+        5.17,
+        "listen",
+        false
+      ],
+      "elder": [
+        817.122,
+        687.0,
+        5.17,
+        "talk",
+        true
+      ]
+    },
+    {
+      "kael": [
+        444.112,
+        687.75,
+        6.17,
+        "listen",
+        true
+      ],
+      "elder": [
+        815.562,
+        687.75,
+        6.17,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        441.692,
+        688.5,
+        7.17,
+        "listen",
+        false
+      ],
+      "elder": [
+        813.992,
+        688.5,
+        7.17,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        439.264,
+        689.25,
+        8.17,
+        "listen",
+        false
+      ],
+      "elder": [
+        812.414,
+        689.25,
+        8.17,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        436.827,
+        690.0,
+        9.17,
+        "listen",
+        false
+      ],
+      "elder": [
+        810.827,
+        690.0,
+        9.17,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        434.38,
+        690.75,
+        10.17,
+        "listen",
+        false
+      ],
+      "elder": [
+        809.23,
+        690.75,
+        10.17,
+        "idle",
+        false
+      ]
+    }
+  ],
+  "description": "The Elder pauses beside Kael and studies his empty wrist; Kael notices the same woven symbol engraved on the gold staff and the old tower."
+}

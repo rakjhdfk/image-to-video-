@@ -1,0 +1,111 @@
+{
+  "fingerprint": "13d925df20176fee620a61b4b0771b32e34e7c04f336e07a44997d4e9f16875d",
+  "frames": 240,
+  "duration": 10,
+  "render_seconds": 13.84,
+  "sample_frame_hashes": [
+    "9f29ac0988be2b5fc3aa078d7629161b8f1241f3adc13a98cd5b46c932eeb6be",
+    "76da4d797f2ffd34c22e2561fc841087ade28f723a31dc8b3f6ee9678ad7b33e",
+    "464cad8e7c5fe173f34ee95216d6c291b6115afa214650c09d765a2bd75bfa27",
+    "7d4c90a1d8344e49bff95960b1f62272da582ab106d0492a58ebba908766914b",
+    "ad91b2c3a56f81543cc57c6869a95b52a4fc71db64c8eda1ed64b533899cd666",
+    "16a3c51c14dee9a48af86139f4635abe87ce7a5007631b0a27bbd3088ba64a1c",
+    "ba40032bd0a6dee47c00a299fc488742a6ee02070bfd065c51fb0d324c9d3f14",
+    "7de9d93e38c2a3117f95a967b3b18db21ab69f810aaf55b75ee96062fc7b40e3",
+    "fd33c6dfb386dca11fee4492adb47c55e713ba40634c3a87cd901213deccee57",
+    "6af0c42a4d920d62e069ac9b337f2c59fbd9bbc212a74b75eabf06cadd134731"
+  ],
+  "character_motion_samples": [
+    {
+      "kael": [
+        520.326,
+        808.8,
+        5.975,
+        "weave",
+        false
+      ]
+    },
+    {
+      "kael": [
+        519.886,
+        810.45,
+        0.6,
+        "listen",
+        false
+      ]
+    },
+    {
+      "kael": [
+        519.446,
+        812.1,
+        1.2,
+        "listen",
+        false
+      ]
+    },
+    {
+      "kael": [
+        519.006,
+        813.75,
+        1.8,
+        "listen",
+        false
+      ]
+    },
+    {
+      "kael": [
+        518.566,
+        815.4,
+        2.4,
+        "listen",
+        false
+      ]
+    },
+    {
+      "kael": [
+        518.126,
+        817.05,
+        3.0,
+        "listen",
+        false
+      ]
+    },
+    {
+      "kael": [
+        517.686,
+        818.7,
+        3.6,
+        "listen",
+        false
+      ]
+    },
+    {
+      "kael": [
+        517.246,
+        820.35,
+        4.2,
+        "listen",
+        false
+      ]
+    },
+    {
+      "kael": [
+        516.806,
+        822.0,
+        4.8,
+        "listen",
+        true
+      ]
+    },
+    {
+      "kael": [
+        516.366,
+        823.65,
+        5.4,
+        "listen",
+        false
+      ]
+    }
+  ],
+  "description": "The Ancient Voice makes its offer as the ward visibly fractures beyond Kael's shoulder. He sees his friends still fighting through the translucent lines."
+}

@@ -1,0 +1,321 @@
+{
+  "fingerprint": "42035b1fad5faeafdbff3535a80cccae5b38ff7ba917b2ddacf6b0d0feeef8f0",
+  "frames": 240,
+  "duration": 10,
+  "render_seconds": 15.21,
+  "sample_frame_hashes": [
+    "cb6f54d8913f454a5ce67deb26d47c025fa1c7a08d16c4464f20ff3f9441842f",
+    "b79f9d9c901cf4e96518f49008f255b48f3ce5357fd2c6ea57f7e93d0c6dcd98",
+    "048ab646003f171c2c71ddc10e747d89b1dd24a5f6e6a9ae62867b81f862cffc",
+    "66b90cdb4650de318b9764e8b442fbb8aae0aa58f8de09b8f4f0ffb5c378b833",
+    "cdb9fb89050abe15903d4d8704953a29ec0991f5b337a04ebc1b02420258d000",
+    "64bba515cee41c3d6e9a29dceaba8ad656f5bee84cd89e2ede59be46e0937c43",
+    "65d8452580cba90cce368701932e280113f8db8065dbbd6641c117907be5abee",
+    "ae84861b78c8650a3651a88e01757b43e8536bd9fafcd311a19697d664d0f469",
+    "288809b4b618a5d7e22a4bfba68cc0398226f3efb92321bce84a79a6531de1f2",
+    "071e02f23a8843a9217e87d6a52b87eea97578e83ca0932601f859446e90acd7"
+  ],
+  "character_motion_samples": [
+    {
+      "kael": [
+        255.006,
+        660.0,
+        10.67,
+        "walk",
+        false
+      ],
+      "mira": [
+        590.006,
+        660.0,
+        10.67,
+        "walk",
+        false
+      ],
+      "riven": [
+        950.006,
+        660.0,
+        10.67,
+        "walk",
+        false
+      ],
+      "elder": [
+        1000.0,
+        660.0,
+        0.0,
+        "ceremony",
+        false
+      ]
+    },
+    {
+      "kael": [
+        218.95,
+        660.75,
+        2.56,
+        "idle",
+        false
+      ],
+      "mira": [
+        920.7,
+        660.75,
+        2.56,
+        "idle",
+        false
+      ],
+      "riven": [
+        1091.125,
+        660.75,
+        2.56,
+        "idle",
+        false
+      ],
+      "elder": [
+        1000.9,
+        660.75,
+        0.7,
+        "ceremony",
+        false
+      ]
+    },
+    {
+      "kael": [
+        217.9,
+        661.5,
+        3.56,
+        "idle",
+        false
+      ],
+      "mira": [
+        921.4,
+        661.5,
+        3.56,
+        "idle",
+        false
+      ],
+      "riven": [
+        1092.25,
+        661.5,
+        3.56,
+        "idle",
+        false
+      ],
+      "elder": [
+        1001.8,
+        661.5,
+        1.4,
+        "ceremony",
+        false
+      ]
+    },
+    {
+      "kael": [
+        216.85,
+        662.25,
+        4.56,
+        "idle",
+        false
+      ],
+      "mira": [
+        922.1,
+        662.25,
+        4.56,
+        "idle",
+        false
+      ],
+      "riven": [
+        1093.375,
+        662.25,
+        4.56,
+        "idle",
+        false
+      ],
+      "elder": [
+        1002.7,
+        662.25,
+        2.1,
+        "ceremony",
+        false
+      ]
+    },
+    {
+      "kael": [
+        215.8,
+        663.0,
+        5.56,
+        "idle",
+        false
+      ],
+      "mira": [
+        922.8,
+        663.0,
+        5.56,
+        "idle",
+        false
+      ],
+      "riven": [
+        1094.5,
+        663.0,
+        5.56,
+        "idle",
+        false
+      ],
+      "elder": [
+        1003.6,
+        663.0,
+        2.8,
+        "ceremony",
+        false
+      ]
+    },
+    {
+      "kael": [
+        214.75,
+        663.75,
+        6.56,
+        "idle",
+        false
+      ],
+      "mira": [
+        923.5,
+        663.75,
+        6.56,
+        "idle",
+        false
+      ],
+      "riven": [
+        1095.625,
+        663.75,
+        6.56,
+        "idle",
+        false
+      ],
+      "elder": [
+        1004.5,
+        663.75,
+        3.5,
+        "ceremony",
+        false
+      ]
+    },
+    {
+      "kael": [
+        213.7,
+        664.5,
+        7.56,
+        "idle",
+        false
+      ],
+      "mira": [
+        924.2,
+        664.5,
+        7.56,
+        "idle",
+        false
+      ],
+      "riven": [
+        1096.75,
+        664.5,
+        7.56,
+        "idle",
+        false
+      ],
+      "elder": [
+        1005.4,
+        664.5,
+        4.2,
+        "ceremony",
+        false
+      ]
+    },
+    {
+      "kael": [
+        212.65,
+        665.25,
+        8.56,
+        "idle",
+        false
+      ],
+      "mira": [
+        924.9,
+        665.25,
+        8.56,
+        "idle",
+        false
+      ],
+      "riven": [
+        1097.875,
+        665.25,
+        8.56,
+        "idle",
+        false
+      ],
+      "elder": [
+        1006.3,
+        665.25,
+        4.9,
+        "ceremony",
+        true
+      ]
+    },
+    {
+      "kael": [
+        211.6,
+        666.0,
+        9.56,
+        "idle",
+        false
+      ],
+      "mira": [
+        925.6,
+        666.0,
+        9.56,
+        "idle",
+        false
+      ],
+      "riven": [
+        1099.0,
+        666.0,
+        9.56,
+        "idle",
+        false
+      ],
+      "elder": [
+        1007.2,
+        666.0,
+        5.6,
+        "ceremony",
+        true
+      ]
+    },
+    {
+      "kael": [
+        210.55,
+        666.75,
+        10.56,
+        "idle",
+        false
+      ],
+      "mira": [
+        926.3,
+        666.75,
+        10.56,
+        "idle",
+        false
+      ],
+      "riven": [
+        1100.125,
+        666.75,
+        10.56,
+        "idle",
+        false
+      ],
+      "elder": [
+        1008.1,
+        666.75,
+        6.3,
+        "ceremony",
+        false
+      ]
+    }
+  ],
+  "description": "Students form a ring around the awakening crystal. Kael takes his place between Mira and Riven while the Elder raises his staff."
+}

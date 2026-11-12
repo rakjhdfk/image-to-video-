@@ -1,0 +1,321 @@
+{
+  "fingerprint": "87b6396d5abbe2b574066132ad75a2cce195c859257276feec5249c5dec0fdf2",
+  "frames": 240,
+  "duration": 10,
+  "render_seconds": 13.97,
+  "sample_frame_hashes": [
+    "d241cf9190123d0c4bccb4e8c919769f831dd5751717d4783c49757c6de3c41f",
+    "251d27f79b621d03c6e883f8440ae91a0e1a3e199e8db8a5fc58dc14ce641d34",
+    "9700d51018e98fdb484f7610b50880da02b60815ff0fdc993688c16c46af370b",
+    "919fff6b6a21163ec56581c3e5006ffc67ebd19f3ac4f192fe9f0f6aef1c6201",
+    "22b2070f31efcec6fb602a5bcd22cbd7c032503b82088e3a1ec6aef0c5fff64f",
+    "086024e3f098d6893940474be030ed3ff7466ff3a1eda66562c6bf0578952a09",
+    "24b4c92e84062fbf89c3d90dde8f7f10333aba5c2973fccfdf3bd47ffe938003",
+    "4121b4921522ea4dded43802aa279c412e98f7132aef7a3900550112c7d72c5b",
+    "dc19e5009fa4d254c7dfb8503395fc553afed270a4c3486b65982f302daa82c2",
+    "716ea9a6900a85b28cc3378a639bb0d18d6afb06f4a2e57ca1dc5c64d9737040"
+  ],
+  "character_motion_samples": [
+    {
+      "kael": [
+        330.0,
+        660.0,
+        2.34,
+        "listen",
+        false
+      ],
+      "mira": [
+        550.0,
+        660.0,
+        2.34,
+        "point",
+        false
+      ],
+      "riven": [
+        760.0,
+        660.0,
+        2.34,
+        "battle",
+        false
+      ],
+      "elder": [
+        1060.0,
+        660.0,
+        2.34,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        329.225,
+        660.75,
+        3.34,
+        "listen",
+        false
+      ],
+      "mira": [
+        549.775,
+        660.75,
+        3.34,
+        "point",
+        false
+      ],
+      "riven": [
+        760.3,
+        660.75,
+        3.34,
+        "battle",
+        true
+      ],
+      "elder": [
+        1059.787,
+        660.75,
+        3.34,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        328.45,
+        661.5,
+        4.34,
+        "listen",
+        false
+      ],
+      "mira": [
+        549.55,
+        661.5,
+        4.34,
+        "point",
+        false
+      ],
+      "riven": [
+        760.6,
+        661.5,
+        4.34,
+        "battle",
+        false
+      ],
+      "elder": [
+        1057.397,
+        661.5,
+        4.34,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        327.675,
+        662.25,
+        5.34,
+        "listen",
+        false
+      ],
+      "mira": [
+        549.325,
+        662.25,
+        5.34,
+        "point",
+        false
+      ],
+      "riven": [
+        760.9,
+        662.25,
+        5.34,
+        "battle",
+        false
+      ],
+      "elder": [
+        1053.357,
+        662.25,
+        5.34,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        326.9,
+        663.0,
+        6.34,
+        "listen",
+        false
+      ],
+      "mira": [
+        549.1,
+        663.0,
+        6.34,
+        "point",
+        false
+      ],
+      "riven": [
+        761.2,
+        663.0,
+        6.34,
+        "battle",
+        false
+      ],
+      "elder": [
+        1048.202,
+        663.0,
+        6.34,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        326.125,
+        663.75,
+        7.34,
+        "listen",
+        false
+      ],
+      "mira": [
+        548.875,
+        663.75,
+        7.34,
+        "point",
+        false
+      ],
+      "riven": [
+        761.5,
+        663.75,
+        7.34,
+        "battle",
+        false
+      ],
+      "elder": [
+        1042.469,
+        663.75,
+        7.34,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        325.35,
+        664.5,
+        8.34,
+        "listen",
+        false
+      ],
+      "mira": [
+        548.65,
+        664.5,
+        8.34,
+        "point",
+        false
+      ],
+      "riven": [
+        761.8,
+        664.5,
+        8.34,
+        "battle",
+        false
+      ],
+      "elder": [
+        1036.703,
+        664.5,
+        8.34,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        324.575,
+        665.25,
+        9.34,
+        "listen",
+        false
+      ],
+      "mira": [
+        548.425,
+        665.25,
+        9.34,
+        "point",
+        false
+      ],
+      "riven": [
+        762.1,
+        665.25,
+        9.34,
+        "battle",
+        false
+      ],
+      "elder": [
+        1031.453,
+        665.25,
+        9.34,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        323.8,
+        666.0,
+        10.34,
+        "listen",
+        false
+      ],
+      "mira": [
+        548.2,
+        666.0,
+        10.34,
+        "point",
+        false
+      ],
+      "riven": [
+        762.4,
+        666.0,
+        10.34,
+        "battle",
+        false
+      ],
+      "elder": [
+        1027.274,
+        666.0,
+        10.34,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        323.025,
+        666.75,
+        11.34,
+        "listen",
+        false
+      ],
+      "mira": [
+        547.975,
+        666.75,
+        11.34,
+        "point",
+        false
+      ],
+      "riven": [
+        762.7,
+        666.75,
+        11.34,
+        "battle",
+        false
+      ],
+      "elder": [
+        1024.726,
+        666.75,
+        11.34,
+        "idle",
+        false
+      ]
+    }
+  ],
+  "description": "The first crack sounds overhead, not from the crystal. A narrow violet fault opens across the blue sky above the Academy."
+}

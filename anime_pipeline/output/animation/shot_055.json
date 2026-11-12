@@ -1,0 +1,321 @@
+{
+  "fingerprint": "00b95319a562b4ed7e2ce6e7c3a6c7f4f75287b7b2219982c0915b5db844b86f",
+  "frames": 240,
+  "duration": 10,
+  "render_seconds": 14.33,
+  "sample_frame_hashes": [
+    "350259642cbb215e76a7f85a2d1d4f84144b3cdac193b40ddfec31559b28491c",
+    "1f379cc13ed210fdfcc28fdec6987c37fc497bf59fbdec5c100d4f457913b0ff",
+    "2354278e3917da7248dabd98ef2d406cec586e50e82c941ddd266ed8c82ac255",
+    "d87f34c2593e87e449731aada2ca567822c4d43e181edec68e7bb0091bca1cde",
+    "949737665b154d135775ae4361a93026ef646d4273f49aa8a290f862aa7f9538",
+    "49496168b8dbc63787bde77a30e3a92aed058f1984964eee612c54cc26105f74",
+    "cdb6b349f8d95eeefb45374825626c53901a88424f3bf6f6e65925dac58239bf",
+    "7c367c7dfd8136b3f35e32dd90e85ef4dcd3256c0624c0289b8bc9cd98afe561",
+    "08bd0dd2e9f5fae0b11c61aafd62f6ffdee3bd74e86891cd26e3cf691e9e596b",
+    "11d762c4026ff54eb1491a8b39ce0c4369d2bb2e60d6815434a22e9ebe760e6a"
+  ],
+  "character_motion_samples": [
+    {
+      "kael": [
+        416.38,
+        672.0,
+        7.967,
+        "walk",
+        false
+      ],
+      "mira": [
+        702.38,
+        672.0,
+        7.967,
+        "walk",
+        false
+      ],
+      "riven": [
+        998.78,
+        672.0,
+        7.967,
+        "walk",
+        false
+      ],
+      "elder": [
+        1149.597,
+        672.0,
+        7.967,
+        "walk",
+        false
+      ]
+    },
+    {
+      "kael": [
+        270.015,
+        672.699,
+        0.8,
+        "walk",
+        false
+      ],
+      "mira": [
+        556.015,
+        672.699,
+        0.8,
+        "walk",
+        true
+      ],
+      "riven": [
+        852.415,
+        672.699,
+        0.8,
+        "walk",
+        false
+      ],
+      "elder": [
+        1080.965,
+        672.699,
+        0.8,
+        "walk",
+        false
+      ]
+    },
+    {
+      "kael": [
+        253.495,
+        674.596,
+        1.6,
+        "walk",
+        false
+      ],
+      "mira": [
+        539.495,
+        674.596,
+        1.6,
+        "walk",
+        true
+      ],
+      "riven": [
+        835.895,
+        674.596,
+        1.6,
+        "walk",
+        false
+      ],
+      "elder": [
+        1077.882,
+        674.596,
+        1.6,
+        "walk",
+        false
+      ]
+    },
+    {
+      "kael": [
+        233.166,
+        677.391,
+        2.4,
+        "walk",
+        false
+      ],
+      "mira": [
+        519.166,
+        677.391,
+        2.4,
+        "walk",
+        true
+      ],
+      "riven": [
+        815.566,
+        677.391,
+        2.4,
+        "walk",
+        false
+      ],
+      "elder": [
+        1077.355,
+        677.391,
+        2.4,
+        "walk",
+        false
+      ]
+    },
+    {
+      "kael": [
+        210.547,
+        680.786,
+        3.2,
+        "walk",
+        false
+      ],
+      "mira": [
+        496.547,
+        680.786,
+        3.2,
+        "walk",
+        false
+      ],
+      "riven": [
+        792.947,
+        680.786,
+        3.2,
+        "walk",
+        false
+      ],
+      "elder": [
+        1078.781,
+        680.786,
+        3.2,
+        "walk",
+        false
+      ]
+    },
+    {
+      "kael": [
+        187.151,
+        684.48,
+        4.0,
+        "walk",
+        true
+      ],
+      "mira": [
+        473.151,
+        684.48,
+        4.0,
+        "walk",
+        false
+      ],
+      "riven": [
+        769.551,
+        684.48,
+        4.0,
+        "walk",
+        false
+      ],
+      "elder": [
+        1081.551,
+        684.48,
+        4.0,
+        "walk",
+        false
+      ]
+    },
+    {
+      "kael": [
+        164.475,
+        688.174,
+        4.8,
+        "walk",
+        true
+      ],
+      "mira": [
+        450.475,
+        688.174,
+        4.8,
+        "walk",
+        false
+      ],
+      "riven": [
+        746.875,
+        688.174,
+        4.8,
+        "walk",
+        false
+      ],
+      "elder": [
+        1085.042,
+        688.174,
+        4.8,
+        "walk",
+        false
+      ]
+    },
+    {
+      "kael": [
+        144.006,
+        691.569,
+        5.6,
+        "walk",
+        false
+      ],
+      "mira": [
+        430.006,
+        691.569,
+        5.6,
+        "walk",
+        false
+      ],
+      "riven": [
+        726.406,
+        691.569,
+        5.6,
+        "walk",
+        false
+      ],
+      "elder": [
+        1088.617,
+        691.569,
+        5.6,
+        "walk",
+        false
+      ]
+    },
+    {
+      "kael": [
+        127.212,
+        694.364,
+        6.4,
+        "walk",
+        false
+      ],
+      "mira": [
+        413.212,
+        694.364,
+        6.4,
+        "walk",
+        false
+      ],
+      "riven": [
+        709.612,
+        694.364,
+        6.4,
+        "walk",
+        false
+      ],
+      "elder": [
+        1091.625,
+        694.364,
+        6.4,
+        "walk",
+        false
+      ]
+    },
+    {
+      "kael": [
+        115.544,
+        696.261,
+        7.2,
+        "walk",
+        false
+      ],
+      "mira": [
+        401.544,
+        696.261,
+        7.2,
+        "walk",
+        false
+      ],
+      "riven": [
+        697.944,
+        696.261,
+        7.2,
+        "walk",
+        false
+      ],
+      "elder": [
+        1093.393,
+        696.261,
+        7.2,
+        "walk",
+        false
+      ]
+    }
+  ],
+  "description": "They descend the tower's short spiral stair. Mira sends a silver guide line down the inner rail while Riven lights each landing with controlled sparks."
+}

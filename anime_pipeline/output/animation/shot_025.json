@@ -1,0 +1,111 @@
+{
+  "fingerprint": "26700c5bb74ba247f744c3337ff78cceea13ac3148e6d941688b477c00bb8445",
+  "frames": 240,
+  "duration": 10,
+  "render_seconds": 12.4,
+  "sample_frame_hashes": [
+    "1471a80dda84686c4edf93c08f31fcdc83cc3f59476c6d6034e3c219078158e4",
+    "d0738b0dd1d5dd8cd4aead578a1d8f0353d4790394ff6cb5610ae41b22f082d5",
+    "1c130270127b2d3fc24a0a29ad5b4b04a04c11ced2529c9ab394f10381a278f8",
+    "a6e425d02774f279c1224b5c22eeb4ecc1bd1292e3b37a0951c2f37f80659ccc",
+    "d2d03a6135b99d41d8f02ca1f320bc37bac8053c95cb4d30a0f96d784944839c",
+    "f0f1c67159d563f32eefc8f70524f0ae3d260efe1d145ecd5d89f1d3bce52d72",
+    "0568c1bf39d7e5dee7bee3bfc38a7241ac1669a86a340a5e83555f2adb9d8b4b",
+    "3b8e5b03a378f6002bf0a82b678de4eac5b20f7515a8f1a9af7ff99ad84620e0",
+    "1fb18b5221b3f3723c8c1c7a06d051c3522e1beb07e4da0483476f6578b3cdcb",
+    "dc46e5240d08902c18b6422fabbbb33363fb7849aaf523bd0a4ff2967e55ba47"
+  ],
+  "character_motion_samples": [
+    {
+      "kael": [
+        573.82,
+        808.8,
+        13.942,
+        "kneel",
+        false
+      ]
+    },
+    {
+      "kael": [
+        621.372,
+        810.45,
+        0.609,
+        "kneel",
+        true
+      ]
+    },
+    {
+      "kael": [
+        621.303,
+        812.1,
+        0.409,
+        "kneel",
+        false
+      ]
+    },
+    {
+      "kael": [
+        621.235,
+        813.75,
+        0.466,
+        "kneel",
+        false
+      ]
+    },
+    {
+      "kael": [
+        621.167,
+        815.4,
+        0.619,
+        "kneel",
+        false
+      ]
+    },
+    {
+      "kael": [
+        621.099,
+        817.05,
+        0.435,
+        "kneel",
+        false
+      ]
+    },
+    {
+      "kael": [
+        621.031,
+        818.7,
+        0.436,
+        "kneel",
+        false
+      ]
+    },
+    {
+      "kael": [
+        620.962,
+        820.35,
+        0.619,
+        "kneel",
+        false
+      ]
+    },
+    {
+      "kael": [
+        620.894,
+        822.0,
+        0.465,
+        "kneel",
+        false
+      ]
+    },
+    {
+      "kael": [
+        620.826,
+        823.65,
+        0.41,
+        "kneel",
+        false
+      ]
+    }
+  ],
+  "description": "Kael tests the beam with his shoulder, finds it too heavy, and searches the rubble for a usable lever instead of forcing it."
+}

@@ -1,0 +1,111 @@
+{
+  "fingerprint": "0c08a564652bf30a00ec3adb6c3e617f0f653b28e8de6ddd29a7dc4b9637b00d",
+  "frames": 240,
+  "duration": 10,
+  "render_seconds": 13.22,
+  "sample_frame_hashes": [
+    "67a0c739a39e7c6ff403c77fe68c96a0df113f110c6de531c9d79363b090652b",
+    "ec9dac90424852c350fa4801e71c534f3e9ddba7bd00dfd54f5e6d8a7b711db0",
+    "3aa7e20d2bb9b4829cd32e5c000b53ec20e9c640725d4fe8b2e15087af004a01",
+    "6f568d8438c3230059ec98c4351ee69b389185e5707cfb8b615d0af2d6460d56",
+    "68c54049b0f505e31c58736ab1e5a9068cbe514c52d793ac0d329a65c4adf2de",
+    "7637360c6e4ca1d7b28a1bc4a341e235a6750e2a5a38fabfc4df683b6ed3eafd",
+    "258d9aed826d240aed968542ba8f1c556bd0b80a0a891f2955cf1f644a14d29c",
+    "26ee0e051cce8323f9d7273c443c3ded687022039d5fc535109710d8daef38a1",
+    "2c61cd25f4ea4f08ff7d8a67a295f4370b65c9144f4e51df90c2c3da0787a00e",
+    "fcea1586fe95ddda4fc346021c868c28a25a14473e01fb318ae4377baef81d3d"
+  ],
+  "character_motion_samples": [
+    {
+      "kael": [
+        607.709,
+        684.0,
+        5.975,
+        "listen",
+        false
+      ]
+    },
+    {
+      "kael": [
+        605.686,
+        684.75,
+        0.6,
+        "listen",
+        false
+      ]
+    },
+    {
+      "kael": [
+        603.654,
+        685.5,
+        1.2,
+        "listen",
+        false
+      ]
+    },
+    {
+      "kael": [
+        601.612,
+        686.25,
+        1.8,
+        "listen",
+        false
+      ]
+    },
+    {
+      "kael": [
+        599.562,
+        687.0,
+        2.4,
+        "listen",
+        false
+      ]
+    },
+    {
+      "kael": [
+        597.503,
+        687.75,
+        3.0,
+        "listen",
+        false
+      ]
+    },
+    {
+      "kael": [
+        595.435,
+        688.5,
+        3.6,
+        "listen",
+        false
+      ]
+    },
+    {
+      "kael": [
+        593.357,
+        689.25,
+        4.2,
+        "listen",
+        true
+      ]
+    },
+    {
+      "kael": [
+        591.271,
+        690.0,
+        4.8,
+        "listen",
+        false
+      ]
+    },
+    {
+      "kael": [
+        589.176,
+        690.75,
+        5.4,
+        "listen",
+        false
+      ]
+    }
+  ],
+  "description": "The lines align with memories of his mother's woven wrist ribbon, then return to the present ruins without changing his physical location."
+}

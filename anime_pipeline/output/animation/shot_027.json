@@ -1,0 +1,251 @@
+{
+  "fingerprint": "47e3fc127b6982ae531f0347a32fe998a18eb83e776ce37329f4eb78d40bd0d3",
+  "frames": 240,
+  "duration": 10,
+  "render_seconds": 14.19,
+  "sample_frame_hashes": [
+    "cc2415147d13051be3b97346bcbe2a55a44e62377e54a9b54ab0112a291fb866",
+    "f1a0c36a5313d71a7818e6e07ee0e5509aec0efb708aca7d3b8ecb961eee2d32",
+    "535f91795d331f0281495d0dc20ad2eede2f214b440f3815ce96c574a98a8252",
+    "9a317fedd6402d34b692d459be433227a21978213d2da0960aa33f4fece6392c",
+    "419f0492676796dce18d976caeeda61809382f2f8bced9f76c9f7ef4510b337e",
+    "fdb730e701de8d2b8dae960b5074677683654aab84e4a285f6ad341fd17b83f8",
+    "f9f436a1ba49746dbc702654bc9d9de3553661f837e5afb30d7bc1d89d0b358e",
+    "aeceac532e5e4183ef93bee378c5bfdb3201053cff4ff60d4502e2d67d602266",
+    "0434d56bd564f23c04ad7c0b0224eb05ffa7401eb7cef000c98866e16564343f",
+    "9683b4e62bd870593579c1f4a290424ea901ec28d0625a6cb49970f8e305795c"
+  ],
+  "character_motion_samples": [
+    {
+      "kael": [
+        640.0,
+        672.0,
+        0.605,
+        "kneel",
+        false
+      ],
+      "mira": [
+        1056.0,
+        672.0,
+        5.975,
+        "weave",
+        false
+      ],
+      "riven": [
+        931.2,
+        672.0,
+        0.0,
+        "battle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        628.087,
+        672.0,
+        0.8,
+        "walk",
+        false
+      ],
+      "mira": [
+        330.418,
+        672.0,
+        0.4,
+        "rescue",
+        false
+      ],
+      "riven": [
+        923.218,
+        672.0,
+        0.6,
+        "battle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        609.591,
+        672.0,
+        1.6,
+        "walk",
+        false
+      ],
+      "mira": [
+        322.592,
+        672.0,
+        0.4,
+        "rescue",
+        false
+      ],
+      "riven": [
+        915.392,
+        672.0,
+        1.2,
+        "battle",
+        true
+      ]
+    },
+    {
+      "kael": [
+        586.35,
+        672.0,
+        2.4,
+        "walk",
+        false
+      ],
+      "mira": [
+        315.076,
+        672.0,
+        0.4,
+        "rescue",
+        false
+      ],
+      "riven": [
+        907.876,
+        672.0,
+        1.8,
+        "battle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        560.195,
+        672.0,
+        3.2,
+        "walk",
+        false
+      ],
+      "mira": [
+        308.016,
+        672.0,
+        0.4,
+        "rescue",
+        false
+      ],
+      "riven": [
+        900.816,
+        672.0,
+        2.4,
+        "battle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        532.951,
+        672.0,
+        4.0,
+        "walk",
+        true
+      ],
+      "mira": [
+        301.551,
+        672.0,
+        0.4,
+        "rescue",
+        false
+      ],
+      "riven": [
+        894.351,
+        672.0,
+        3.0,
+        "battle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        506.427,
+        672.0,
+        4.8,
+        "walk",
+        true
+      ],
+      "mira": [
+        295.806,
+        672.0,
+        0.4,
+        "rescue",
+        false
+      ],
+      "riven": [
+        888.606,
+        672.0,
+        3.6,
+        "battle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        482.422,
+        672.0,
+        5.6,
+        "walk",
+        false
+      ],
+      "mira": [
+        290.896,
+        672.0,
+        0.4,
+        "rescue",
+        false
+      ],
+      "riven": [
+        883.696,
+        672.0,
+        4.2,
+        "battle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        462.716,
+        672.0,
+        6.4,
+        "walk",
+        false
+      ],
+      "mira": [
+        286.914,
+        672.0,
+        0.4,
+        "rescue",
+        false
+      ],
+      "riven": [
+        879.714,
+        672.0,
+        4.8,
+        "battle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        449.072,
+        672.0,
+        7.2,
+        "walk",
+        false
+      ],
+      "mira": [
+        283.94,
+        672.0,
+        0.4,
+        "rescue",
+        false
+      ],
+      "riven": [
+        876.74,
+        672.0,
+        5.4,
+        "battle",
+        false
+      ]
+    }
+  ],
+  "description": "Kael carries the freed student toward the passage. Riven slides between them and the wraith, blocking its descending claw with a grounded lightning arc."
+}

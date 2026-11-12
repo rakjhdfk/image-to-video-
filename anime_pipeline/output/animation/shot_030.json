@@ -1,0 +1,111 @@
+{
+  "fingerprint": "6530c9a14fdf6b40293d47a955887b7ad5995e207484f4ee9aa3028b98a44873",
+  "frames": 240,
+  "duration": 10,
+  "render_seconds": 14.81,
+  "sample_frame_hashes": [
+    "0ca2e17f2e4368d41c27777dd20f49cb921601b4bb9ae712c8ec49a18476be2d",
+    "940ded0245ac6cdc263149470f519b6035a814945883688bd16b1ce474f76c2c",
+    "a4ef49ce2ccbfd6783443d9a148c258f66babdd4ceab80fe921c2d14818a47dd",
+    "cc26095046a08993b4a53211b0a49d464b695b5199880235941423265a0fcfc2",
+    "2aef6c07eeb7b2a9f1ebdc8263ed471a7bdc97dc19ab0eb2384f87cfa8bf7308",
+    "67997a71013bc41354d6acd26388a7e4ae3ca685217ff1f19c3e3e6038bd89e9",
+    "527e87aded35045ceb315299327087b520d0f8840f0e485c0ed5603c35c45dc2",
+    "0031f8dec0f407ce2f11401a3488110ecb7f5b16cdfadf90a51758adc6d7d543",
+    "972b72549bd402b1faf6d279892b48d6cc3ff579b4535d36452549cab33e2da1",
+    "b6445b17ea32e7c447ff4ce1ba5fd17091f1f092a74ea20acd532e0053fa9ffe"
+  ],
+  "character_motion_samples": [
+    {
+      "kael": [
+        384.91,
+        808.8,
+        4.979,
+        "fall",
+        false
+      ]
+    },
+    {
+      "kael": [
+        650.136,
+        810.45,
+        0.6,
+        "listen",
+        true
+      ]
+    },
+    {
+      "kael": [
+        650.173,
+        812.1,
+        1.2,
+        "listen",
+        true
+      ]
+    },
+    {
+      "kael": [
+        650.21,
+        813.75,
+        1.8,
+        "listen",
+        false
+      ]
+    },
+    {
+      "kael": [
+        650.247,
+        815.4,
+        2.4,
+        "listen",
+        false
+      ]
+    },
+    {
+      "kael": [
+        650.284,
+        817.05,
+        3.0,
+        "listen",
+        false
+      ]
+    },
+    {
+      "kael": [
+        650.321,
+        818.7,
+        3.6,
+        "listen",
+        false
+      ]
+    },
+    {
+      "kael": [
+        650.359,
+        820.35,
+        4.2,
+        "listen",
+        false
+      ]
+    },
+    {
+      "kael": [
+        650.396,
+        822.0,
+        4.8,
+        "listen",
+        false
+      ]
+    },
+    {
+      "kael": [
+        650.433,
+        823.65,
+        5.4,
+        "listen",
+        false
+      ]
+    }
+  ],
+  "description": "Kael remains against the wall as fine luminous lines emerge from ordinary stone, linking the rubble, his coat, and the distant ward."
+}

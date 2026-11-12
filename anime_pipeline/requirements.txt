@@ -1,0 +1,5 @@
+Pillow>=11,<14
+numpy>=2,<3
+scipy>=1.14,<2
+sherpa-onnx==2.0.1
+soundfile==0.14.0

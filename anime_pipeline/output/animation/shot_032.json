@@ -1,0 +1,111 @@
+{
+  "fingerprint": "5429a7cefce369485326154b6b4d6f0b9c0911f83c6f84948e2c362cb196d51b",
+  "frames": 240,
+  "duration": 10,
+  "render_seconds": 13.64,
+  "sample_frame_hashes": [
+    "366dd1d1e1c721698cc50b39dbcac8b5795964cffe066ef3ecb5a487f4a797ba",
+    "0ea4b5e75d7166ce0192da6a20870a0e1ea5723937e8ff238d5aeb12f7ee005b",
+    "409f0821a986d0e190c752848c32c89db58984cdd99aeea78f74fee393fccbc1",
+    "f405bed61ae4db0b0f5f45f9ab7a66e370c445ed6bc4e8332a4773c513e805c2",
+    "f7160ed94a2d35e6e451cb4114af05e071e9c46acb3b9e331d8e45cfbba8fbc1",
+    "f72fa0e53c5ec272a7c1b9843b6dfb497b57024f2332043ba2e552266bc4e89a",
+    "ef258e8647a6c7d7335f6e4cc54ad3fb3540b40f95cf3a20f1c356f274cddf15",
+    "14f0b67572d94a13be1612a52fc31e0aa96348966195c3446dd043dfc8201b17",
+    "7fb483475f819a966f8327a1dc36e5b25882fa6563dd211263b2a7c22cc94854",
+    "1f8ca18f1f4c87a717d4efdc9eed9a4a316aa7c543c8f7a346324e3989779434"
+  ],
+  "character_motion_samples": [
+    {
+      "kael": [
+        549.603,
+        808.8,
+        5.975,
+        "listen",
+        false
+      ]
+    },
+    {
+      "kael": [
+        549.271,
+        810.45,
+        0.6,
+        "weave",
+        false
+      ]
+    },
+    {
+      "kael": [
+        548.938,
+        812.1,
+        1.2,
+        "weave",
+        false
+      ]
+    },
+    {
+      "kael": [
+        548.606,
+        813.75,
+        1.8,
+        "weave",
+        false
+      ]
+    },
+    {
+      "kael": [
+        548.273,
+        815.4,
+        2.4,
+        "weave",
+        false
+      ]
+    },
+    {
+      "kael": [
+        547.941,
+        817.05,
+        3.0,
+        "weave",
+        false
+      ]
+    },
+    {
+      "kael": [
+        547.609,
+        818.7,
+        3.6,
+        "weave",
+        true
+      ]
+    },
+    {
+      "kael": [
+        547.276,
+        820.35,
+        4.2,
+        "weave",
+        false
+      ]
+    },
+    {
+      "kael": [
+        546.944,
+        822.0,
+        4.8,
+        "weave",
+        false
+      ]
+    },
+    {
+      "kael": [
+        546.612,
+        823.65,
+        5.4,
+        "weave",
+        false
+      ]
+    }
+  ],
+  "description": "A broken stone fragment rises between Kael's hands as he involuntarily follows two intersecting origin lines; he lets it fall when the voice names the cost."
+}

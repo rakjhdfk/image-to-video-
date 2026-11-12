@@ -1,0 +1,321 @@
+{
+  "fingerprint": "1f7d8977c1faae13f679d2c70b0c11589f4e23fc3ccbde857eca07f643b1081f",
+  "frames": 240,
+  "duration": 10,
+  "render_seconds": 13.91,
+  "sample_frame_hashes": [
+    "963a53ee95a53f4e1940d3e064d146d66c9a37d6779ba971a54e3527fcecf1a3",
+    "84f8e47a270d53d924775c1bed9841d0930f670bca460b19bfbeabc9a3f30b44",
+    "ff735347161ad909d071070eb6d2a00df59acbdffadcb150e7ed98955c446cb3",
+    "ffc2164e70c01adc43b8b5f656b0747993c575a96d07aa276370f3b91e3ff188",
+    "06985371ce6293a2f059d08b45bed237622a34be7019ca8714ae54f04879536a",
+    "caa51f2cb4c4e697f3968a8ee13dce04af74b9116d85f7f7fed4a0ed38209f9f",
+    "0515463bf7d61bfff9ad1bac34e40b846491c76fec058704d30a22f4f93ea0c3",
+    "924a803b21a31192a2ed674c6a947ea9479b23c842dfe3cb70f7e0d8b40b1c82",
+    "654fef7799912f27c1cc4cdde2411afd3cf2f2c3dde72b5bb8a84c4205602f0e",
+    "197d96bc100dce2eb9284266aec52085cfb8a8cc219c7b922feeb365634aa353"
+  ],
+  "character_motion_samples": [
+    {
+      "kael": [
+        31.6,
+        672.0,
+        0.0,
+        "walk",
+        false
+      ],
+      "mira": [
+        317.6,
+        672.0,
+        0.0,
+        "walk",
+        false
+      ],
+      "riven": [
+        614.0,
+        672.0,
+        0.0,
+        "walk",
+        false
+      ],
+      "elder": [
+        1087.2,
+        672.0,
+        0.0,
+        "walk",
+        false
+      ]
+    },
+    {
+      "kael": [
+        34.393,
+        672.0,
+        0.8,
+        "walk",
+        false
+      ],
+      "mira": [
+        320.393,
+        672.0,
+        0.8,
+        "walk",
+        false
+      ],
+      "riven": [
+        616.793,
+        672.0,
+        0.8,
+        "walk",
+        false
+      ],
+      "elder": [
+        1080.965,
+        672.0,
+        0.8,
+        "walk",
+        false
+      ]
+    },
+    {
+      "kael": [
+        55.812,
+        672.0,
+        1.6,
+        "walk",
+        false
+      ],
+      "mira": [
+        341.812,
+        672.0,
+        1.6,
+        "walk",
+        false
+      ],
+      "riven": [
+        638.212,
+        672.0,
+        1.6,
+        "walk",
+        true
+      ],
+      "elder": [
+        1077.882,
+        672.0,
+        1.6,
+        "walk",
+        false
+      ]
+    },
+    {
+      "kael": [
+        91.393,
+        672.0,
+        2.4,
+        "walk",
+        false
+      ],
+      "mira": [
+        377.393,
+        672.0,
+        2.4,
+        "walk",
+        false
+      ],
+      "riven": [
+        673.793,
+        672.0,
+        2.4,
+        "walk",
+        true
+      ],
+      "elder": [
+        1077.355,
+        672.0,
+        2.4,
+        "walk",
+        false
+      ]
+    },
+    {
+      "kael": [
+        136.666,
+        672.0,
+        3.2,
+        "walk",
+        false
+      ],
+      "mira": [
+        422.666,
+        672.0,
+        3.2,
+        "walk",
+        false
+      ],
+      "riven": [
+        719.066,
+        672.0,
+        3.2,
+        "walk",
+        true
+      ],
+      "elder": [
+        1078.781,
+        672.0,
+        3.2,
+        "walk",
+        false
+      ]
+    },
+    {
+      "kael": [
+        187.151,
+        672.0,
+        4.0,
+        "walk",
+        false
+      ],
+      "mira": [
+        473.151,
+        672.0,
+        4.0,
+        "walk",
+        false
+      ],
+      "riven": [
+        769.551,
+        672.0,
+        4.0,
+        "walk",
+        false
+      ],
+      "elder": [
+        1081.551,
+        672.0,
+        4.0,
+        "walk",
+        false
+      ]
+    },
+    {
+      "kael": [
+        238.357,
+        672.0,
+        4.8,
+        "walk",
+        false
+      ],
+      "mira": [
+        524.357,
+        672.0,
+        4.8,
+        "walk",
+        true
+      ],
+      "riven": [
+        820.757,
+        672.0,
+        4.8,
+        "walk",
+        false
+      ],
+      "elder": [
+        1085.042,
+        672.0,
+        4.8,
+        "walk",
+        false
+      ]
+    },
+    {
+      "kael": [
+        285.779,
+        672.0,
+        5.6,
+        "walk",
+        false
+      ],
+      "mira": [
+        571.779,
+        672.0,
+        5.6,
+        "walk",
+        true
+      ],
+      "riven": [
+        868.179,
+        672.0,
+        5.6,
+        "walk",
+        false
+      ],
+      "elder": [
+        1088.617,
+        672.0,
+        5.6,
+        "walk",
+        false
+      ]
+    },
+    {
+      "kael": [
+        324.895,
+        672.0,
+        6.4,
+        "walk",
+        false
+      ],
+      "mira": [
+        610.895,
+        672.0,
+        6.4,
+        "walk",
+        true
+      ],
+      "riven": [
+        907.295,
+        672.0,
+        6.4,
+        "walk",
+        false
+      ],
+      "elder": [
+        1091.625,
+        672.0,
+        6.4,
+        "walk",
+        false
+      ]
+    },
+    {
+      "kael": [
+        351.166,
+        672.0,
+        7.2,
+        "walk",
+        false
+      ],
+      "mira": [
+        637.166,
+        672.0,
+        7.2,
+        "walk",
+        false
+      ],
+      "riven": [
+        933.566,
+        672.0,
+        7.2,
+        "walk",
+        false
+      ],
+      "elder": [
+        1093.393,
+        672.0,
+        7.2,
+        "walk",
+        false
+      ]
+    }
+  ],
+  "description": "The group crosses the short courtyard approach to the sealed tower; the camera follows behind them through the doorway instead of cutting them to a new place."
+}

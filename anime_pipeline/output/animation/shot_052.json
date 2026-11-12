@@ -1,0 +1,321 @@
+{
+  "fingerprint": "3bc1305d35a567e9f349a779a523cd2fb7ad45d8b0ea3329cbf538112d1dc3a6",
+  "frames": 240,
+  "duration": 10,
+  "render_seconds": 21.4,
+  "sample_frame_hashes": [
+    "bd3c121a1d4229918f2fef7af61188bbf45de788af5400598965d4de2834c167",
+    "8b3a413d8776868dbfcc898cfdb9e1737398eb8c67f4bc66d7acea145d13daec",
+    "5d23703801f4f17472d7ab1fe407b946b122ee3000a6149ee4601153deb6be67",
+    "d9cf9345f27d67298057866acfd3d70fb1948c189dfaa08ea37b34b55efffc45",
+    "851514d23d66378cd475a59d9800bb831281c58bee1ba2fd33ed8cde43320395",
+    "245d9cd4ecfc86ac8961e9b6f43d7ab2a34c36a374299218e4a55140ddc72d4d",
+    "ef9ab94241374e6ff312fed49efdce505d5244385f176759f5c926d3c23b2514",
+    "4f17534a0946bdcc04f38794f2dbb4f82c1a2c0307cad689a7f63d4df4489753",
+    "6434b71fede3ed22d9b705b6607eb0134095512cd16d6fcfec973c189b64c6d4",
+    "6c3d51640ef8f84eb81ea994afcf67d1a54c5f1afa7ea9e55d504844b769466e"
+  ],
+  "character_motion_samples": [
+    {
+      "kael": [
+        453.193,
+        808.8,
+        4.979,
+        "listen",
+        false
+      ],
+      "elder": [
+        1051.593,
+        808.8,
+        4.979,
+        "talk",
+        false
+      ],
+      "mira": [
+        738.793,
+        808.8,
+        4.979,
+        "listen",
+        false
+      ],
+      "riven": [
+        181.193,
+        808.8,
+        4.979,
+        "listen",
+        false
+      ]
+    },
+    {
+      "kael": [
+        452.506,
+        810.45,
+        0.5,
+        "listen",
+        false
+      ],
+      "elder": [
+        1053.106,
+        810.45,
+        0.5,
+        "point",
+        true
+      ],
+      "mira": [
+        739.156,
+        810.45,
+        0.5,
+        "listen",
+        false
+      ],
+      "riven": [
+        179.506,
+        810.45,
+        0.5,
+        "listen",
+        false
+      ]
+    },
+    {
+      "kael": [
+        451.819,
+        812.1,
+        1.0,
+        "listen",
+        false
+      ],
+      "elder": [
+        1054.619,
+        812.1,
+        1.0,
+        "point",
+        true
+      ],
+      "mira": [
+        739.519,
+        812.1,
+        1.0,
+        "listen",
+        false
+      ],
+      "riven": [
+        177.819,
+        812.1,
+        1.0,
+        "listen",
+        false
+      ]
+    },
+    {
+      "kael": [
+        451.133,
+        813.75,
+        1.5,
+        "listen",
+        false
+      ],
+      "elder": [
+        1056.133,
+        813.75,
+        1.5,
+        "point",
+        true
+      ],
+      "mira": [
+        739.883,
+        813.75,
+        1.5,
+        "listen",
+        false
+      ],
+      "riven": [
+        176.133,
+        813.75,
+        1.5,
+        "listen",
+        false
+      ]
+    },
+    {
+      "kael": [
+        450.446,
+        815.4,
+        2.0,
+        "listen",
+        false
+      ],
+      "elder": [
+        1057.646,
+        815.4,
+        2.0,
+        "point",
+        true
+      ],
+      "mira": [
+        740.246,
+        815.4,
+        2.0,
+        "listen",
+        false
+      ],
+      "riven": [
+        174.446,
+        815.4,
+        2.0,
+        "listen",
+        false
+      ]
+    },
+    {
+      "kael": [
+        449.759,
+        817.05,
+        2.5,
+        "listen",
+        false
+      ],
+      "elder": [
+        1059.159,
+        817.05,
+        2.5,
+        "point",
+        true
+      ],
+      "mira": [
+        740.609,
+        817.05,
+        2.5,
+        "listen",
+        false
+      ],
+      "riven": [
+        172.759,
+        817.05,
+        2.5,
+        "listen",
+        false
+      ]
+    },
+    {
+      "kael": [
+        449.072,
+        818.7,
+        3.0,
+        "listen",
+        true
+      ],
+      "elder": [
+        1060.672,
+        818.7,
+        3.0,
+        "point",
+        false
+      ],
+      "mira": [
+        740.972,
+        818.7,
+        3.0,
+        "listen",
+        false
+      ],
+      "riven": [
+        171.072,
+        818.7,
+        3.0,
+        "listen",
+        false
+      ]
+    },
+    {
+      "kael": [
+        448.385,
+        820.35,
+        3.5,
+        "listen",
+        true
+      ],
+      "elder": [
+        1062.185,
+        820.35,
+        3.5,
+        "point",
+        false
+      ],
+      "mira": [
+        741.335,
+        820.35,
+        3.5,
+        "listen",
+        false
+      ],
+      "riven": [
+        169.385,
+        820.35,
+        3.5,
+        "listen",
+        false
+      ]
+    },
+    {
+      "kael": [
+        447.699,
+        822.0,
+        4.0,
+        "listen",
+        false
+      ],
+      "elder": [
+        1063.699,
+        822.0,
+        4.0,
+        "point",
+        false
+      ],
+      "mira": [
+        741.699,
+        822.0,
+        4.0,
+        "listen",
+        false
+      ],
+      "riven": [
+        167.699,
+        822.0,
+        4.0,
+        "listen",
+        false
+      ]
+    },
+    {
+      "kael": [
+        447.012,
+        823.65,
+        4.5,
+        "listen",
+        false
+      ],
+      "elder": [
+        1065.212,
+        823.65,
+        4.5,
+        "point",
+        false
+      ],
+      "mira": [
+        742.062,
+        823.65,
+        4.5,
+        "listen",
+        false
+      ],
+      "riven": [
+        166.012,
+        823.65,
+        4.5,
+        "listen",
+        false
+      ]
+    }
+  ],
+  "description": "The Elder names Kael's mother as the keeper of the first seal. The supposedly empty wrist was the lock she left to protect him."
+}

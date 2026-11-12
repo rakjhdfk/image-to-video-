@@ -1,0 +1,251 @@
+{
+  "fingerprint": "49a3fa3e5d4abedd62aa706cdfad887863dd7da60f69cccfdc0d12a994a0efe0",
+  "frames": 240,
+  "duration": 10,
+  "render_seconds": 14.6,
+  "sample_frame_hashes": [
+    "8a2e90d593c53a5b3a6ade75aa6e4d5c63463fae3603e669460529a203aefe00",
+    "34f2983f35424115e83afafef7b214592d66ed735e0a99310428af4ac387b055",
+    "2ec380a578677ef4dd9f5e454e85076013f60bfda4a7e78149a3b253bea35a2e",
+    "a715467fe4f701850997220d71c1f53bfe5b5929ab1f0155e65895be439c99b5",
+    "eaecc83fd964337091ac0545abd1612e44ecf0cc5e2239e7a63ba8b98e204901",
+    "cf0a665d407cdd9248a883afb2e16ea22ef5aafd918be1d947527fa3648a9509",
+    "a55f3280b5b3f29139134214376725cfc5e1a4f6d99266132568de5369615d38",
+    "9dd7df96da86a1952e334cdf88ea2b68e9e2828e15d9513fa013f9774c8d3809",
+    "d6d522c82453f26ff7d931ff0fe6ebd3d3857054ef91b05ba1e963bf57cd2f8d",
+    "596460783565359da38eafaa889b901b4aa81f46c81c3a668467d8ce8a0d7c0d"
+  ],
+  "character_motion_samples": [
+    {
+      "kael": [
+        581.316,
+        808.8,
+        13.598,
+        "point",
+        false
+      ],
+      "mira": [
+        1023.322,
+        808.8,
+        13.598,
+        "idle",
+        false
+      ],
+      "riven": [
+        615.338,
+        808.8,
+        0.5,
+        "kneel",
+        false
+      ]
+    },
+    {
+      "kael": [
+        568.357,
+        810.45,
+        0.5,
+        "dodge",
+        false
+      ],
+      "mira": [
+        1024.731,
+        813.317,
+        4.77,
+        "idle",
+        true
+      ],
+      "riven": [
+        1038.381,
+        813.317,
+        0.6,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        551.956,
+        812.1,
+        1.0,
+        "dodge",
+        false
+      ],
+      "mira": [
+        1026.141,
+        822.786,
+        5.77,
+        "idle",
+        false
+      ],
+      "riven": [
+        1039.841,
+        822.786,
+        1.2,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        527.765,
+        813.75,
+        1.5,
+        "dodge",
+        false
+      ],
+      "mira": [
+        1027.55,
+        836.025,
+        6.77,
+        "idle",
+        false
+      ],
+      "riven": [
+        1041.3,
+        836.025,
+        1.8,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        498.266,
+        815.4,
+        2.0,
+        "fall",
+        false
+      ],
+      "mira": [
+        1028.959,
+        851.832,
+        7.77,
+        "idle",
+        false
+      ],
+      "riven": [
+        1042.759,
+        851.832,
+        2.4,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        465.981,
+        817.05,
+        2.5,
+        "fall",
+        false
+      ],
+      "mira": [
+        1030.368,
+        868.987,
+        8.77,
+        "idle",
+        false
+      ],
+      "riven": [
+        1044.218,
+        868.987,
+        3.0,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        433.466,
+        818.7,
+        3.0,
+        "fall",
+        false
+      ],
+      "mira": [
+        1031.778,
+        886.254,
+        9.77,
+        "idle",
+        false
+      ],
+      "riven": [
+        1045.678,
+        886.254,
+        3.6,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        403.317,
+        820.35,
+        3.5,
+        "fall",
+        false
+      ],
+      "mira": [
+        1033.187,
+        902.376,
+        10.77,
+        "idle",
+        false
+      ],
+      "riven": [
+        1047.137,
+        902.376,
+        4.2,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        378.164,
+        822.0,
+        4.0,
+        "fall",
+        false
+      ],
+      "mira": [
+        1034.596,
+        916.08,
+        11.77,
+        "idle",
+        false
+      ],
+      "riven": [
+        1048.596,
+        916.08,
+        4.8,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        360.678,
+        823.65,
+        4.5,
+        "fall",
+        false
+      ],
+      "mira": [
+        1036.005,
+        926.074,
+        12.77,
+        "idle",
+        false
+      ],
+      "riven": [
+        1050.055,
+        926.074,
+        5.4,
+        "idle",
+        false
+      ]
+    }
+  ],
+  "description": "A pressure wave throws Kael against the old tower's boundary wall. His unmarked wrist touches a buried woven symbol, and the noise of battle falls away."
+}

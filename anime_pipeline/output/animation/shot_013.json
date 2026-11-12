@@ -1,0 +1,251 @@
+{
+  "fingerprint": "30553eacfc8d9fa9245f332973548193384e64842e0c6f3d63d113b9d91a223c",
+  "frames": 240,
+  "duration": 10,
+  "render_seconds": 15.79,
+  "sample_frame_hashes": [
+    "21eaa62805448ecf060f4bda91a9e01063f8d6f1060228d7c216ea2fc7b1aea7",
+    "422739c1350dee478edc559ad758bf85793338f50f1e5bf79b3e3928f9399cd1",
+    "7157202ea5d5a851d6a617202b5905b2c3cda953bd39b7a8e05c854a9e5819d2",
+    "5a1e3af80c64d516be5a595f7798dfaf8d691e77d6e2b1f614a26db0d84a37dc",
+    "e1ee08a244ce1abc91ba92caa2046fd9615cc6b6e03ea10ed285450c55758d02",
+    "63c3c32c255c6df491b20ed94ad2f07090c6f549f107df513a813a3b14a2fc41",
+    "a711b018962409726a1006d7f3bf3b8981c59dae76682e9374215af36c38b1c3",
+    "da80d765296690749eb3145b294a672efbc60617189454ebd9f92ee3b98dce4c",
+    "14bc02fbd6f7f0f3f4a273c739bc15235ae9477198f28ef91ddd29aaa2ed3af7",
+    "563df538bb733d18f67748924b6bebdbe72dd51b20fc74adff919784ee88400a"
+  ],
+  "character_motion_samples": [
+    {
+      "mira": [
+        931.055,
+        684.0,
+        11.518,
+        "idle",
+        false
+      ],
+      "kael": [
+        175.055,
+        684.0,
+        11.518,
+        "idle",
+        false
+      ],
+      "elder": [
+        1017.455,
+        684.0,
+        6.971,
+        "ceremony",
+        false
+      ]
+    },
+    {
+      "mira": [
+        507.606,
+        684.75,
+        0.7,
+        "ceremony",
+        false
+      ],
+      "kael": [
+        172.031,
+        684.75,
+        2.69,
+        "idle",
+        false
+      ],
+      "elder": [
+        929.781,
+        684.75,
+        2.69,
+        "talk",
+        true
+      ]
+    },
+    {
+      "mira": [
+        505.347,
+        685.5,
+        1.4,
+        "ceremony",
+        false
+      ],
+      "kael": [
+        168.997,
+        685.5,
+        3.69,
+        "idle",
+        false
+      ],
+      "elder": [
+        928.497,
+        685.5,
+        3.69,
+        "talk",
+        false
+      ]
+    },
+    {
+      "mira": [
+        503.079,
+        686.25,
+        2.1,
+        "ceremony",
+        false
+      ],
+      "kael": [
+        165.954,
+        686.25,
+        4.69,
+        "idle",
+        false
+      ],
+      "elder": [
+        927.204,
+        686.25,
+        4.69,
+        "talk",
+        true
+      ]
+    },
+    {
+      "mira": [
+        500.802,
+        687.0,
+        2.8,
+        "ceremony",
+        false
+      ],
+      "kael": [
+        162.902,
+        687.0,
+        5.69,
+        "idle",
+        false
+      ],
+      "elder": [
+        925.902,
+        687.0,
+        5.69,
+        "talk",
+        true
+      ]
+    },
+    {
+      "mira": [
+        498.517,
+        687.75,
+        3.5,
+        "ceremony",
+        true
+      ],
+      "kael": [
+        159.842,
+        687.75,
+        6.69,
+        "idle",
+        false
+      ],
+      "elder": [
+        924.592,
+        687.75,
+        6.69,
+        "idle",
+        false
+      ]
+    },
+    {
+      "mira": [
+        496.222,
+        688.5,
+        4.2,
+        "ceremony",
+        true
+      ],
+      "kael": [
+        156.772,
+        688.5,
+        7.69,
+        "idle",
+        false
+      ],
+      "elder": [
+        923.272,
+        688.5,
+        7.69,
+        "idle",
+        false
+      ]
+    },
+    {
+      "mira": [
+        493.918,
+        689.25,
+        4.9,
+        "ceremony",
+        false
+      ],
+      "kael": [
+        153.693,
+        689.25,
+        8.69,
+        "idle",
+        false
+      ],
+      "elder": [
+        921.943,
+        689.25,
+        8.69,
+        "idle",
+        false
+      ]
+    },
+    {
+      "mira": [
+        491.605,
+        690.0,
+        5.6,
+        "ceremony",
+        false
+      ],
+      "kael": [
+        150.605,
+        690.0,
+        9.69,
+        "idle",
+        false
+      ],
+      "elder": [
+        920.605,
+        690.0,
+        9.69,
+        "idle",
+        false
+      ]
+    },
+    {
+      "mira": [
+        489.284,
+        690.75,
+        6.3,
+        "ceremony",
+        false
+      ],
+      "kael": [
+        147.509,
+        690.75,
+        10.69,
+        "idle",
+        false
+      ],
+      "elder": [
+        919.259,
+        690.75,
+        10.69,
+        "idle",
+        false
+      ]
+    }
+  ],
+  "description": "Mira places her palm on the crystal. Silver filaments form a precise constellation, then return neatly to her wrist."
+}

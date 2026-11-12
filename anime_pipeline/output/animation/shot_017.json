@@ -1,0 +1,321 @@
+{
+  "fingerprint": "d18875de3ee348c94079c21430d000b550153aaeb2e72721a8d9e968563abfd4",
+  "frames": 240,
+  "duration": 10,
+  "render_seconds": 13.53,
+  "sample_frame_hashes": [
+    "9b29dd03d464dca59a49f6bfba6f4be7643a9b4a07ee944d33c632bcc48b563e",
+    "b6379b33de11b92b7113d70d6b0a81c2f7a34461950581ec4a9d0d8fe9c6b642",
+    "60163249a141028c75c5bf788e4630e963893fbb086b112bf57aab95857fb2bd",
+    "01f59d840520d78b424a71626d5c1eecc818f43d3ae0c41c690ce7916868624c",
+    "6611ba42bf21e1c891a196498de8416e7eab1a777257cc2c3ba2800e3f33c069",
+    "5be042d95c503faea87bc9d8ae724731332ea3d03c093c04e755960aab292dcd",
+    "fe1bd14413d0996298f7a7b2fa54ea56c18bcba72cfbba53832f9325667a8c7d",
+    "c3cfffa799a8d0571083ad2343958bf005fa310ca3218a60f0d2ca5d879aa33f",
+    "f7b26e042398907b273a62aea2d8dea461e42d8c5c90b7ccffa94139c9cc9b62",
+    "28079ddd25324aa09fee38dfd6bbb54a7780a1f54fa3ef9808ebbcb63ebd82ab"
+  ],
+  "character_motion_samples": [
+    {
+      "kael": [
+        547.158,
+        684.0,
+        6.971,
+        "ceremony",
+        false
+      ],
+      "elder": [
+        212.358,
+        684.0,
+        12.038,
+        "idle",
+        false
+      ],
+      "mira": [
+        968.358,
+        684.0,
+        12.038,
+        "idle",
+        false
+      ],
+      "riven": [
+        1151.958,
+        684.0,
+        12.038,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        544.994,
+        684.75,
+        0.7,
+        "walk",
+        false
+      ],
+      "elder": [
+        209.419,
+        684.75,
+        3.21,
+        "idle",
+        false
+      ],
+      "mira": [
+        967.169,
+        684.75,
+        3.21,
+        "talk",
+        true
+      ],
+      "riven": [
+        1151.194,
+        684.75,
+        3.21,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        542.822,
+        685.5,
+        1.4,
+        "walk",
+        false
+      ],
+      "elder": [
+        206.472,
+        685.5,
+        4.21,
+        "idle",
+        false
+      ],
+      "mira": [
+        965.972,
+        685.5,
+        4.21,
+        "talk",
+        true
+      ],
+      "riven": [
+        1150.422,
+        685.5,
+        4.21,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        540.64,
+        686.25,
+        2.1,
+        "walk",
+        false
+      ],
+      "elder": [
+        203.515,
+        686.25,
+        5.21,
+        "idle",
+        false
+      ],
+      "mira": [
+        964.765,
+        686.25,
+        5.21,
+        "talk",
+        false
+      ],
+      "riven": [
+        1149.64,
+        686.25,
+        5.21,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        538.45,
+        687.0,
+        2.8,
+        "ceremony",
+        false
+      ],
+      "elder": [
+        200.55,
+        687.0,
+        6.21,
+        "idle",
+        false
+      ],
+      "mira": [
+        963.55,
+        687.0,
+        6.21,
+        "idle",
+        false
+      ],
+      "riven": [
+        1148.85,
+        687.0,
+        6.21,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        536.251,
+        687.75,
+        3.5,
+        "ceremony",
+        false
+      ],
+      "elder": [
+        197.576,
+        687.75,
+        7.21,
+        "talk",
+        true
+      ],
+      "mira": [
+        962.326,
+        687.75,
+        7.21,
+        "idle",
+        false
+      ],
+      "riven": [
+        1148.051,
+        687.75,
+        7.21,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        534.042,
+        688.5,
+        4.2,
+        "ceremony",
+        false
+      ],
+      "elder": [
+        194.592,
+        688.5,
+        8.21,
+        "talk",
+        true
+      ],
+      "mira": [
+        961.092,
+        688.5,
+        8.21,
+        "idle",
+        false
+      ],
+      "riven": [
+        1147.242,
+        688.5,
+        8.21,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        531.825,
+        689.25,
+        4.9,
+        "ceremony",
+        false
+      ],
+      "elder": [
+        191.6,
+        689.25,
+        9.21,
+        "idle",
+        false
+      ],
+      "mira": [
+        959.85,
+        689.25,
+        9.21,
+        "idle",
+        false
+      ],
+      "riven": [
+        1146.425,
+        689.25,
+        9.21,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        529.598,
+        690.0,
+        5.6,
+        "ceremony",
+        false
+      ],
+      "elder": [
+        188.598,
+        690.0,
+        10.21,
+        "idle",
+        false
+      ],
+      "mira": [
+        958.598,
+        690.0,
+        10.21,
+        "idle",
+        false
+      ],
+      "riven": [
+        1145.598,
+        690.0,
+        10.21,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        527.363,
+        690.75,
+        6.3,
+        "ceremony",
+        false
+      ],
+      "elder": [
+        185.588,
+        690.75,
+        11.21,
+        "idle",
+        false
+      ],
+      "mira": [
+        957.338,
+        690.75,
+        11.21,
+        "idle",
+        false
+      ],
+      "riven": [
+        1144.763,
+        690.75,
+        11.21,
+        "idle",
+        false
+      ]
+    }
+  ],
+  "description": "Kael withdraws his hand. The dark fracture follows his fingertips like an unfinished line before vanishing into the crystal."
+}

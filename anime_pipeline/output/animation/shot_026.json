@@ -1,0 +1,181 @@
+{
+  "fingerprint": "165c07902affd18c60c402d2f80011d8f6f423e408ea1ef27e5fdb993862b2d8",
+  "frames": 240,
+  "duration": 10,
+  "render_seconds": 14.42,
+  "sample_frame_hashes": [
+    "780840f899e71ca475bf3b253ba01ac828b0150573fab729535bc38a138b6ca2",
+    "37cc7efa976b743f60be71505f2c478a12c437b931ddfcadc155ae41efd4778a",
+    "cc0e22c04ef03b94ac12edc10d2c8204e088de976ffd4b674f50d8dbc11675d2",
+    "cb8e8552b9c5ac33bcb8f145289e224c7084408a0d85913ff643e6b6a76fffaf",
+    "e4d292537939e3cf298250c4e66b1147cc9244468251fb26a1a569c028a1ac7a",
+    "a9b70bf5b0eb1466062d374338b932fe4dc11319a591aa6ecd306941c10eb30c",
+    "1c0041265bc2d4388ee484134fd79fc328fecfe31e2d963ff959a40ed881e956",
+    "48e22b34b0c9dc729f425c6b337908b86a2ae825154d9ba60c0aec0ed5125213",
+    "08c918e0914efefe83d3b40fba8a9ad5426c184ab75d0f5364fa31b7d515a82e",
+    "74729055f3208bfa0687f532b469c93aadf157c160527374869d4a4bf98d7835"
+  ],
+  "character_motion_samples": [
+    {
+      "kael": [
+        597.811,
+        684.0,
+        0.605,
+        "kneel",
+        false
+      ],
+      "mira": [
+        1029.811,
+        684.0,
+        0.0,
+        "weave",
+        false
+      ]
+    },
+    {
+      "kael": [
+        595.765,
+        684.75,
+        0.609,
+        "kneel",
+        false
+      ],
+      "mira": [
+        1028.765,
+        684.75,
+        0.6,
+        "weave",
+        true
+      ]
+    },
+    {
+      "kael": [
+        593.71,
+        685.5,
+        0.409,
+        "kneel",
+        false
+      ],
+      "mira": [
+        1027.71,
+        685.5,
+        1.2,
+        "weave",
+        false
+      ]
+    },
+    {
+      "kael": [
+        591.645,
+        686.25,
+        0.466,
+        "kneel",
+        false
+      ],
+      "mira": [
+        1026.645,
+        686.25,
+        1.8,
+        "weave",
+        true
+      ]
+    },
+    {
+      "kael": [
+        589.572,
+        687.0,
+        0.619,
+        "kneel",
+        false
+      ],
+      "mira": [
+        1025.572,
+        687.0,
+        2.4,
+        "weave",
+        false
+      ]
+    },
+    {
+      "kael": [
+        587.49,
+        687.75,
+        0.435,
+        "kneel",
+        true
+      ],
+      "mira": [
+        1024.49,
+        687.75,
+        3.0,
+        "weave",
+        false
+      ]
+    },
+    {
+      "kael": [
+        585.399,
+        688.5,
+        0.436,
+        "kneel",
+        true
+      ],
+      "mira": [
+        1023.399,
+        688.5,
+        3.6,
+        "weave",
+        false
+      ]
+    },
+    {
+      "kael": [
+        583.299,
+        689.25,
+        0.619,
+        "kneel",
+        false
+      ],
+      "mira": [
+        1022.299,
+        689.25,
+        4.2,
+        "weave",
+        false
+      ]
+    },
+    {
+      "kael": [
+        581.19,
+        690.0,
+        0.465,
+        "kneel",
+        false
+      ],
+      "mira": [
+        1021.19,
+        690.0,
+        4.8,
+        "weave",
+        false
+      ]
+    },
+    {
+      "kael": [
+        579.071,
+        690.75,
+        0.41,
+        "kneel",
+        false
+      ],
+      "mira": [
+        1020.071,
+        690.75,
+        5.4,
+        "weave",
+        false
+      ]
+    }
+  ],
+  "description": "Kael wedges the iron bracket beneath the beam. Mira catches it with a silver thread, stabilising the fulcrum while he levers the stone upward."
+}

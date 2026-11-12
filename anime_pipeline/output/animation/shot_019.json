@@ -1,0 +1,321 @@
+{
+  "fingerprint": "0ba0885462ced83bb180d569f670b2b408249e9cbd74661616f327494453bc75",
+  "frames": 240,
+  "duration": 10,
+  "render_seconds": 14.07,
+  "sample_frame_hashes": [
+    "62c377720b05d9dcfd123ca63822d98cc43bd1f79313423da65966e618cc244e",
+    "dc1fab61c4bdff160ff94d2df8a330d93422f0482e035ae56e1bcfb152e38f32",
+    "1f972a2e5b03baadf494ccef57eca4af72b5c93fc3036136bb6a6ffe6a3fa58b",
+    "950129e8ee7d920449f34f3a65907773b3717e695d17c76818602ed005fff5cd",
+    "c3d35aa371cfd9d27acdb2e51e6a50f4ef59e214de6e929401bd0d19e5a57cd8",
+    "8c83048cffac5b1c5c45deddf68b39ee400a62fda0b612ef4d7daa4327c3d794",
+    "3f5ca98008bc2bc6d4b4530e998acea34eb825eed04aac8c2a93818d1225bef9",
+    "eeb27751f555c40f3c9edac2b7c67c099b6c1829ddf8e7357811eaaafcc978ba",
+    "592703064c6654825074bea8d681cbad3ab7d2cdbd89d12084de091c74293469",
+    "afe84f20d757e6c2bcf0649c53de22928cf51cec4cdd49dd39fff88d3d96c39e"
+  ],
+  "character_motion_samples": [
+    {
+      "kael": [
+        330.0,
+        660.0,
+        12.298,
+        "listen",
+        false
+      ],
+      "mira": [
+        550.0,
+        660.0,
+        12.298,
+        "point",
+        false
+      ],
+      "riven": [
+        760.0,
+        660.0,
+        12.298,
+        "battle",
+        false
+      ],
+      "elder": [
+        1015.002,
+        660.0,
+        12.298,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        329.225,
+        660.75,
+        3.47,
+        "listen",
+        false
+      ],
+      "mira": [
+        549.775,
+        660.75,
+        3.47,
+        "point",
+        false
+      ],
+      "riven": [
+        760.3,
+        660.75,
+        3.47,
+        "battle",
+        false
+      ],
+      "elder": [
+        960.8,
+        660.75,
+        0.5,
+        "seal",
+        true
+      ]
+    },
+    {
+      "kael": [
+        328.45,
+        661.5,
+        4.47,
+        "listen",
+        false
+      ],
+      "mira": [
+        549.55,
+        661.5,
+        4.47,
+        "point",
+        false
+      ],
+      "riven": [
+        760.6,
+        661.5,
+        4.47,
+        "battle",
+        false
+      ],
+      "elder": [
+        961.6,
+        661.5,
+        1.0,
+        "seal",
+        true
+      ]
+    },
+    {
+      "kael": [
+        327.675,
+        662.25,
+        5.47,
+        "listen",
+        false
+      ],
+      "mira": [
+        549.325,
+        662.25,
+        5.47,
+        "point",
+        false
+      ],
+      "riven": [
+        760.9,
+        662.25,
+        5.47,
+        "battle",
+        false
+      ],
+      "elder": [
+        962.4,
+        662.25,
+        1.5,
+        "seal",
+        false
+      ]
+    },
+    {
+      "kael": [
+        326.9,
+        663.0,
+        6.47,
+        "listen",
+        false
+      ],
+      "mira": [
+        549.1,
+        663.0,
+        6.47,
+        "point",
+        false
+      ],
+      "riven": [
+        761.2,
+        663.0,
+        6.47,
+        "battle",
+        false
+      ],
+      "elder": [
+        963.2,
+        663.0,
+        2.0,
+        "seal",
+        false
+      ]
+    },
+    {
+      "kael": [
+        326.125,
+        663.75,
+        7.47,
+        "listen",
+        false
+      ],
+      "mira": [
+        548.875,
+        663.75,
+        7.47,
+        "point",
+        true
+      ],
+      "riven": [
+        761.5,
+        663.75,
+        7.47,
+        "battle",
+        false
+      ],
+      "elder": [
+        964.0,
+        663.75,
+        2.5,
+        "seal",
+        false
+      ]
+    },
+    {
+      "kael": [
+        325.35,
+        664.5,
+        8.47,
+        "listen",
+        false
+      ],
+      "mira": [
+        548.65,
+        664.5,
+        8.47,
+        "point",
+        true
+      ],
+      "riven": [
+        761.8,
+        664.5,
+        8.47,
+        "battle",
+        false
+      ],
+      "elder": [
+        964.8,
+        664.5,
+        3.0,
+        "seal",
+        false
+      ]
+    },
+    {
+      "kael": [
+        324.575,
+        665.25,
+        9.47,
+        "listen",
+        false
+      ],
+      "mira": [
+        548.425,
+        665.25,
+        9.47,
+        "point",
+        true
+      ],
+      "riven": [
+        762.1,
+        665.25,
+        9.47,
+        "battle",
+        false
+      ],
+      "elder": [
+        965.6,
+        665.25,
+        3.5,
+        "seal",
+        false
+      ]
+    },
+    {
+      "kael": [
+        323.8,
+        666.0,
+        10.47,
+        "listen",
+        false
+      ],
+      "mira": [
+        548.2,
+        666.0,
+        10.47,
+        "point",
+        false
+      ],
+      "riven": [
+        762.4,
+        666.0,
+        10.47,
+        "battle",
+        false
+      ],
+      "elder": [
+        966.4,
+        666.0,
+        4.0,
+        "seal",
+        false
+      ]
+    },
+    {
+      "kael": [
+        323.025,
+        666.75,
+        11.47,
+        "listen",
+        false
+      ],
+      "mira": [
+        547.975,
+        666.75,
+        11.47,
+        "point",
+        false
+      ],
+      "riven": [
+        762.7,
+        666.75,
+        11.47,
+        "battle",
+        false
+      ],
+      "elder": [
+        967.2,
+        666.75,
+        4.5,
+        "seal",
+        false
+      ]
+    }
+  ],
+  "description": "The sky fault widens into a rotating rift. The Elder strikes his staff into the dais and raises a golden ward above the students."
+}

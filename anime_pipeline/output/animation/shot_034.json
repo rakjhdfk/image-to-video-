@@ -1,0 +1,111 @@
+{
+  "fingerprint": "270a9ceb7c59ec317a5ecaf531ead5d21b83dc6bca1d31d33ce5db64339427ed",
+  "frames": 240,
+  "duration": 10,
+  "render_seconds": 16.3,
+  "sample_frame_hashes": [
+    "b0b3255af5d2c4ac98d8e8a6714a4902bbf132eb7737f7114e398b384d9bf8c9",
+    "7d5076d3f540e644b804994253412316ebc8c801622d6dce1ff8e436126d8dd6",
+    "6b14294f61eff1aa4642724ad9d44c72de10d6d77236f5113a66e0102426e02d",
+    "b77b146f38ea11abd905117e7e8ab83e224d579920faaebcb4566ad3bc85f830",
+    "41a67403453a700f640e232f1c44f1a1811246ce4195d6cb809461c73a23b532",
+    "8efd7e84b587201c7efa48cbc5446d4dfdedffe38ffa9dbb347bb88476d03115",
+    "74c5b9ce30e34cf05e3123b3c4a3adf361630da3d88a391175908063c73f387b",
+    "3471e321d4e20248a90e58940ce0fb992403181ad3065974cf5c6a1f3bc91577",
+    "780490a6e7df8df429e569e0d1fbebd8f6f7cb82357101f46c0ebf2bafb46275",
+    "f0ddf7b1fd26ebdc6c250c8efda2669cccf5957532ea834831316e7794ee5cd7"
+  ],
+  "character_motion_samples": [
+    {
+      "kael": [
+        582.515,
+        684.0,
+        5.975,
+        "listen",
+        false
+      ]
+    },
+    {
+      "kael": [
+        580.433,
+        684.75,
+        0.6,
+        "point",
+        false
+      ]
+    },
+    {
+      "kael": [
+        578.343,
+        685.5,
+        1.2,
+        "point",
+        false
+      ]
+    },
+    {
+      "kael": [
+        576.243,
+        686.25,
+        1.8,
+        "point",
+        false
+      ]
+    },
+    {
+      "kael": [
+        574.134,
+        687.0,
+        2.4,
+        "point",
+        false
+      ]
+    },
+    {
+      "kael": [
+        572.017,
+        687.75,
+        3.0,
+        "point",
+        true
+      ]
+    },
+    {
+      "kael": [
+        569.89,
+        688.5,
+        3.6,
+        "point",
+        true
+      ]
+    },
+    {
+      "kael": [
+        567.755,
+        689.25,
+        4.2,
+        "point",
+        false
+      ]
+    },
+    {
+      "kael": [
+        565.61,
+        690.0,
+        4.8,
+        "point",
+        false
+      ]
+    },
+    {
+      "kael": [
+        563.457,
+        690.75,
+        5.4,
+        "point",
+        false
+      ]
+    }
+  ],
+  "description": "Kael refuses the promise of limitless power and chooses a single connection to the broken arch, testing the terms rather than surrendering himself."
+}

@@ -1,0 +1,321 @@
+{
+  "fingerprint": "9adbc9620a686a67d471e56302972a4e5292ed5b8ebfe0b67d3a28d62bb86e1a",
+  "frames": 240,
+  "duration": 10,
+  "render_seconds": 14.81,
+  "sample_frame_hashes": [
+    "9a0f7efc87dab78c7b3af4afe9807262713efbadb4feca11d32e549dcf1e9aa7",
+    "0e22008e86a84de217196f83e8bb5ca857c5954cea3993cefc4512705f5cbffe",
+    "cd4208f7754974c1583bb4dd704a95ceedad38f07e8653b70d9420b8f5b32826",
+    "77ce459bc0fb6506a6e943d7d23733e307a70d6723d1b8a1234e7e964948c9f2",
+    "7e6aaedac2c3d71b03996df90ebc6030feb24f8224d363864aa1497e2c17be2b",
+    "1a9c0c40d98e5397184b0b6ee5bc1f1125c0db06bd4f13967eb6fc186776b8c3",
+    "2a845e8c83a13eeb1ec83ad200bdff418fe55d526dee871ed4dac50a2a641663",
+    "1b7822bc5f814f7a750374eb431535e6614720eaf33ce6477ef976fdfae6c67a",
+    "0edff854bf49ef8413480447b8622c56e336c5c387c0ca7dc8f99a57937d2d5b",
+    "96a9cb4d108874ccadef26a2647e85d6fc1cc4aa21aa8e4433858cd749f27442"
+  ],
+  "character_motion_samples": [
+    {
+      "riven": [
+        494.454,
+        684.0,
+        0.0,
+        "ceremony",
+        false
+      ],
+      "kael": [
+        159.654,
+        684.0,
+        11.648,
+        "idle",
+        false
+      ],
+      "mira": [
+        494.454,
+        684.0,
+        6.971,
+        "ceremony",
+        false
+      ],
+      "elder": [
+        915.654,
+        684.0,
+        11.648,
+        "idle",
+        false
+      ]
+    },
+    {
+      "riven": [
+        492.168,
+        684.75,
+        0.7,
+        "ceremony",
+        false
+      ],
+      "kael": [
+        156.593,
+        684.75,
+        2.82,
+        "idle",
+        false
+      ],
+      "mira": [
+        914.343,
+        684.75,
+        2.82,
+        "idle",
+        false
+      ],
+      "elder": [
+        1098.368,
+        684.75,
+        2.82,
+        "talk",
+        true
+      ]
+    },
+    {
+      "riven": [
+        489.874,
+        685.5,
+        1.4,
+        "ceremony",
+        false
+      ],
+      "kael": [
+        153.524,
+        685.5,
+        3.82,
+        "idle",
+        false
+      ],
+      "mira": [
+        913.024,
+        685.5,
+        3.82,
+        "idle",
+        false
+      ],
+      "elder": [
+        1097.474,
+        685.5,
+        3.82,
+        "talk",
+        false
+      ]
+    },
+    {
+      "riven": [
+        487.57,
+        686.25,
+        2.1,
+        "ceremony",
+        false
+      ],
+      "kael": [
+        150.445,
+        686.25,
+        4.82,
+        "idle",
+        false
+      ],
+      "mira": [
+        911.695,
+        686.25,
+        4.82,
+        "idle",
+        false
+      ],
+      "elder": [
+        1096.57,
+        686.25,
+        4.82,
+        "talk",
+        true
+      ]
+    },
+    {
+      "riven": [
+        485.258,
+        687.0,
+        2.8,
+        "ceremony",
+        false
+      ],
+      "kael": [
+        147.358,
+        687.0,
+        5.82,
+        "idle",
+        false
+      ],
+      "mira": [
+        910.358,
+        687.0,
+        5.82,
+        "idle",
+        false
+      ],
+      "elder": [
+        1095.658,
+        687.0,
+        5.82,
+        "talk",
+        true
+      ]
+    },
+    {
+      "riven": [
+        482.937,
+        687.75,
+        3.5,
+        "ceremony",
+        true
+      ],
+      "kael": [
+        144.262,
+        687.75,
+        6.82,
+        "idle",
+        false
+      ],
+      "mira": [
+        909.012,
+        687.75,
+        6.82,
+        "idle",
+        false
+      ],
+      "elder": [
+        1094.737,
+        687.75,
+        6.82,
+        "idle",
+        false
+      ]
+    },
+    {
+      "riven": [
+        480.606,
+        688.5,
+        4.2,
+        "ceremony",
+        true
+      ],
+      "kael": [
+        141.156,
+        688.5,
+        7.82,
+        "idle",
+        false
+      ],
+      "mira": [
+        907.656,
+        688.5,
+        7.82,
+        "idle",
+        false
+      ],
+      "elder": [
+        1093.806,
+        688.5,
+        7.82,
+        "idle",
+        false
+      ]
+    },
+    {
+      "riven": [
+        478.267,
+        689.25,
+        4.9,
+        "ceremony",
+        false
+      ],
+      "kael": [
+        138.042,
+        689.25,
+        8.82,
+        "idle",
+        false
+      ],
+      "mira": [
+        906.292,
+        689.25,
+        8.82,
+        "idle",
+        false
+      ],
+      "elder": [
+        1092.867,
+        689.25,
+        8.82,
+        "idle",
+        false
+      ]
+    },
+    {
+      "riven": [
+        475.918,
+        690.0,
+        5.6,
+        "ceremony",
+        false
+      ],
+      "kael": [
+        134.918,
+        690.0,
+        9.82,
+        "idle",
+        false
+      ],
+      "mira": [
+        904.918,
+        690.0,
+        9.82,
+        "idle",
+        false
+      ],
+      "elder": [
+        1091.918,
+        690.0,
+        9.82,
+        "idle",
+        false
+      ]
+    },
+    {
+      "riven": [
+        473.561,
+        690.75,
+        6.3,
+        "ceremony",
+        false
+      ],
+      "kael": [
+        131.786,
+        690.75,
+        10.82,
+        "idle",
+        false
+      ],
+      "mira": [
+        903.536,
+        690.75,
+        10.82,
+        "idle",
+        false
+      ],
+      "elder": [
+        1090.961,
+        690.75,
+        10.82,
+        "idle",
+        false
+      ]
+    }
+  ],
+  "description": "Riven's test sends red lightning around the dais, but he catches the wild arc before it can strike a banner."
+}

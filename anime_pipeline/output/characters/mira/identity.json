@@ -1,0 +1,17 @@
+{
+  "id": "MIRA_VEYNE_01",
+  "name": "Mira Veyne",
+  "age": 20,
+  "hair": "#cbd4e8",
+  "hairlight": "#f0f5ff",
+  "coat": "#34374f",
+  "coatlight": "#505976",
+  "coatshadow": "#202237",
+  "trim": "#c4b5e5",
+  "iris": "#a788ed",
+  "skin": "#f0c6b4",
+  "shade": "#c08d91",
+  "shirt": "#dfe4ef",
+  "accent": "#d7c1ff",
+  "voice": "young_indian_english_female"
+}

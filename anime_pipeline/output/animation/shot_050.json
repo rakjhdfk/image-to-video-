@@ -1,0 +1,251 @@
+{
+  "fingerprint": "91b91dc71d26aa54b3e1aef6091e92b2906a77bd14312145c8347cac286af82c",
+  "frames": 240,
+  "duration": 10,
+  "render_seconds": 16.45,
+  "sample_frame_hashes": [
+    "6023069b07dca467d4aa244e2a835e91d87377ffc0af29c2362f96b66eb2fbc5",
+    "d3b3872d0472aedf33b40a8f72ad62e7df2066a0464c315ee06c35aefb7fbb9b",
+    "0d83028efd6fb8baeb4b5b31a633180c0dfd4e8285c8d64607c5cf773a88a242",
+    "87a01203ee59eb630ee05453bfcd2c3fe45f81fd160411d5fbb2a730d07e5d3b",
+    "7433e84f3aeea9813f55ea979d7da308f49ea94f33c5afd160e00f8ed192f8af",
+    "e6932718febc9dcabbd2a9bac3ac05e3ea6a18a137962b7221b4ed609957f608",
+    "d697d16b7fc50b187153e6ccba5cb8e50b096c789a0c16b97c627a3d2a7ad70e",
+    "2f00ea8e60c20cb8a3afc1a2af2d25d79cce7cd0ae07eeced99f1d8768c28747",
+    "7ecdfe38151d1a590086522c63fd614495f9d3e32567f72d00d31be7a10d4b08",
+    "62bd43b7872b7a4d9c5b54178a6cf7d23eeac2e5dd212ce7bc21f7561a4a705b"
+  ],
+  "character_motion_samples": [
+    {
+      "kael": [
+        549.884,
+        684.0,
+        4.979,
+        "listen",
+        false
+      ],
+      "mira": [
+        776.684,
+        684.0,
+        4.979,
+        "idle",
+        false
+      ],
+      "riven": [
+        333.884,
+        684.0,
+        4.979,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        547.727,
+        684.75,
+        0.5,
+        "idle",
+        false
+      ],
+      "mira": [
+        775.052,
+        684.75,
+        0.5,
+        "listen",
+        false
+      ],
+      "riven": [
+        331.227,
+        684.75,
+        0.5,
+        "point",
+        true
+      ]
+    },
+    {
+      "kael": [
+        545.561,
+        685.5,
+        1.0,
+        "idle",
+        false
+      ],
+      "mira": [
+        773.411,
+        685.5,
+        1.0,
+        "listen",
+        false
+      ],
+      "riven": [
+        328.561,
+        685.5,
+        1.0,
+        "point",
+        true
+      ]
+    },
+    {
+      "kael": [
+        543.386,
+        686.25,
+        1.5,
+        "idle",
+        false
+      ],
+      "mira": [
+        771.761,
+        686.25,
+        1.5,
+        "listen",
+        false
+      ],
+      "riven": [
+        325.886,
+        686.25,
+        1.5,
+        "point",
+        true
+      ]
+    },
+    {
+      "kael": [
+        541.202,
+        687.0,
+        2.0,
+        "idle",
+        false
+      ],
+      "mira": [
+        770.102,
+        687.0,
+        2.0,
+        "listen",
+        false
+      ],
+      "riven": [
+        323.202,
+        687.0,
+        2.0,
+        "point",
+        false
+      ]
+    },
+    {
+      "kael": [
+        539.009,
+        687.75,
+        2.5,
+        "idle",
+        false
+      ],
+      "mira": [
+        768.434,
+        687.75,
+        2.5,
+        "listen",
+        true
+      ],
+      "riven": [
+        320.509,
+        687.75,
+        2.5,
+        "point",
+        false
+      ]
+    },
+    {
+      "kael": [
+        536.807,
+        688.5,
+        3.0,
+        "idle",
+        false
+      ],
+      "mira": [
+        766.757,
+        688.5,
+        3.0,
+        "listen",
+        true
+      ],
+      "riven": [
+        317.807,
+        688.5,
+        3.0,
+        "point",
+        false
+      ]
+    },
+    {
+      "kael": [
+        534.595,
+        689.25,
+        3.5,
+        "idle",
+        false
+      ],
+      "mira": [
+        765.07,
+        689.25,
+        3.5,
+        "listen",
+        true
+      ],
+      "riven": [
+        315.095,
+        689.25,
+        3.5,
+        "point",
+        false
+      ]
+    },
+    {
+      "kael": [
+        532.375,
+        690.0,
+        4.0,
+        "idle",
+        false
+      ],
+      "mira": [
+        763.375,
+        690.0,
+        4.0,
+        "listen",
+        false
+      ],
+      "riven": [
+        312.375,
+        690.0,
+        4.0,
+        "point",
+        false
+      ]
+    },
+    {
+      "kael": [
+        530.146,
+        690.75,
+        4.5,
+        "idle",
+        false
+      ],
+      "mira": [
+        761.671,
+        690.75,
+        4.5,
+        "listen",
+        false
+      ],
+      "riven": [
+        309.646,
+        690.75,
+        4.5,
+        "point",
+        false
+      ]
+    }
+  ],
+  "description": "Riven places Kael's hand against the repaired foundation to show the lives his choice protected; Mira promises to record what he fears losing."
+}

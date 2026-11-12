@@ -1,0 +1,1682 @@
+[
+  {
+    "shot": 0,
+    "speaker": "narrator",
+    "text": "In Aetheria, magic flowed through every street, every stone, and every living soul.",
+    "start": 0.2,
+    "end": 4.8489375,
+    "file": "voices/000_00_narrator_0e2b86157ddecf27.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.77,
+      "speed": 1.03,
+      "gain": 0.96
+    }
+  },
+  {
+    "shot": 0,
+    "speaker": "kael",
+    "text": "Every soul except mine.",
+    "start": 5.317,
+    "end": 6.649729166666667,
+    "file": "voices/000_01_kael_b6418fd7a7f7506d.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.82,
+      "speed": 1.06,
+      "gain": 0.93
+    }
+  },
+  {
+    "shot": 1,
+    "speaker": "narrator",
+    "text": "A person's magic signature shaped their place in the world. Kael's had never appeared.",
+    "start": 10.2,
+    "end": 14.852541666666667,
+    "file": "voices/001_00_narrator_8b5c15ec90e22183.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.77,
+      "speed": 1.03,
+      "gain": 0.96
+    }
+  },
+  {
+    "shot": 1,
+    "speaker": "kael",
+    "text": "At least flowers don't ask questions.",
+    "start": 15.681000000000001,
+    "end": 17.801645833333335,
+    "file": "voices/001_01_kael_9096f8ffd1c19c6a.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.82,
+      "speed": 1.06,
+      "gain": 0.93
+    }
+  },
+  {
+    "shot": 2,
+    "speaker": "riven",
+    "text": "Ardyn! Ceremony day. Ready to surprise everyone?",
+    "start": 20.2,
+    "end": 22.864208333333334,
+    "file": "voices/002_00_riven_a63a9be31a7a7032.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.91,
+      "speed": 1.12,
+      "gain": 0.98
+    }
+  },
+  {
+    "shot": 2,
+    "speaker": "kael",
+    "text": "I would settle for not surprising the crystal.",
+    "start": 24.65,
+    "end": 27.186354166666664,
+    "file": "voices/002_01_kael_41e2fbe64fd3f11e.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.82,
+      "speed": 1.06,
+      "gain": 0.93
+    }
+  },
+  {
+    "shot": 3,
+    "speaker": "mira",
+    "text": "Your bag is coming apart. Hold still.",
+    "start": 30.2,
+    "end": 32.412333333333336,
+    "file": "voices/003_00_mira_a979af1a2f62023c.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 1.0,
+      "speed": 1.04,
+      "gain": 0.92
+    }
+  },
+  {
+    "shot": 3,
+    "speaker": "kael",
+    "text": "Thanks. It has survived nineteen years of being ordinary.",
+    "start": 34.65,
+    "end": 37.741749999999996,
+    "file": "voices/003_01_kael_7e939479ca5d8879.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.82,
+      "speed": 1.06,
+      "gain": 0.93
+    }
+  },
+  {
+    "shot": 4,
+    "speaker": "mira",
+    "text": "A signature describes power. It cannot describe everything a person is.",
+    "start": 40.2,
+    "end": 44.137208333333334,
+    "file": "voices/004_00_mira_e03d84b7cc4b3a70.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 1.0,
+      "speed": 1.04,
+      "gain": 0.92
+    }
+  },
+  {
+    "shot": 4,
+    "speaker": "riven",
+    "text": "Tell that to the examination board.",
+    "start": 44.65,
+    "end": 46.404666666666664,
+    "file": "voices/004_01_riven_b77b83e7070b8202.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.91,
+      "speed": 1.12,
+      "gain": 0.98
+    }
+  },
+  {
+    "shot": 5,
+    "speaker": "kael",
+    "text": "Did either of you hear that bell?",
+    "start": 50.2,
+    "end": 51.767375,
+    "file": "voices/005_00_kael_46ed714ee016590d.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.82,
+      "speed": 1.06,
+      "gain": 0.93
+    }
+  },
+  {
+    "shot": 5,
+    "speaker": "mira",
+    "text": "No bell rang. Kael, are you all right?",
+    "start": 54.65,
+    "end": 56.526666666666664,
+    "file": "voices/005_01_mira_8267d8c034ce5ac7.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 1.0,
+      "speed": 1.04,
+      "gain": 0.92
+    }
+  },
+  {
+    "shot": 6,
+    "speaker": "kael",
+    "text": "Every year they say it might awaken late. Every year, the same empty hand.",
+    "start": 60.2,
+    "end": 64.02420833333333,
+    "file": "voices/006_00_kael_e26dd6cfc18977cb.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.82,
+      "speed": 1.06,
+      "gain": 0.93
+    }
+  },
+  {
+    "shot": 6,
+    "speaker": "mira",
+    "text": "Today is still today.",
+    "start": 65.681,
+    "end": 66.62391666666666,
+    "file": "voices/006_01_mira_d4ef332d8dbbf32c.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 1.0,
+      "speed": 1.04,
+      "gain": 0.92
+    }
+  },
+  {
+    "shot": 7,
+    "speaker": "riven",
+    "text": "I complain about control lessons. You would probably work harder than all of us.",
+    "start": 70.2,
+    "end": 74.4135625,
+    "file": "voices/007_00_riven_66dce5de9c160e4a.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.91,
+      "speed": 1.12,
+      "gain": 0.98
+    }
+  },
+  {
+    "shot": 7,
+    "speaker": "kael",
+    "text": "Probably?",
+    "start": 75.681,
+    "end": 76.2966875,
+    "file": "voices/007_01_kael_cc8117611476a040.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.82,
+      "speed": 1.06,
+      "gain": 0.93
+    }
+  },
+  {
+    "shot": 8,
+    "speaker": "mira",
+    "text": "You noticed the ribbon before anyone noticed the child.",
+    "start": 80.2,
+    "end": 83.02185416666667,
+    "file": "voices/008_00_mira_a77e66a9ec224a47.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 1.0,
+      "speed": 1.04,
+      "gain": 0.92
+    }
+  },
+  {
+    "shot": 8,
+    "speaker": "kael",
+    "text": "Someone had to. Magic isn't necessary for looking.",
+    "start": 84.65,
+    "end": 87.4656875,
+    "file": "voices/008_01_kael_8d4958188872753b.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.82,
+      "speed": 1.06,
+      "gain": 0.93
+    }
+  },
+  {
+    "shot": 9,
+    "speaker": "elder",
+    "text": "Ardyn. Your mother stood here once, with that same stubborn expression.",
+    "start": 90.2,
+    "end": 94.13972916666667,
+    "file": "voices/009_00_elder_02b103b9bc9ff550.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.69,
+      "speed": 0.98,
+      "gain": 0.97
+    }
+  },
+  {
+    "shot": 9,
+    "speaker": "kael",
+    "text": "You knew her?",
+    "start": 94.65,
+    "end": 95.26502083333334,
+    "file": "voices/009_01_kael_813e8bcacd709920.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.82,
+      "speed": 1.06,
+      "gain": 0.93
+    }
+  },
+  {
+    "shot": 10,
+    "speaker": "elder",
+    "text": "Whatever the crystal shows, do not mistake its answer for your worth.",
+    "start": 100.2,
+    "end": 104.22879166666667,
+    "file": "voices/010_00_elder_0ded90aa0e4dae83.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.69,
+      "speed": 0.98,
+      "gain": 0.97
+    }
+  },
+  {
+    "shot": 10,
+    "speaker": "kael",
+    "text": "Why does that sound like a warning?",
+    "start": 104.954,
+    "end": 106.71422916666666,
+    "file": "voices/010_01_kael_4b37ef013ac256ce.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.82,
+      "speed": 1.06,
+      "gain": 0.93
+    }
+  },
+  {
+    "shot": 11,
+    "speaker": "riven",
+    "text": "Whatever happens in there, you are still walking back with us.",
+    "start": 110.2,
+    "end": 113.34156250000001,
+    "file": "voices/011_00_riven_3b1b8c7e9a22afae.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.91,
+      "speed": 1.12,
+      "gain": 0.98
+    }
+  },
+  {
+    "shot": 11,
+    "speaker": "kael",
+    "text": "Good. I would hate to miss more complaints.",
+    "start": 114.65,
+    "end": 116.86172916666668,
+    "file": "voices/011_01_kael_ed0c0e33f3ff7901.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.82,
+      "speed": 1.06,
+      "gain": 0.93
+    }
+  },
+  {
+    "shot": 12,
+    "speaker": "narrator",
+    "text": "At the Academy, the awakening crystal gave every gift a name. Today, it would meet an absence.",
+    "start": 120.2,
+    "end": 125.33529166666666,
+    "file": "voices/012_00_narrator_88265952dda91c1a.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.77,
+      "speed": 1.03,
+      "gain": 0.96
+    }
+  },
+  {
+    "shot": 12,
+    "speaker": "elder",
+    "text": "Let the ceremony begin.",
+    "start": 126.772,
+    "end": 128.23597916666668,
+    "file": "voices/012_01_elder_5e3b76ef8de440c7.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.69,
+      "speed": 0.98,
+      "gain": 0.97
+    }
+  },
+  {
+    "shot": 13,
+    "speaker": "elder",
+    "text": "Mira Veyne. Silver Thread Manipulation. Precision beyond your years.",
+    "start": 130.2,
+    "end": 134.14737499999998,
+    "file": "voices/013_00_elder_4e0ab3fb962f38e9.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.69,
+      "speed": 0.98,
+      "gain": 0.97
+    }
+  },
+  {
+    "shot": 13,
+    "speaker": "mira",
+    "text": "Threads hold best when they share the weight.",
+    "start": 134.65,
+    "end": 136.73347916666668,
+    "file": "voices/013_01_mira_72b58b11dd921ea6.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 1.0,
+      "speed": 1.04,
+      "gain": 0.92
+    }
+  },
+  {
+    "shot": 14,
+    "speaker": "elder",
+    "text": "Riven Sol. Crimson Lightning. Consider restraint an essential part of strength.",
+    "start": 140.2,
+    "end": 144.53,
+    "file": "voices/014_00_elder_7f62f9dc5479a979.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.69,
+      "speed": 0.98,
+      "gain": 0.97
+    }
+  },
+  {
+    "shot": 14,
+    "speaker": "riven",
+    "text": "That was the restrained version.",
+    "start": 144.65,
+    "end": 146.16152083333333,
+    "file": "voices/014_01_riven_3cbb0b3a8e7c7aab.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.91,
+      "speed": 1.12,
+      "gain": 0.98
+    }
+  },
+  {
+    "shot": 15,
+    "speaker": "mira",
+    "text": "Breathe, Kael. You are not standing there alone.",
+    "start": 150.2,
+    "end": 152.50268749999998,
+    "file": "voices/015_00_mira_ba6aff3785298acf.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 1.0,
+      "speed": 1.04,
+      "gain": 0.92
+    }
+  },
+  {
+    "shot": 15,
+    "speaker": "kael",
+    "text": "Then let it see me. Whatever I am.",
+    "start": 154.65,
+    "end": 156.515625,
+    "file": "voices/015_01_kael_7196c8bbd0c672ad.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.82,
+      "speed": 1.06,
+      "gain": 0.93
+    }
+  },
+  {
+    "shot": 16,
+    "speaker": "kael",
+    "text": "Nothing. I knew it would be nothing.",
+    "start": 160.2,
+    "end": 161.99577083333332,
+    "file": "voices/016_00_kael_c6235909c26d60d1.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.82,
+      "speed": 1.06,
+      "gain": 0.93
+    }
+  },
+  {
+    "shot": 16,
+    "speaker": "elder",
+    "text": "Take your hand away. Slowly. Do not pull against it.",
+    "start": 164.65,
+    "end": 167.79216666666667,
+    "file": "voices/016_01_elder_b41224b00f43a10e.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.69,
+      "speed": 0.98,
+      "gain": 0.97
+    }
+  },
+  {
+    "shot": 17,
+    "speaker": "mira",
+    "text": "That wasn't an empty reading. Something moved inside the silence.",
+    "start": 170.2,
+    "end": 173.707,
+    "file": "voices/017_00_mira_3576612f5395ac0f.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 1.0,
+      "speed": 1.04,
+      "gain": 0.92
+    }
+  },
+  {
+    "shot": 17,
+    "speaker": "elder",
+    "text": "Everyone, step back from the dais.",
+    "start": 174.65,
+    "end": 176.68368750000002,
+    "file": "voices/017_01_elder_e5692987b06eff78.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.69,
+      "speed": 0.98,
+      "gain": 0.97
+    }
+  },
+  {
+    "shot": 18,
+    "speaker": "riven",
+    "text": "That sound came from above us.",
+    "start": 180.2,
+    "end": 181.77497916666667,
+    "file": "voices/018_00_riven_c6e8484f1aad369e.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.91,
+      "speed": 1.12,
+      "gain": 0.98
+    }
+  },
+  {
+    "shot": 18,
+    "speaker": "narrator",
+    "text": "For the first time in three hundred years, the sky forgot how to hold together.",
+    "start": 182.622,
+    "end": 187.00204166666668,
+    "file": "voices/018_01_narrator_f68c42af1baed3f8.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.77,
+      "speed": 1.03,
+      "gain": 0.96
+    }
+  },
+  {
+    "shot": 19,
+    "speaker": "elder",
+    "text": "To the covered passage! Keep the younger students between you!",
+    "start": 190.2,
+    "end": 193.6490208333333,
+    "file": "voices/019_00_elder_4cd732b806b7346d.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.69,
+      "speed": 0.98,
+      "gain": 0.97
+    }
+  },
+  {
+    "shot": 19,
+    "speaker": "mira",
+    "text": "Riven, take the east side. I have the stairs.",
+    "start": 194.65,
+    "end": 197.21985416666666,
+    "file": "voices/019_01_mira_877ea941cff84b47.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 1.0,
+      "speed": 1.04,
+      "gain": 0.92
+    }
+  },
+  {
+    "shot": 20,
+    "speaker": "mira",
+    "text": "Hold the silver line and keep moving! No one runs ahead!",
+    "start": 200.2,
+    "end": 203.30810416666665,
+    "file": "voices/020_00_mira_9a1aefbf4114d743.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 1.0,
+      "speed": 1.04,
+      "gain": 0.92
+    }
+  },
+  {
+    "shot": 20,
+    "speaker": "riven",
+    "text": "The passage is clear. Bring them through!",
+    "start": 204.65,
+    "end": 206.36347916666668,
+    "file": "voices/020_01_riven_1a0b6a0c4fcf1c57.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.91,
+      "speed": 1.12,
+      "gain": 0.98
+    }
+  },
+  {
+    "shot": 21,
+    "speaker": "riven",
+    "text": "That thing isn't made of flesh.",
+    "start": 210.2,
+    "end": 211.65420833333332,
+    "file": "voices/021_00_riven_d9063d3c9cecbb43.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.91,
+      "speed": 1.12,
+      "gain": 0.98
+    }
+  },
+  {
+    "shot": 21,
+    "speaker": "mira",
+    "text": "Its shape is borrowed. Watch the dark gap beneath its armour.",
+    "start": 214.65,
+    "end": 217.69218750000002,
+    "file": "voices/021_01_mira_b952f677493b4d13.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 1.0,
+      "speed": 1.04,
+      "gain": 0.92
+    }
+  },
+  {
+    "shot": 22,
+    "speaker": "riven",
+    "text": "Fine. Let us see how borrowed armour handles lightning!",
+    "start": 220.2,
+    "end": 222.82866666666666,
+    "file": "voices/022_00_riven_4e6c664784cccb0a.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.91,
+      "speed": 1.12,
+      "gain": 0.98
+    }
+  },
+  {
+    "shot": 22,
+    "speaker": "mira",
+    "text": "Stop! It opens around the strike, then closes again!",
+    "start": 224.65,
+    "end": 227.6930625,
+    "file": "voices/022_01_mira_d94af7815becd442.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 1.0,
+      "speed": 1.04,
+      "gain": 0.92
+    }
+  },
+  {
+    "shot": 23,
+    "speaker": "kael",
+    "text": "Someone is still under that arch!",
+    "start": 230.2,
+    "end": 231.93704166666666,
+    "file": "voices/023_00_kael_d4a0965411639b7c.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.82,
+      "speed": 1.06,
+      "gain": 0.93
+    }
+  },
+  {
+    "shot": 23,
+    "speaker": "elder",
+    "text": "I cannot leave the ward. The entire passage would fall!",
+    "start": 234.65,
+    "end": 237.63191666666668,
+    "file": "voices/023_01_elder_ef87de0c89c26795.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.69,
+      "speed": 0.98,
+      "gain": 0.97
+    }
+  },
+  {
+    "shot": 24,
+    "speaker": "mira",
+    "text": "Kael, wait for a shield!",
+    "start": 240.2,
+    "end": 241.50025,
+    "file": "voices/024_00_mira_5f6c3d7b12399455.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 1.0,
+      "speed": 1.04,
+      "gain": 0.92
+    }
+  },
+  {
+    "shot": 24,
+    "speaker": "kael",
+    "text": "There isn't time. Keep its eyes on you, not the arch!",
+    "start": 244.65,
+    "end": 247.50560416666667,
+    "file": "voices/024_01_kael_19a68c1196357711.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.82,
+      "speed": 1.06,
+      "gain": 0.93
+    }
+  },
+  {
+    "shot": 25,
+    "speaker": "kael",
+    "text": "Look at me. We do this together. Tell me when your foot is free.",
+    "start": 250.2,
+    "end": 253.48152083333332,
+    "file": "voices/025_00_kael_cae1d8f11b78ac50.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.82,
+      "speed": 1.06,
+      "gain": 0.93
+    }
+  },
+  {
+    "shot": 25,
+    "speaker": "narrator",
+    "text": "He had no spell. He had a choice.",
+    "start": 255.681,
+    "end": 257.72795833333333,
+    "file": "voices/025_01_narrator_4df67d230be19b4c.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.77,
+      "speed": 1.03,
+      "gain": 0.96
+    }
+  },
+  {
+    "shot": 26,
+    "speaker": "mira",
+    "text": "I can steady it, but I cannot carry the whole beam.",
+    "start": 260.2,
+    "end": 263.15535416666665,
+    "file": "voices/026_00_mira_81f68ad23ab737cd.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 1.0,
+      "speed": 1.04,
+      "gain": 0.92
+    }
+  },
+  {
+    "shot": 26,
+    "speaker": "kael",
+    "text": "Then steady it. I will do the lifting.",
+    "start": 264.65,
+    "end": 266.57399999999996,
+    "file": "voices/026_01_kael_eacf666bebdac6f2.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.82,
+      "speed": 1.06,
+      "gain": 0.93
+    }
+  },
+  {
+    "shot": 27,
+    "speaker": "riven",
+    "text": "You got them out? Good. Now get yourself out!",
+    "start": 270.2,
+    "end": 272.5165416666667,
+    "file": "voices/027_00_riven_1e6b934ce14eddb6.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.91,
+      "speed": 1.12,
+      "gain": 0.98
+    }
+  },
+  {
+    "shot": 27,
+    "speaker": "kael",
+    "text": "Not while you are still standing here alone.",
+    "start": 274.65,
+    "end": 276.78875,
+    "file": "voices/027_01_kael_7aac4aa24442514a.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.82,
+      "speed": 1.06,
+      "gain": 0.93
+    }
+  },
+  {
+    "shot": 28,
+    "speaker": "riven",
+    "text": "Kael, you cannot block that!",
+    "start": 280.2,
+    "end": 281.64741666666663,
+    "file": "voices/028_00_riven_b12d249611c02b2b.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.91,
+      "speed": 1.12,
+      "gain": 0.98
+    }
+  },
+  {
+    "shot": 28,
+    "speaker": "kael",
+    "text": "I know. But I can make it look at me.",
+    "start": 284.65,
+    "end": 286.7456041666666,
+    "file": "voices/028_01_kael_482deb0905c34d8b.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.82,
+      "speed": 1.06,
+      "gain": 0.93
+    }
+  },
+  {
+    "shot": 29,
+    "speaker": "mira",
+    "text": "Kael! Stay with us!",
+    "start": 290.2,
+    "end": 291.2537708333333,
+    "file": "voices/029_00_mira_9b548d7c76a2c4b6.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 1.0,
+      "speed": 1.04,
+      "gain": 0.92
+    }
+  },
+  {
+    "shot": 29,
+    "speaker": "ancient",
+    "text": "At last. A hand without a name, at the door without a key.",
+    "start": 294.65,
+    "end": 298.32068749999996,
+    "file": "voices/029_01_ancient_65ddc3b652363ff6.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.64,
+      "speed": 0.95,
+      "gain": 0.93
+    }
+  },
+  {
+    "shot": 30,
+    "speaker": "kael",
+    "text": "Who is there? Why can I see lines inside everything?",
+    "start": 300.2,
+    "end": 302.9714375,
+    "file": "voices/030_00_kael_b25efe59fb040721.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.82,
+      "speed": 1.06,
+      "gain": 0.93
+    }
+  },
+  {
+    "shot": 30,
+    "speaker": "ancient",
+    "text": "Because you are listening beneath the signatures, not above them.",
+    "start": 304.65,
+    "end": 308.41362499999997,
+    "file": "voices/030_01_ancient_9eed877c170b8d5e.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.64,
+      "speed": 0.95,
+      "gain": 0.93
+    }
+  },
+  {
+    "shot": 31,
+    "speaker": "ancient",
+    "text": "Your mother did not leave you powerless. She hid your beginning from those who would claim it.",
+    "start": 310.2,
+    "end": 315.5389375,
+    "file": "voices/031_00_ancient_54a74dbf05846659.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.64,
+      "speed": 0.95,
+      "gain": 0.93
+    }
+  },
+  {
+    "shot": 31,
+    "speaker": "kael",
+    "text": "She was protecting me?",
+    "start": 316.772,
+    "end": 318.0027083333333,
+    "file": "voices/031_01_kael_9dd5cfd8d6f64d95.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.82,
+      "speed": 1.06,
+      "gain": 0.93
+    }
+  },
+  {
+    "shot": 32,
+    "speaker": "ancient",
+    "text": "Origin Weaving changes what magic connects. Every new connection asks something of its maker.",
+    "start": 320.2,
+    "end": 325.561,
+    "file": "voices/032_00_ancient_a6e7e3c382cb1260.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.64,
+      "speed": 0.95,
+      "gain": 0.93
+    }
+  },
+  {
+    "shot": 32,
+    "speaker": "kael",
+    "text": "What does it ask?",
+    "start": 325.681,
+    "end": 326.70237499999996,
+    "file": "voices/032_01_kael_66b64eb8f4358601.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.82,
+      "speed": 1.06,
+      "gain": 0.93
+    }
+  },
+  {
+    "shot": 33,
+    "speaker": "ancient",
+    "text": "A memory. A promise. Perhaps a name. Open the first seal, and I will lend you a beginning.",
+    "start": 330.2,
+    "end": 335.5900625,
+    "file": "voices/033_00_ancient_41f575f7152f1181.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.64,
+      "speed": 0.95,
+      "gain": 0.93
+    }
+  },
+  {
+    "shot": 33,
+    "speaker": "kael",
+    "text": "No stolen lives?",
+    "start": 337.135,
+    "end": 338.1363333333333,
+    "file": "voices/033_01_kael_17fd64b36d530c2b.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.82,
+      "speed": 1.06,
+      "gain": 0.93
+    }
+  },
+  {
+    "shot": 34,
+    "speaker": "ancient",
+    "text": "Only what you choose to weave. Only what you agree to pay.",
+    "start": 340.2,
+    "end": 343.773625,
+    "file": "voices/034_00_ancient_817a0a8437ea0b5a.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.64,
+      "speed": 0.95,
+      "gain": 0.93
+    }
+  },
+  {
+    "shot": 34,
+    "speaker": "kael",
+    "text": "Then I choose one chance to help them.",
+    "start": 344.954,
+    "end": 346.89214583333336,
+    "file": "voices/034_01_kael_c06299f9ba6d2428.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.82,
+      "speed": 1.06,
+      "gain": 0.93
+    }
+  },
+  {
+    "shot": 35,
+    "speaker": "mira",
+    "text": "You are standing. How are you standing?",
+    "start": 350.2,
+    "end": 352.2785,
+    "file": "voices/035_00_mira_346d20c2e0adc078.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 1.0,
+      "speed": 1.04,
+      "gain": 0.92
+    }
+  },
+  {
+    "shot": 35,
+    "speaker": "kael",
+    "text": "Mira, keep your thread on the bracket. I can see where it wants to go.",
+    "start": 352.985,
+    "end": 356.676625,
+    "file": "voices/035_01_kael_4828d142f66e0428.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.82,
+      "speed": 1.06,
+      "gain": 0.93
+    }
+  },
+  {
+    "shot": 36,
+    "speaker": "kael",
+    "text": "Not stronger. Connected differently. The foundation can hold what your hand cannot.",
+    "start": 360.2,
+    "end": 364.834,
+    "file": "voices/036_00_kael_6d6f1d13b2a3eb2e.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.82,
+      "speed": 1.06,
+      "gain": 0.93
+    }
+  },
+  {
+    "shot": 36,
+    "speaker": "mira",
+    "text": "Then show me the connection.",
+    "start": 364.954,
+    "end": 366.3387916666667,
+    "file": "voices/036_01_mira_89d3609dd2c715c0.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 1.0,
+      "speed": 1.04,
+      "gain": 0.92
+    }
+  },
+  {
+    "shot": 37,
+    "speaker": "riven",
+    "text": "Your hand, Kael. That is definitely not nothing.",
+    "start": 370.2,
+    "end": 372.796875,
+    "file": "voices/037_00_riven_997e97b085627dfb.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.91,
+      "speed": 1.12,
+      "gain": 0.98
+    }
+  },
+  {
+    "shot": 37,
+    "speaker": "kael",
+    "text": "There was a song I used to know. Why can't I remember it?",
+    "start": 374.65,
+    "end": 377.78175,
+    "file": "voices/037_01_kael_86d6b9255e2741c5.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.82,
+      "speed": 1.06,
+      "gain": 0.93
+    }
+  },
+  {
+    "shot": 38,
+    "speaker": "mira",
+    "text": "We discuss the price later. It opens around a direct strike, remember?",
+    "start": 380.2,
+    "end": 384.09960416666667,
+    "file": "voices/038_00_mira_1fb40c44ffda9fb3.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 1.0,
+      "speed": 1.04,
+      "gain": 0.92
+    }
+  },
+  {
+    "shot": 38,
+    "speaker": "kael",
+    "text": "Then we stop striking directly.",
+    "start": 384.954,
+    "end": 386.7198333333333,
+    "file": "voices/038_01_kael_cf21f58da761b76c.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.82,
+      "speed": 1.06,
+      "gain": 0.93
+    }
+  },
+  {
+    "shot": 39,
+    "speaker": "riven",
+    "text": "Tell me where to put the lightning, and please say somewhere sensible.",
+    "start": 390.2,
+    "end": 393.2732291666667,
+    "file": "voices/039_00_riven_8151d923b49d037e.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.91,
+      "speed": 1.12,
+      "gain": 0.98
+    }
+  },
+  {
+    "shot": 39,
+    "speaker": "kael",
+    "text": "The ground. I will give it a path.",
+    "start": 394.954,
+    "end": 396.727625,
+    "file": "voices/039_01_kael_a998ff9bfc4ac486.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.82,
+      "speed": 1.06,
+      "gain": 0.93
+    }
+  },
+  {
+    "shot": 40,
+    "speaker": "kael",
+    "text": "I lost it. The lines keep moving!",
+    "start": 400.2,
+    "end": 402.1951041666667,
+    "file": "voices/040_00_kael_0f41aa3b5af91c69.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.82,
+      "speed": 1.06,
+      "gain": 0.93
+    }
+  },
+  {
+    "shot": 40,
+    "speaker": "mira",
+    "text": "So do we. Follow the motion instead of forcing it to stop.",
+    "start": 404.65,
+    "end": 407.84841666666665,
+    "file": "voices/040_01_mira_0aef7fe491ece093.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 1.0,
+      "speed": 1.04,
+      "gain": 0.92
+    }
+  },
+  {
+    "shot": 41,
+    "speaker": "narrator",
+    "text": "A thread to hold. Lightning to reveal. A beginning to connect them. Three gifts, finally moving as one.",
+    "start": 410.2,
+    "end": 415.80397916666664,
+    "file": "voices/041_00_narrator_d95872237de0aa51.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.77,
+      "speed": 1.03,
+      "gain": 0.96
+    }
+  },
+  {
+    "shot": 41,
+    "speaker": "kael",
+    "text": "Again. Together this time.",
+    "start": 417.135,
+    "end": 418.74025,
+    "file": "voices/041_01_kael_cbcfd96baa12639e.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.82,
+      "speed": 1.06,
+      "gain": 0.93
+    }
+  },
+  {
+    "shot": 42,
+    "speaker": "mira",
+    "text": "Left shoulder down. Make it choose where to open.",
+    "start": 420.2,
+    "end": 422.7365208333333,
+    "file": "voices/042_00_mira_a34b52aea3510a72.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 1.0,
+      "speed": 1.04,
+      "gain": 0.92
+    }
+  },
+  {
+    "shot": 42,
+    "speaker": "riven",
+    "text": "I see the gap. It is moving against the armour.",
+    "start": 424.65,
+    "end": 427.02866666666665,
+    "file": "voices/042_01_riven_3a2c1ef65bfef8b7.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.91,
+      "speed": 1.12,
+      "gain": 0.98
+    }
+  },
+  {
+    "shot": 43,
+    "speaker": "riven",
+    "text": "One to measure. One to follow. The third is yours!",
+    "start": 430.2,
+    "end": 432.65904166666667,
+    "file": "voices/043_00_riven_38ead8b0e53626bc.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.91,
+      "speed": 1.12,
+      "gain": 0.98
+    }
+  },
+  {
+    "shot": 43,
+    "speaker": "kael",
+    "text": "I have it. Keep the current steady!",
+    "start": 434.65,
+    "end": 436.5575416666666,
+    "file": "voices/043_01_kael_019a8ac5d3deecd0.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.82,
+      "speed": 1.06,
+      "gain": 0.93
+    }
+  },
+  {
+    "shot": 44,
+    "speaker": "kael",
+    "text": "It can avoid a strike. It cannot avoid a connection already holding it!",
+    "start": 440.2,
+    "end": 444.1349375,
+    "file": "voices/044_00_kael_b938919963bcdc4d.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.82,
+      "speed": 1.06,
+      "gain": 0.93
+    }
+  },
+  {
+    "shot": 44,
+    "speaker": "mira",
+    "text": "Riven, now! Through the thread!",
+    "start": 445.317,
+    "end": 446.7546458333333,
+    "file": "voices/044_01_mira_0b5d63825cb2e58e.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 1.0,
+      "speed": 1.04,
+      "gain": 0.92
+    }
+  },
+  {
+    "shot": 45,
+    "speaker": "riven",
+    "text": "Your turn to be rescued, Ardyn!",
+    "start": 450.2,
+    "end": 451.9693541666667,
+    "file": "voices/045_00_riven_030bf1f9e2a3e1a0.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.91,
+      "speed": 1.12,
+      "gain": 0.98
+    }
+  },
+  {
+    "shot": 45,
+    "speaker": "mira",
+    "text": "The shell was only a lock. The real thing is coming through!",
+    "start": 454.65,
+    "end": 457.6699791666666,
+    "file": "voices/045_01_mira_c65787cadcb1012e.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 1.0,
+      "speed": 1.04,
+      "gain": 0.92
+    }
+  },
+  {
+    "shot": 46,
+    "speaker": "elder",
+    "text": "The dais, Kael! Close its anchor, not its mouth!",
+    "start": 460.2,
+    "end": 463.0734166666667,
+    "file": "voices/046_00_elder_434250f86b8a26a4.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.69,
+      "speed": 0.98,
+      "gain": 0.97
+    }
+  },
+  {
+    "shot": 46,
+    "speaker": "kael",
+    "text": "Mira, hold the line. Riven, everything you have left!",
+    "start": 464.65,
+    "end": 467.55910416666666,
+    "file": "voices/046_01_kael_2a1348866d93a4e3.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.82,
+      "speed": 1.06,
+      "gain": 0.93
+    }
+  },
+  {
+    "shot": 47,
+    "speaker": "kael",
+    "text": "You came through a broken connection. Then that is where this ends!",
+    "start": 470.2,
+    "end": 473.45493749999997,
+    "file": "voices/047_00_kael_ea93c6e3ab945217.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.82,
+      "speed": 1.06,
+      "gain": 0.93
+    }
+  },
+  {
+    "shot": 47,
+    "speaker": "narrator",
+    "text": "The sky held. For one impossible moment, so did Kael.",
+    "start": 474.954,
+    "end": 478.1621666666667,
+    "file": "voices/047_01_narrator_117a237ba2fdb9f8.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.77,
+      "speed": 1.03,
+      "gain": 0.96
+    }
+  },
+  {
+    "shot": 48,
+    "speaker": "mira",
+    "text": "Kael, look at me. Tell me your name.",
+    "start": 480.2,
+    "end": 482.1206458333333,
+    "file": "voices/048_00_mira_30c7441ccc7f550a.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 1.0,
+      "speed": 1.04,
+      "gain": 0.92
+    }
+  },
+  {
+    "shot": 48,
+    "speaker": "kael",
+    "text": "Kael Ardyn. I think I know that much.",
+    "start": 484.65,
+    "end": 486.82160416666665,
+    "file": "voices/048_01_kael_b870c93a0e164d8c.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.82,
+      "speed": 1.06,
+      "gain": 0.93
+    }
+  },
+  {
+    "shot": 49,
+    "speaker": "kael",
+    "text": "My mother sang to me when storms came. I remember her hands, but the song is gone.",
+    "start": 490.2,
+    "end": 494.555125,
+    "file": "voices/049_00_kael_d7e0abd0d08fec10.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.82,
+      "speed": 1.06,
+      "gain": 0.93
+    }
+  },
+  {
+    "shot": 49,
+    "speaker": "mira",
+    "text": "I am sorry.",
+    "start": 496.772,
+    "end": 497.47295833333334,
+    "file": "voices/049_01_mira_7bed5b1d690d9612.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 1.0,
+      "speed": 1.04,
+      "gain": 0.92
+    }
+  },
+  {
+    "shot": 50,
+    "speaker": "riven",
+    "text": "You saved people today. That does not make the price fair.",
+    "start": 500.2,
+    "end": 503.17552083333334,
+    "file": "voices/050_00_riven_e2fe096d768c7468.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.91,
+      "speed": 1.12,
+      "gain": 0.98
+    }
+  },
+  {
+    "shot": 50,
+    "speaker": "mira",
+    "text": "We will remember with you. You won't carry this alone.",
+    "start": 504.65,
+    "end": 507.36249999999995,
+    "file": "voices/050_01_mira_84893886d6e1a6c1.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 1.0,
+      "speed": 1.04,
+      "gain": 0.92
+    }
+  },
+  {
+    "shot": 51,
+    "speaker": "kael",
+    "text": "You recognised that symbol before the crystal broke. Tell me what you know.",
+    "start": 510.2,
+    "end": 514.7621041666666,
+    "file": "voices/051_00_kael_8ad3bcaedbd705c3.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.82,
+      "speed": 1.06,
+      "gain": 0.93
+    }
+  },
+  {
+    "shot": 51,
+    "speaker": "elder",
+    "text": "Yes. I owe you the truth.",
+    "start": 515.317,
+    "end": 516.7911666666666,
+    "file": "voices/051_01_elder_04c34ad9b551f3b7.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.69,
+      "speed": 0.98,
+      "gain": 0.97
+    }
+  },
+  {
+    "shot": 52,
+    "speaker": "elder",
+    "text": "Your mother guarded the first seal. She hid its key inside your unawakened signature.",
+    "start": 520.2,
+    "end": 525.561,
+    "file": "voices/052_00_elder_efb022566f61e188.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.69,
+      "speed": 0.98,
+      "gain": 0.97
+    }
+  },
+  {
+    "shot": 52,
+    "speaker": "kael",
+    "text": "And opening it woke the rift?",
+    "start": 525.681,
+    "end": 527.2624166666667,
+    "file": "voices/052_01_kael_e60cf4f45f856159.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.82,
+      "speed": 1.06,
+      "gain": 0.93
+    }
+  },
+  {
+    "shot": 53,
+    "speaker": "elder",
+    "text": "Something outside felt the lock weaken. The first seal must be closed from within.",
+    "start": 530.2,
+    "end": 534.72,
+    "file": "voices/053_00_elder_21722e11598ac58e.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.69,
+      "speed": 0.98,
+      "gain": 0.97
+    }
+  },
+  {
+    "shot": 53,
+    "speaker": "kael",
+    "text": "Then show us the door.",
+    "start": 535.681,
+    "end": 536.6219791666667,
+    "file": "voices/053_01_kael_d10a7c20f6e01802.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.82,
+      "speed": 1.06,
+      "gain": 0.93
+    }
+  },
+  {
+    "shot": 54,
+    "speaker": "riven",
+    "text": "For the record, I preferred it when our biggest problem was the examination board.",
+    "start": 540.2,
+    "end": 544.4283125000001,
+    "file": "voices/054_00_riven_6382b30ecbaf618a.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.91,
+      "speed": 1.12,
+      "gain": 0.98
+    }
+  },
+  {
+    "shot": 54,
+    "speaker": "mira",
+    "text": "Keep complaining. It means you are still breathing.",
+    "start": 545.681,
+    "end": 548.1625625,
+    "file": "voices/054_01_mira_a70f7bb6e2f84918.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 1.0,
+      "speed": 1.04,
+      "gain": 0.92
+    }
+  },
+  {
+    "shot": 55,
+    "speaker": "mira",
+    "text": "One step at a time. The rail is broken on the inside.",
+    "start": 550.2,
+    "end": 553.1119583333334,
+    "file": "voices/055_00_mira_2663e0b33142999c.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 1.0,
+      "speed": 1.04,
+      "gain": 0.92
+    }
+  },
+  {
+    "shot": 55,
+    "speaker": "kael",
+    "text": "I can feel something waiting below us.",
+    "start": 554.954,
+    "end": 556.9204791666666,
+    "file": "voices/055_01_kael_52e06e532009e9db.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.82,
+      "speed": 1.06,
+      "gain": 0.93
+    }
+  },
+  {
+    "shot": 56,
+    "speaker": "ancient",
+    "text": "Seven seals hold the world's beginning apart. You have touched only the first.",
+    "start": 560.2,
+    "end": 564.9945208333334,
+    "file": "voices/056_00_ancient_0661a443f871c702.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.64,
+      "speed": 0.95,
+      "gain": 0.93
+    }
+  },
+  {
+    "shot": 56,
+    "speaker": "kael",
+    "text": "You never said there were seven.",
+    "start": 565.317,
+    "end": 566.8621041666667,
+    "file": "voices/056_01_kael_3c77aaf04c70a036.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.82,
+      "speed": 1.06,
+      "gain": 0.93
+    }
+  },
+  {
+    "shot": 57,
+    "speaker": "kael",
+    "text": "No new bargain. We close what is already open, and we keep hold of each other.",
+    "start": 570.2,
+    "end": 574.6856875000001,
+    "file": "voices/057_00_kael_30404c7b4386d815.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.82,
+      "speed": 1.06,
+      "gain": 0.93
+    }
+  },
+  {
+    "shot": 57,
+    "speaker": "ancient",
+    "text": "A careful answer, little weaver.",
+    "start": 576.408,
+    "end": 578.4963750000001,
+    "file": "voices/057_01_ancient_65af21252007c566.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.64,
+      "speed": 0.95,
+      "gain": 0.93
+    }
+  },
+  {
+    "shot": 58,
+    "speaker": "kael",
+    "text": "Mira Veyne. Riven Sol. Kael Ardyn. These names are mine to keep.",
+    "start": 580.2,
+    "end": 583.8067291666667,
+    "file": "voices/058_00_kael_54fd06e6d9511cb8.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.82,
+      "speed": 1.06,
+      "gain": 0.93
+    }
+  },
+  {
+    "shot": 58,
+    "speaker": "mira",
+    "text": "And we are still here.",
+    "start": 584.954,
+    "end": 586.1042916666667,
+    "file": "voices/058_01_mira_264a9e28561aed51.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 1.0,
+      "speed": 1.04,
+      "gain": 0.92
+    }
+  },
+  {
+    "shot": 59,
+    "speaker": "kael",
+    "text": "If this world has forgotten how to hold together, we will learn.",
+    "start": 590.2,
+    "end": 593.5976041666667,
+    "file": "voices/059_00_kael_ebef1f51ff904e70.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.82,
+      "speed": 1.06,
+      "gain": 0.93
+    }
+  },
+  {
+    "shot": 59,
+    "speaker": "ancient",
+    "text": "One seal sleeps. Six have heard your name.",
+    "start": 594.954,
+    "end": 597.7843124999999,
+    "file": "voices/059_01_ancient_06cda7851dc4eebe.wav",
+    "source_voice": "MeloTTS EN_INDIA SID2",
+    "profile": {
+      "pitch": 0.64,
+      "speed": 0.95,
+      "gain": 0.93
+    }
+  }
+]

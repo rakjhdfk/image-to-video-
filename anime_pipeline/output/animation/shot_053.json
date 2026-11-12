@@ -1,0 +1,321 @@
+{
+  "fingerprint": "e6e995505143a2fd5caf8607d8fe0e963a935fdf969e0fffcd11a0cfcb7e1830",
+  "frames": 240,
+  "duration": 10,
+  "render_seconds": 18.59,
+  "sample_frame_hashes": [
+    "7d5cf2aa66da8e83481213af2c01b5236661b8dff354eb5860bc1ef06f851404",
+    "84262f42b33c603d983852710f6cfaaf4a52b40e9508e90edf46bcd71ef17db8",
+    "756b1839c3ea45ebcc34c2cbab30f0606fa9eb89f033d98fb5a09b83236f8d47",
+    "a46926a4f40c1675e3b6db34b5a31d732f0494150cef054cc3532c674f83d5a5",
+    "652951d7ec1237cfc8728ef7291a3af7aa8bc5e87db68bf50f169e7339fcb70c",
+    "993d9b6a460b51f92aaad2ae7e7b341ba062294785940c741e304dc08b609e9d",
+    "832ae3ce14dd51d338f40d20be69feed3c85111e942f2c44e3492ccedbaf0741",
+    "aef98896a74624dda460d959a93701f3d8253da41105dabef4c073e76b64892b",
+    "8f2f9c2529d3015886984de841281f5d8c4761698c491a985dda7f46cdf51f3e",
+    "d8206915b5a9463d7c2e844e813bac2b865be69d7d037301a2b906024f9eb8e9"
+  ],
+  "character_motion_samples": [
+    {
+      "kael": [
+        550.0,
+        660.0,
+        4.979,
+        "listen",
+        false
+      ],
+      "elder": [
+        990.0,
+        660.0,
+        4.979,
+        "point",
+        false
+      ],
+      "mira": [
+        760.0,
+        660.0,
+        4.979,
+        "listen",
+        false
+      ],
+      "riven": [
+        350.0,
+        660.0,
+        4.979,
+        "listen",
+        false
+      ]
+    },
+    {
+      "kael": [
+        552.021,
+        660.75,
+        0.5,
+        "walk",
+        false
+      ],
+      "elder": [
+        993.121,
+        660.75,
+        0.5,
+        "walk",
+        true
+      ],
+      "mira": [
+        762.546,
+        660.75,
+        0.5,
+        "walk",
+        false
+      ],
+      "riven": [
+        351.521,
+        660.75,
+        0.5,
+        "walk",
+        false
+      ]
+    },
+    {
+      "kael": [
+        557.912,
+        661.5,
+        1.0,
+        "walk",
+        false
+      ],
+      "elder": [
+        1000.112,
+        661.5,
+        1.0,
+        "walk",
+        true
+      ],
+      "mira": [
+        768.962,
+        661.5,
+        1.0,
+        "walk",
+        false
+      ],
+      "riven": [
+        356.912,
+        661.5,
+        1.0,
+        "walk",
+        false
+      ]
+    },
+    {
+      "kael": [
+        566.735,
+        662.25,
+        1.5,
+        "walk",
+        false
+      ],
+      "elder": [
+        1010.035,
+        662.25,
+        1.5,
+        "walk",
+        true
+      ],
+      "mira": [
+        778.31,
+        662.25,
+        1.5,
+        "walk",
+        false
+      ],
+      "riven": [
+        365.235,
+        662.25,
+        1.5,
+        "walk",
+        false
+      ]
+    },
+    {
+      "kael": [
+        577.542,
+        663.0,
+        2.0,
+        "walk",
+        false
+      ],
+      "elder": [
+        1021.942,
+        663.0,
+        2.0,
+        "walk",
+        true
+      ],
+      "mira": [
+        789.642,
+        663.0,
+        2.0,
+        "walk",
+        false
+      ],
+      "riven": [
+        375.542,
+        663.0,
+        2.0,
+        "walk",
+        false
+      ]
+    },
+    {
+      "kael": [
+        589.375,
+        663.75,
+        2.5,
+        "walk",
+        false
+      ],
+      "elder": [
+        1034.875,
+        663.75,
+        2.5,
+        "walk",
+        false
+      ],
+      "mira": [
+        802.0,
+        663.75,
+        2.5,
+        "walk",
+        false
+      ],
+      "riven": [
+        386.875,
+        663.75,
+        2.5,
+        "walk",
+        false
+      ]
+    },
+    {
+      "kael": [
+        601.268,
+        664.5,
+        3.0,
+        "walk",
+        true
+      ],
+      "elder": [
+        1047.868,
+        664.5,
+        3.0,
+        "walk",
+        false
+      ],
+      "mira": [
+        814.418,
+        664.5,
+        3.0,
+        "walk",
+        false
+      ],
+      "riven": [
+        398.268,
+        664.5,
+        3.0,
+        "walk",
+        false
+      ]
+    },
+    {
+      "kael": [
+        612.243,
+        665.25,
+        3.5,
+        "walk",
+        false
+      ],
+      "elder": [
+        1059.943,
+        665.25,
+        3.5,
+        "walk",
+        false
+      ],
+      "mira": [
+        825.918,
+        665.25,
+        3.5,
+        "walk",
+        false
+      ],
+      "riven": [
+        408.743,
+        665.25,
+        3.5,
+        "walk",
+        false
+      ]
+    },
+    {
+      "kael": [
+        621.314,
+        666.0,
+        4.0,
+        "walk",
+        false
+      ],
+      "elder": [
+        1070.114,
+        666.0,
+        4.0,
+        "walk",
+        false
+      ],
+      "mira": [
+        835.514,
+        666.0,
+        4.0,
+        "walk",
+        false
+      ],
+      "riven": [
+        417.314,
+        666.0,
+        4.0,
+        "walk",
+        false
+      ]
+    },
+    {
+      "kael": [
+        627.485,
+        666.75,
+        4.5,
+        "walk",
+        false
+      ],
+      "elder": [
+        1077.385,
+        666.75,
+        4.5,
+        "walk",
+        false
+      ],
+      "mira": [
+        842.21,
+        666.75,
+        4.5,
+        "walk",
+        false
+      ],
+      "riven": [
+        422.985,
+        666.75,
+        4.5,
+        "walk",
+        false
+      ]
+    }
+  ],
+  "description": "A pale line leads from Kael's wrist across the ruined courtyard to the tower entrance. He accepts his friends' support and stands to follow it."
+}

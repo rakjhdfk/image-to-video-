@@ -1,0 +1,251 @@
+{
+  "fingerprint": "fa1b0b31e34a5b7e928ef66d6a63968d7b2871396d6731292805ce28dc72da6f",
+  "frames": 240,
+  "duration": 10,
+  "render_seconds": 14.54,
+  "sample_frame_hashes": [
+    "42682228a6bf2098c78b15cca3f9b51c2867fe628c84515e540faae9fed9af8f",
+    "fcf7bb51620026c0750478829d8dfc82613a0abfc083a631c7f4ec48700b0836",
+    "5ec31599ce09c1e6d95769f0cd809fc00f00df8bbba26e185a97c3ebc0ea71be",
+    "65572a8e095b0c6d36fa6b9789c4083434703c2cef465a5af8457ab7d5adf4cb",
+    "1435741a33c3b50663b6540b9282d88a172b1529cd8bee9ef614c97510f2161d",
+    "bbb6480c55788d1d8392348c5953c15148535eec99548558bbaf580192cbf8e7",
+    "e4a9052dc6fb158d1d9de7df07e03616cf838761c1d9a2bf398a1c1e7fa9e29b",
+    "c5ecccc3ddb5b21a349a7f9005d943ca9df4d0ceddeb8db0d39bd64e896663d7",
+    "d2401e8d4e89ce29f5c5397eadf125ecbf69094d4836090f2e1ff412e860d3bd",
+    "e21ea657136dad874ad3863a0c673b35a595f10da82cf434bee233c84b5c45e6"
+  ],
+  "character_motion_samples": [
+    {
+      "kael": [
+        289.971,
+        684.0,
+        4.481,
+        "walk",
+        false
+      ],
+      "mira": [
+        613.978,
+        684.0,
+        4.581,
+        "weave",
+        false
+      ],
+      "riven": [
+        662.583,
+        684.0,
+        4.481,
+        "walk",
+        false
+      ]
+    },
+    {
+      "kael": [
+        200.619,
+        684.75,
+        0.45,
+        "point",
+        false
+      ],
+      "mira": [
+        644.444,
+        684.75,
+        0.9,
+        "weave",
+        false
+      ],
+      "riven": [
+        362.994,
+        684.75,
+        0.6,
+        "kneel",
+        true
+      ]
+    },
+    {
+      "kael": [
+        197.651,
+        685.5,
+        0.9,
+        "point",
+        false
+      ],
+      "mira": [
+        642.501,
+        685.5,
+        1.3,
+        "weave",
+        false
+      ],
+      "riven": [
+        360.401,
+        685.5,
+        0.6,
+        "kneel",
+        true
+      ]
+    },
+    {
+      "kael": [
+        194.674,
+        686.25,
+        1.35,
+        "point",
+        false
+      ],
+      "mira": [
+        640.549,
+        686.25,
+        1.7,
+        "weave",
+        false
+      ],
+      "riven": [
+        357.799,
+        686.25,
+        0.6,
+        "kneel",
+        true
+      ]
+    },
+    {
+      "kael": [
+        191.689,
+        687.0,
+        1.8,
+        "point",
+        false
+      ],
+      "mira": [
+        638.589,
+        687.0,
+        2.1,
+        "weave",
+        false
+      ],
+      "riven": [
+        355.189,
+        687.0,
+        0.6,
+        "kneel",
+        false
+      ]
+    },
+    {
+      "kael": [
+        188.694,
+        687.75,
+        2.25,
+        "point",
+        true
+      ],
+      "mira": [
+        636.619,
+        687.75,
+        2.5,
+        "weave",
+        false
+      ],
+      "riven": [
+        352.569,
+        687.75,
+        0.6,
+        "kneel",
+        false
+      ]
+    },
+    {
+      "kael": [
+        185.69,
+        688.5,
+        2.7,
+        "point",
+        true
+      ],
+      "mira": [
+        634.64,
+        688.5,
+        2.9,
+        "weave",
+        false
+      ],
+      "riven": [
+        349.94,
+        688.5,
+        0.6,
+        "kneel",
+        false
+      ]
+    },
+    {
+      "kael": [
+        182.677,
+        689.25,
+        3.15,
+        "point",
+        false
+      ],
+      "mira": [
+        632.652,
+        689.25,
+        3.3,
+        "weave",
+        false
+      ],
+      "riven": [
+        347.302,
+        689.25,
+        0.6,
+        "kneel",
+        false
+      ]
+    },
+    {
+      "kael": [
+        179.656,
+        690.0,
+        3.6,
+        "point",
+        false
+      ],
+      "mira": [
+        630.656,
+        690.0,
+        3.7,
+        "weave",
+        false
+      ],
+      "riven": [
+        344.656,
+        690.0,
+        0.6,
+        "kneel",
+        false
+      ]
+    },
+    {
+      "kael": [
+        176.625,
+        690.75,
+        4.05,
+        "point",
+        false
+      ],
+      "mira": [
+        628.65,
+        690.75,
+        4.1,
+        "weave",
+        false
+      ],
+      "riven": [
+        342.0,
+        690.75,
+        0.6,
+        "kneel",
+        false
+      ]
+    }
+  ],
+  "description": "Riven releases a low red arc along the paving rather than into the wraith, testing whether Kael can redirect power through Mira's suspended silver thread."
+}

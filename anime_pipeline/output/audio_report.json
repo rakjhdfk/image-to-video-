@@ -1,0 +1,21 @@
+{
+  "duration_seconds": 600,
+  "sample_rate": 48000,
+  "channels": 2,
+  "peak": 0.9199999570846558,
+  "dialogue_clips": 120,
+  "effects": 511,
+  "backend": "MeloTTS EN_INDIA via sherpa-onnx CPU",
+  "voice_limitations": [
+    "All six identities derive from the same female Indian-English neural speaker using consistent pitch/rate/formant treatments. They are not six independent natural voice actors.",
+    "Emotional direction is approximated through timing and processing; human listening and accent quality review remain required."
+  ],
+  "licenses": {
+    "MeloTTS": "MIT (LICENSE bundled with official model archive)",
+    "sherpa-onnx": "Apache-2.0",
+    "music": "Original synthesized composition",
+    "sound_effects": "Original synthesized effects"
+  },
+  "model_source": "https://github.com/k2-fsa/sherpa-onnx/releases/download/tts-models/vits-melo-tts-en.tar.bz2",
+  "model_sha256": "5f72fbbc4105b008de8141049c0535b7a99a527ddb80fcbc0c0ac8a046997544"
+}

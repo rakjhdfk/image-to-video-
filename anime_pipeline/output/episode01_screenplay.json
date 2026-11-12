@@ -1,0 +1,3048 @@
+{
+  "title": "THE MAGICAL WORLD",
+  "season": 1,
+  "episode": 1,
+  "episode_name": "The Boy Without a Magic Signature",
+  "duration": 600,
+  "resolution": [
+    1280,
+    720
+  ],
+  "fps": 24,
+  "frames": 14400,
+  "language": "English",
+  "requested_accent": "natural Indian English",
+  "story_origin": "Original expansion of the ten supplied section headings; no complete earlier screenplay was present in the supplied brief.",
+  "characters": {
+    "kael": {
+      "name": "Kael Ardyn",
+      "age": 19,
+      "hair": "black, tousled",
+      "eyes": "teal",
+      "outfit": "dark navy long coat, charcoal trousers, pale shirt",
+      "build": "slim athletic adult",
+      "personality": "quiet, brave, compassionate, determined",
+      "magic": "Origin Weaving",
+      "voice": "young adult Indian English male, restrained and expressive"
+    },
+    "mira": {
+      "name": "Mira Veyne",
+      "age": 20,
+      "hair": "long silver",
+      "eyes": "violet",
+      "outfit": "elegant silver-and-violet Academy uniform",
+      "build": "adult, graceful athletic proportions",
+      "personality": "intelligent, brave, observant",
+      "magic": "Silver Thread Manipulation",
+      "voice": "young adult Indian English female, clear and confident"
+    },
+    "riven": {
+      "name": "Riven Sol",
+      "age": 21,
+      "hair": "short dark red",
+      "eyes": "amber",
+      "outfit": "black-and-red Academy uniform",
+      "build": "athletic adult",
+      "personality": "proud, energetic, loyal",
+      "magic": "Crimson Lightning",
+      "voice": "young adult Indian English male, energetic and assertive"
+    },
+    "elder": {
+      "name": "The Academy Elder",
+      "age": 70,
+      "hair": "white",
+      "eyes": "gold brown",
+      "outfit": "dark ceremonial robes, glowing gold staff",
+      "build": "older adult",
+      "personality": "wise, serious, secretive",
+      "magic": "golden warding",
+      "voice": "older male Indian English, deep and measured"
+    },
+    "ancient": {
+      "name": "Ancient Voice",
+      "on_screen": false,
+      "voice": "deep, ethereal, echoing consciousness"
+    },
+    "narrator": {
+      "name": "Narrator",
+      "on_screen": false,
+      "voice": "mature Indian English, cinematic, calm and expressive"
+    }
+  },
+  "location_map": {
+    "city": {
+      "next": "street",
+      "route": "lower canal bridge to uphill market"
+    },
+    "street": {
+      "next": "academy",
+      "route": "market lane to Academy gate"
+    },
+    "academy": {
+      "next": "courtyard",
+      "route": "gate and three broad entry steps"
+    },
+    "courtyard": {
+      "next": "ruins",
+      "route": "same courtyard after the arch and dais are damaged"
+    },
+    "ruins": {
+      "next": "tower",
+      "route": "short fifteen-metre approach from the boundary wall to the tower doorway"
+    },
+    "tower": {
+      "next": "seal",
+      "route": "a short spiral stair directly into the underground chamber"
+    },
+    "seal": {
+      "next": "tower",
+      "route": "the same stair provides the return path"
+    }
+  },
+  "shots": [
+    {
+      "id": 0,
+      "start": 0,
+      "duration": 10,
+      "section": "The World of Aetheria",
+      "location": "city",
+      "characters": [
+        "kael"
+      ],
+      "action": "walk",
+      "camera": "wide",
+      "magic": "none",
+      "description": "Dawn reveals Aetheria's suspended aqueducts and crystal-powered terraces; Kael crosses the lower bridge toward the Academy.",
+      "expression": "quiet wonder",
+      "action_beats": [
+        "Dawn touches the tallest crystal spire",
+        "Aether currents illuminate the suspended aqueduct",
+        "Camera descends toward the lower bridge",
+        "Kael steps into the bridge's morning light",
+        "He looks up at the distant Academy"
+      ],
+      "dialogue": [
+        {
+          "speaker": "narrator",
+          "text": "In Aetheria, magic flowed through every street, every stone, and every living soul.",
+          "offset": 0.2,
+          "duration": 4.887
+        },
+        {
+          "speaker": "kael",
+          "text": "Every soul except mine.",
+          "offset": 5.317,
+          "duration": 1.615
+        }
+      ],
+      "sfx": [
+        "wind",
+        "crystal_chime",
+        "footsteps"
+      ],
+      "continuity": {
+        "previous_shot": null,
+        "next_shot": 1,
+        "preserve": "Character identities, outfits, injury state, magic colours and movement direction persist across the connected shots.",
+        "entrance": "Continue the prior shot's final action; any change of location is shown along the established route."
+      }
+    },
+    {
+      "id": 1,
+      "start": 10,
+      "duration": 10,
+      "section": "The World of Aetheria",
+      "location": "city",
+      "characters": [
+        "kael"
+      ],
+      "action": "walk",
+      "camera": "track",
+      "magic": "silver",
+      "description": "Kael passes a fountain whose silver water rises in an impossible spiral; he catches a falling flower before it reaches the canal.",
+      "expression": "gentle curiosity",
+      "action_beats": [
+        "Kael follows the fountain's outer curve",
+        "The enchanted water curls above him",
+        "A flower slips from the rising current",
+        "Kael reaches across the railing and catches it",
+        "He sets it safely on a dry stone"
+      ],
+      "dialogue": [
+        {
+          "speaker": "narrator",
+          "text": "A person's magic signature shaped their place in the world. Kael's had never appeared.",
+          "offset": 0.2,
+          "duration": 5.251
+        },
+        {
+          "speaker": "kael",
+          "text": "At least flowers don't ask questions.",
+          "offset": 5.681,
+          "duration": 2.342
+        }
+      ],
+      "sfx": [
+        "water",
+        "footsteps",
+        "cloth"
+      ],
+      "continuity": {
+        "previous_shot": 0,
+        "next_shot": 2,
+        "preserve": "Character identities, outfits, injury state, magic colours and movement direction persist across the connected shots.",
+        "entrance": "Continue the prior shot's final action; any change of location is shown along the established route."
+      }
+    },
+    {
+      "id": 2,
+      "start": 20,
+      "duration": 10,
+      "section": "The World of Aetheria",
+      "location": "street",
+      "characters": [
+        "kael",
+        "riven"
+      ],
+      "action": "walk",
+      "camera": "medium",
+      "magic": "crimson",
+      "description": "An academy courier cart blocks the narrow market lane. Riven vaults its axle on a controlled spark while Kael waits for a clear path.",
+      "expression": "Riven playful pride; Kael patient reserve",
+      "action_beats": [
+        "Riven runs into view beside the stalled cart",
+        "Crimson sparks gather beneath his boot",
+        "He vaults the low axle without touching the cargo",
+        "Kael waits until the cart rolls past",
+        "The two fall into step along the market"
+      ],
+      "dialogue": [
+        {
+          "speaker": "riven",
+          "text": "Ardyn! Ceremony day. Ready to surprise everyone?",
+          "offset": 0.2,
+          "duration": 2.705
+        },
+        {
+          "speaker": "kael",
+          "text": "I would settle for not surprising the crystal.",
+          "offset": 4.65,
+          "duration": 3.069
+        }
+      ],
+      "sfx": [
+        "cart",
+        "lightning",
+        "footsteps"
+      ],
+      "continuity": {
+        "previous_shot": 1,
+        "next_shot": 3,
+        "preserve": "Character identities, outfits, injury state, magic colours and movement direction persist across the connected shots.",
+        "entrance": "Continue the prior shot's final action; any change of location is shown along the established route."
+      }
+    },
+    {
+      "id": 3,
+      "start": 30,
+      "duration": 10,
+      "section": "The World of Aetheria",
+      "location": "street",
+      "characters": [
+        "kael",
+        "mira",
+        "riven"
+      ],
+      "action": "talk",
+      "camera": "track",
+      "magic": "silver",
+      "description": "Mira joins the boys beneath a hanging sign, quietly fastening a loose strap on Kael's satchel with a silver thread.",
+      "expression": "Mira observant warmth; Kael embarrassed gratitude",
+      "action_beats": [
+        "Mira steps out from the bookstall awning",
+        "She notices Kael's fraying satchel strap",
+        "A fine silver thread loops through the seam",
+        "Kael lifts the repaired strap and tests it",
+        "Riven grins as all three continue uphill"
+      ],
+      "dialogue": [
+        {
+          "speaker": "mira",
+          "text": "Your bag is coming apart. Hold still.",
+          "offset": 0.2,
+          "duration": 2.705
+        },
+        {
+          "speaker": "kael",
+          "text": "Thanks. It has survived nineteen years of being ordinary.",
+          "offset": 4.65,
+          "duration": 3.433
+        }
+      ],
+      "sfx": [
+        "silver_thread",
+        "market",
+        "footsteps"
+      ],
+      "continuity": {
+        "previous_shot": 2,
+        "next_shot": 4,
+        "preserve": "Character identities, outfits, injury state, magic colours and movement direction persist across the connected shots.",
+        "entrance": "Continue the prior shot's final action; any change of location is shown along the established route."
+      }
+    },
+    {
+      "id": 4,
+      "start": 40,
+      "duration": 10,
+      "section": "The World of Aetheria",
+      "location": "street",
+      "characters": [
+        "kael",
+        "mira",
+        "riven"
+      ],
+      "action": "walk",
+      "camera": "wide",
+      "magic": "none",
+      "description": "The street opens onto the Academy approach; its ceremonial banners rise toward a sealed tower standing beyond the courtyard.",
+      "expression": "Kael apprehensive; Mira thoughtful",
+      "action_beats": [
+        "The group rounds the final market corner",
+        "Academy banners appear beyond the roofline",
+        "Kael slows at the sight of the ceremonial crystal",
+        "Mira matches his pace instead of passing him",
+        "A dark sealed tower catches Kael's attention"
+      ],
+      "dialogue": [
+        {
+          "speaker": "mira",
+          "text": "A signature describes power. It cannot describe everything a person is.",
+          "offset": 0.2,
+          "duration": 4.16
+        },
+        {
+          "speaker": "riven",
+          "text": "Tell that to the examination board.",
+          "offset": 4.65,
+          "duration": 2.342
+        }
+      ],
+      "sfx": [
+        "wind",
+        "banners",
+        "footsteps"
+      ],
+      "continuity": {
+        "previous_shot": 3,
+        "next_shot": 5,
+        "preserve": "Character identities, outfits, injury state, magic colours and movement direction persist across the connected shots.",
+        "entrance": "Continue the prior shot's final action; any change of location is shown along the established route."
+      }
+    },
+    {
+      "id": 5,
+      "start": 50,
+      "duration": 10,
+      "section": "The World of Aetheria",
+      "location": "academy",
+      "characters": [
+        "kael",
+        "mira",
+        "riven",
+        "elder"
+      ],
+      "action": "walk",
+      "camera": "wide",
+      "magic": "seal",
+      "description": "They cross the Academy gate. A faint pulse passes through the old tower's stonework; only Kael turns toward it.",
+      "expression": "Kael unsettled recognition; Elder concealed concern",
+      "action_beats": [
+        "The three cross beneath the Academy gate",
+        "The sealed tower sends out a nearly invisible ring",
+        "Kael stops with one foot on the courtyard step",
+        "Mira looks back and reaches toward his sleeve",
+        "The Elder notices Kael staring at the tower"
+      ],
+      "dialogue": [
+        {
+          "speaker": "kael",
+          "text": "Did either of you hear that bell?",
+          "offset": 0.2,
+          "duration": 2.705
+        },
+        {
+          "speaker": "mira",
+          "text": "No bell rang. Kael, are you all right?",
+          "offset": 4.65,
+          "duration": 3.069
+        }
+      ],
+      "sfx": [
+        "low_pulse",
+        "footsteps",
+        "banners"
+      ],
+      "continuity": {
+        "previous_shot": 4,
+        "next_shot": 6,
+        "preserve": "Character identities, outfits, injury state, magic colours and movement direction persist across the connected shots.",
+        "entrance": "Continue the prior shot's final action; any change of location is shown along the established route."
+      }
+    },
+    {
+      "id": 6,
+      "start": 60,
+      "duration": 10,
+      "section": "The Powerless Boy",
+      "location": "academy",
+      "characters": [
+        "kael",
+        "mira",
+        "riven"
+      ],
+      "action": "talk",
+      "camera": "medium",
+      "magic": "none",
+      "description": "At the courtyard edge, Kael turns his bare wrist under the light; the other students' signature marks glow through their cuffs.",
+      "expression": "Kael guarded vulnerability",
+      "action_beats": [
+        "Kael pulls back his navy sleeve",
+        "His unmarked wrist catches the morning light",
+        "Riven's red signature flickers beside it",
+        "Kael closes his fingers and lowers his arm",
+        "Mira stands beside him rather than ahead"
+      ],
+      "dialogue": [
+        {
+          "speaker": "kael",
+          "text": "Every year they say it might awaken late. Every year, the same empty hand.",
+          "offset": 0.2,
+          "duration": 5.251
+        },
+        {
+          "speaker": "mira",
+          "text": "Today is still today.",
+          "offset": 5.681,
+          "duration": 1.615
+        }
+      ],
+      "sfx": [
+        "cloth",
+        "crowd",
+        "wind"
+      ],
+      "continuity": {
+        "previous_shot": 5,
+        "next_shot": 7,
+        "preserve": "Character identities, outfits, injury state, magic colours and movement direction persist across the connected shots.",
+        "entrance": "Continue the prior shot's final action; any change of location is shown along the established route."
+      }
+    },
+    {
+      "id": 7,
+      "start": 70,
+      "duration": 10,
+      "section": "The Powerless Boy",
+      "location": "academy",
+      "characters": [
+        "kael",
+        "riven",
+        "mira"
+      ],
+      "action": "talk",
+      "camera": "close",
+      "magic": "crimson",
+      "description": "Riven lets a harmless spark dance above one knuckle, then extinguishes it when he sees Kael's expression.",
+      "expression": "Riven's confidence gives way to sincerity",
+      "action_beats": [
+        "Riven raises a small crimson spark",
+        "Kael watches without reaching for it",
+        "Riven notices the hurt under Kael's smile",
+        "He closes his hand and extinguishes the spark",
+        "Kael answers with a small genuine grin"
+      ],
+      "dialogue": [
+        {
+          "speaker": "riven",
+          "text": "I complain about control lessons. You would probably work harder than all of us.",
+          "offset": 0.2,
+          "duration": 5.251
+        },
+        {
+          "speaker": "kael",
+          "text": "Probably?",
+          "offset": 5.681,
+          "duration": 0.524
+        }
+      ],
+      "sfx": [
+        "small_spark",
+        "crowd"
+      ],
+      "continuity": {
+        "previous_shot": 6,
+        "next_shot": 8,
+        "preserve": "Character identities, outfits, injury state, magic colours and movement direction persist across the connected shots.",
+        "entrance": "Continue the prior shot's final action; any change of location is shown along the established route."
+      }
+    },
+    {
+      "id": 8,
+      "start": 80,
+      "duration": 10,
+      "section": "The Powerless Boy",
+      "location": "courtyard",
+      "characters": [
+        "kael",
+        "mira",
+        "riven"
+      ],
+      "action": "rescue",
+      "camera": "track",
+      "magic": "none",
+      "description": "A younger student's ceremonial ribbon blows toward a drainage grate. Kael catches it while the others are distracted by the crystal procession.",
+      "expression": "Kael instinctive kindness",
+      "action_beats": [
+        "A loose ribbon lifts into the breeze",
+        "Kael hears a small gasp behind him",
+        "He changes direction and lunges toward the grate",
+        "His hand catches the ribbon above the dark opening",
+        "He returns it and kneels to its owner's height"
+      ],
+      "dialogue": [
+        {
+          "speaker": "mira",
+          "text": "You noticed the ribbon before anyone noticed the child.",
+          "offset": 0.2,
+          "duration": 3.433
+        },
+        {
+          "speaker": "kael",
+          "text": "Someone had to. Magic isn't necessary for looking.",
+          "offset": 4.65,
+          "duration": 3.069
+        }
+      ],
+      "sfx": [
+        "ribbon",
+        "footsteps",
+        "crowd"
+      ],
+      "continuity": {
+        "previous_shot": 7,
+        "next_shot": 9,
+        "preserve": "Character identities, outfits, injury state, magic colours and movement direction persist across the connected shots.",
+        "entrance": "Continue the prior shot's final action; any change of location is shown along the established route."
+      }
+    },
+    {
+      "id": 9,
+      "start": 90,
+      "duration": 10,
+      "section": "The Powerless Boy",
+      "location": "courtyard",
+      "characters": [
+        "kael",
+        "elder"
+      ],
+      "action": "talk",
+      "camera": "medium",
+      "magic": "none",
+      "description": "The Elder pauses beside Kael and studies his empty wrist; Kael notices the same woven symbol engraved on the gold staff and the old tower.",
+      "expression": "Elder solemn secrecy; Kael direct curiosity",
+      "action_beats": [
+        "The Elder's staff stops beside Kael's boot",
+        "Kael rises and straightens his coat",
+        "The Elder studies the unmarked wrist",
+        "Kael follows the staff's woven engraving",
+        "He looks from the symbol to the old tower"
+      ],
+      "dialogue": [
+        {
+          "speaker": "elder",
+          "text": "Ardyn. Your mother stood here once, with that same stubborn expression.",
+          "offset": 0.2,
+          "duration": 4.16
+        },
+        {
+          "speaker": "kael",
+          "text": "You knew her?",
+          "offset": 4.65,
+          "duration": 1.251
+        }
+      ],
+      "sfx": [
+        "staff_tap",
+        "low_pulse",
+        "crowd"
+      ],
+      "continuity": {
+        "previous_shot": 8,
+        "next_shot": 10,
+        "preserve": "Character identities, outfits, injury state, magic colours and movement direction persist across the connected shots.",
+        "entrance": "Continue the prior shot's final action; any change of location is shown along the established route."
+      }
+    },
+    {
+      "id": 10,
+      "start": 100,
+      "duration": 10,
+      "section": "The Powerless Boy",
+      "location": "courtyard",
+      "characters": [
+        "kael",
+        "elder",
+        "mira"
+      ],
+      "action": "talk",
+      "camera": "close",
+      "magic": "none",
+      "description": "Before the Elder can answer, the ceremony horn calls. He withdraws, leaving Kael with a warning that sounds more personal than official.",
+      "expression": "Kael searching; Elder grave",
+      "action_beats": [
+        "The Elder opens his mouth to explain",
+        "The ceremonial horn interrupts him",
+        "He lowers his voice and meets Kael's gaze",
+        "Kael takes half a step after him",
+        "Mira watches the Elder retreat toward the dais"
+      ],
+      "dialogue": [
+        {
+          "speaker": "elder",
+          "text": "Whatever the crystal shows, do not mistake its answer for your worth.",
+          "offset": 0.2,
+          "duration": 4.524
+        },
+        {
+          "speaker": "kael",
+          "text": "Why does that sound like a warning?",
+          "offset": 4.954,
+          "duration": 2.705
+        }
+      ],
+      "sfx": [
+        "ceremony_horn",
+        "staff_tap",
+        "crowd"
+      ],
+      "continuity": {
+        "previous_shot": 9,
+        "next_shot": 11,
+        "preserve": "Character identities, outfits, injury state, magic colours and movement direction persist across the connected shots.",
+        "entrance": "Continue the prior shot's final action; any change of location is shown along the established route."
+      }
+    },
+    {
+      "id": 11,
+      "start": 110,
+      "duration": 10,
+      "section": "The Powerless Boy",
+      "location": "courtyard",
+      "characters": [
+        "kael",
+        "mira",
+        "riven"
+      ],
+      "action": "walk",
+      "camera": "track",
+      "magic": "none",
+      "description": "Kael pauses at the edge of the forming circle, remembers the ribbon he returned, and joins his friends without hiding his empty wrist.",
+      "expression": "Kael nervous courage; friends quiet solidarity",
+      "action_beats": [
+        "Kael stops beside the final courtyard step",
+        "He sees the rescued ribbon flutter beyond the circle",
+        "His closed hand relaxes at his side",
+        "Mira and Riven leave an open space between them",
+        "Kael steps into that space with his wrist uncovered"
+      ],
+      "dialogue": [
+        {
+          "speaker": "riven",
+          "text": "Whatever happens in there, you are still walking back with us.",
+          "offset": 0.2,
+          "duration": 4.16
+        },
+        {
+          "speaker": "kael",
+          "text": "Good. I would hate to miss more complaints.",
+          "offset": 4.65,
+          "duration": 3.069
+        }
+      ],
+      "sfx": [
+        "footsteps",
+        "cloth",
+        "crowd_hush"
+      ],
+      "continuity": {
+        "previous_shot": 10,
+        "next_shot": 12,
+        "preserve": "Character identities, outfits, injury state, magic colours and movement direction persist across the connected shots.",
+        "entrance": "Continue the prior shot's final action; any change of location is shown along the established route."
+      }
+    },
+    {
+      "id": 12,
+      "start": 120,
+      "duration": 10,
+      "section": "The Awakening Ceremony",
+      "location": "courtyard",
+      "characters": [
+        "kael",
+        "mira",
+        "riven",
+        "elder"
+      ],
+      "action": "ceremony",
+      "camera": "wide",
+      "magic": "none",
+      "description": "Students form a ring around the awakening crystal. Kael takes his place between Mira and Riven while the Elder raises his staff.",
+      "expression": "expectation mixed with private anxiety",
+      "action_beats": [
+        "Students settle into the circular formation",
+        "Mira moves into the place beside Kael",
+        "Riven gives him a quick reassuring nod",
+        "The Elder raises the gold staff above the dais",
+        "The awakening crystal begins to resonate"
+      ],
+      "dialogue": [
+        {
+          "speaker": "narrator",
+          "text": "At the Academy, the awakening crystal gave every gift a name. Today, it would meet an absence.",
+          "offset": 0.2,
+          "duration": 6.342
+        },
+        {
+          "speaker": "elder",
+          "text": "Let the ceremony begin.",
+          "offset": 6.772,
+          "duration": 1.615
+        }
+      ],
+      "sfx": [
+        "crystal_hum",
+        "staff_chime",
+        "crowd"
+      ],
+      "continuity": {
+        "previous_shot": 11,
+        "next_shot": 13,
+        "preserve": "Character identities, outfits, injury state, magic colours and movement direction persist across the connected shots.",
+        "entrance": "Continue the prior shot's final action; any change of location is shown along the established route."
+      }
+    },
+    {
+      "id": 13,
+      "start": 130,
+      "duration": 10,
+      "section": "The Awakening Ceremony",
+      "location": "courtyard",
+      "characters": [
+        "mira",
+        "kael",
+        "elder"
+      ],
+      "action": "ceremony",
+      "camera": "medium",
+      "magic": "silver",
+      "description": "Mira places her palm on the crystal. Silver filaments form a precise constellation, then return neatly to her wrist.",
+      "expression": "Mira focused confidence; Kael proud admiration",
+      "action_beats": [
+        "Mira approaches the crystal with an even stride",
+        "Her palm meets the luminous surface",
+        "Silver filaments unfold around her hand",
+        "The filaments settle into a stable constellation",
+        "She withdraws and glances encouragingly at Kael"
+      ],
+      "dialogue": [
+        {
+          "speaker": "elder",
+          "text": "Mira Veyne. Silver Thread Manipulation. Precision beyond your years.",
+          "offset": 0.2,
+          "duration": 3.433
+        },
+        {
+          "speaker": "mira",
+          "text": "Threads hold best when they share the weight.",
+          "offset": 4.65,
+          "duration": 3.069
+        }
+      ],
+      "sfx": [
+        "silver_thread",
+        "crystal_chime",
+        "crowd"
+      ],
+      "continuity": {
+        "previous_shot": 12,
+        "next_shot": 14,
+        "preserve": "Character identities, outfits, injury state, magic colours and movement direction persist across the connected shots.",
+        "entrance": "Continue the prior shot's final action; any change of location is shown along the established route."
+      }
+    },
+    {
+      "id": 14,
+      "start": 140,
+      "duration": 10,
+      "section": "The Awakening Ceremony",
+      "location": "courtyard",
+      "characters": [
+        "riven",
+        "kael",
+        "mira",
+        "elder"
+      ],
+      "action": "ceremony",
+      "camera": "medium",
+      "magic": "crimson",
+      "description": "Riven's test sends red lightning around the dais, but he catches the wild arc before it can strike a banner.",
+      "expression": "Riven exuberance, then quick concentration",
+      "action_beats": [
+        "Riven rolls his shoulder and steps onto the dais",
+        "He presses a confident palm against the crystal",
+        "A red arc whips above the nearest banner",
+        "Riven catches the arc between two fingers",
+        "He releases the current safely into the stone"
+      ],
+      "dialogue": [
+        {
+          "speaker": "elder",
+          "text": "Riven Sol. Crimson Lightning. Consider restraint an essential part of strength.",
+          "offset": 0.2,
+          "duration": 4.16
+        },
+        {
+          "speaker": "riven",
+          "text": "That was the restrained version.",
+          "offset": 4.65,
+          "duration": 1.978
+        }
+      ],
+      "sfx": [
+        "lightning",
+        "stone_sizzle",
+        "crowd"
+      ],
+      "continuity": {
+        "previous_shot": 13,
+        "next_shot": 15,
+        "preserve": "Character identities, outfits, injury state, magic colours and movement direction persist across the connected shots.",
+        "entrance": "Continue the prior shot's final action; any change of location is shown along the established route."
+      }
+    },
+    {
+      "id": 15,
+      "start": 150,
+      "duration": 10,
+      "section": "The Awakening Ceremony",
+      "location": "courtyard",
+      "characters": [
+        "kael",
+        "mira",
+        "riven",
+        "elder"
+      ],
+      "action": "ceremony",
+      "camera": "track",
+      "magic": "none",
+      "description": "Kael walks alone to the crystal, steadying his hand before he places it on the same surface that answered his friends.",
+      "expression": "Kael controlled fear becoming determination",
+      "action_beats": [
+        "Kael leaves the circle and approaches the dais",
+        "His hand trembles above the crystal",
+        "He hears Mira and takes a slow breath",
+        "His fingers spread against the surface",
+        "The courtyard waits for an answering light"
+      ],
+      "dialogue": [
+        {
+          "speaker": "mira",
+          "text": "Breathe, Kael. You are not standing there alone.",
+          "offset": 0.2,
+          "duration": 3.069
+        },
+        {
+          "speaker": "kael",
+          "text": "Then let it see me. Whatever I am.",
+          "offset": 4.65,
+          "duration": 3.069
+        }
+      ],
+      "sfx": [
+        "footsteps",
+        "breath",
+        "crystal_hum"
+      ],
+      "continuity": {
+        "previous_shot": 14,
+        "next_shot": 16,
+        "preserve": "Character identities, outfits, injury state, magic colours and movement direction persist across the connected shots.",
+        "entrance": "Continue the prior shot's final action; any change of location is shown along the established route."
+      }
+    },
+    {
+      "id": 16,
+      "start": 160,
+      "duration": 10,
+      "section": "The Awakening Ceremony",
+      "location": "courtyard",
+      "characters": [
+        "kael",
+        "elder",
+        "mira",
+        "riven"
+      ],
+      "action": "ceremony",
+      "camera": "close",
+      "magic": "none",
+      "description": "The crystal goes completely dark around Kael's hand. Instead of a signature, fine cracks appear underneath its surface.",
+      "expression": "Kael disappointed confusion; Elder alarm",
+      "action_beats": [
+        "The crystal's glow contracts beneath Kael's fingers",
+        "The last colour drains from the inner facets",
+        "Kael lowers his eyes toward his empty wrist",
+        "A hairline fracture moves against the light",
+        "The Elder steps sharply toward the dais"
+      ],
+      "dialogue": [
+        {
+          "speaker": "kael",
+          "text": "Nothing. I knew it would be nothing.",
+          "offset": 0.2,
+          "duration": 2.705
+        },
+        {
+          "speaker": "elder",
+          "text": "Take your hand away. Slowly. Do not pull against it.",
+          "offset": 4.65,
+          "duration": 3.796
+        }
+      ],
+      "sfx": [
+        "hum_drop",
+        "crystal_crack",
+        "crowd_hush"
+      ],
+      "continuity": {
+        "previous_shot": 15,
+        "next_shot": 17,
+        "preserve": "Character identities, outfits, injury state, magic colours and movement direction persist across the connected shots.",
+        "entrance": "Continue the prior shot's final action; any change of location is shown along the established route."
+      }
+    },
+    {
+      "id": 17,
+      "start": 170,
+      "duration": 10,
+      "section": "The Awakening Ceremony",
+      "location": "courtyard",
+      "characters": [
+        "kael",
+        "elder",
+        "mira",
+        "riven"
+      ],
+      "action": "ceremony",
+      "camera": "medium",
+      "magic": "origin",
+      "description": "Kael withdraws his hand. The dark fracture follows his fingertips like an unfinished line before vanishing into the crystal.",
+      "expression": "Kael frightened wonder; Mira analytical alarm",
+      "action_beats": [
+        "Kael eases his palm away from the surface",
+        "A thin dark line follows his fingertips",
+        "Mira leans forward to see its changing shape",
+        "The Elder blocks her path with his staff",
+        "The line snaps back into the crystal"
+      ],
+      "dialogue": [
+        {
+          "speaker": "mira",
+          "text": "That wasn't an empty reading. Something moved inside the silence.",
+          "offset": 0.2,
+          "duration": 3.796
+        },
+        {
+          "speaker": "elder",
+          "text": "Everyone, step back from the dais.",
+          "offset": 4.65,
+          "duration": 2.342
+        }
+      ],
+      "sfx": [
+        "origin_whisper",
+        "staff_tap",
+        "crystal_crack"
+      ],
+      "continuity": {
+        "previous_shot": 16,
+        "next_shot": 18,
+        "preserve": "Character identities, outfits, injury state, magic colours and movement direction persist across the connected shots.",
+        "entrance": "Continue the prior shot's final action; any change of location is shown along the established route."
+      }
+    },
+    {
+      "id": 18,
+      "start": 180,
+      "duration": 10,
+      "section": "A Rift in the Sky",
+      "location": "ruins",
+      "characters": [
+        "kael",
+        "mira",
+        "riven",
+        "elder"
+      ],
+      "action": "rift",
+      "camera": "wide",
+      "magic": "rift",
+      "description": "The first crack sounds overhead, not from the crystal. A narrow violet fault opens across the blue sky above the Academy.",
+      "expression": "shared disbelief becoming fear",
+      "action_beats": [
+        "The crystal's fracture falls suddenly silent",
+        "A sharp crack draws every face upward",
+        "A violet line cuts across the sky",
+        "Clouds bend toward the impossible opening",
+        "The courtyard banners pull toward the growing rift"
+      ],
+      "dialogue": [
+        {
+          "speaker": "riven",
+          "text": "That sound came from above us.",
+          "offset": 0.2,
+          "duration": 2.342
+        },
+        {
+          "speaker": "narrator",
+          "text": "For the first time in three hundred years, the sky forgot how to hold together.",
+          "offset": 2.622,
+          "duration": 5.615
+        }
+      ],
+      "sfx": [
+        "sky_crack",
+        "wind_rise",
+        "crowd_alarm"
+      ],
+      "continuity": {
+        "previous_shot": 17,
+        "next_shot": 19,
+        "preserve": "Character identities, outfits, injury state, magic colours and movement direction persist across the connected shots.",
+        "entrance": "Continue the prior shot's final action; any change of location is shown along the established route."
+      }
+    },
+    {
+      "id": 19,
+      "start": 190,
+      "duration": 10,
+      "section": "A Rift in the Sky",
+      "location": "ruins",
+      "characters": [
+        "kael",
+        "mira",
+        "riven",
+        "elder"
+      ],
+      "action": "rift",
+      "camera": "wide",
+      "magic": "rift",
+      "description": "The sky fault widens into a rotating rift. The Elder strikes his staff into the dais and raises a golden ward above the students.",
+      "expression": "Elder command; students alarm",
+      "action_beats": [
+        "The rift widens beyond the roofline",
+        "Loose leaves spiral upward from the court",
+        "The Elder plants his staff into the dais",
+        "A golden ward spreads over the nearest students",
+        "Mira points the evacuation toward the covered passage"
+      ],
+      "dialogue": [
+        {
+          "speaker": "elder",
+          "text": "To the covered passage! Keep the younger students between you!",
+          "offset": 0.2,
+          "duration": 3.796
+        },
+        {
+          "speaker": "mira",
+          "text": "Riven, take the east side. I have the stairs.",
+          "offset": 4.65,
+          "duration": 3.433
+        }
+      ],
+      "sfx": [
+        "rift_roar",
+        "staff_impact",
+        "gold_ward"
+      ],
+      "continuity": {
+        "previous_shot": 18,
+        "next_shot": 20,
+        "preserve": "Character identities, outfits, injury state, magic colours and movement direction persist across the connected shots.",
+        "entrance": "Continue the prior shot's final action; any change of location is shown along the established route."
+      }
+    },
+    {
+      "id": 20,
+      "start": 200,
+      "duration": 10,
+      "section": "A Rift in the Sky",
+      "location": "ruins",
+      "characters": [
+        "mira",
+        "riven",
+        "kael"
+      ],
+      "action": "rescue",
+      "camera": "track",
+      "magic": "silver",
+      "description": "Mira lays silver handrails across the damaged steps while Riven grounds a falling metal banner pole away from the crowd.",
+      "expression": "Mira decisive focus; Riven protective urgency",
+      "action_beats": [
+        "Mira sweeps one arm along the broken staircase",
+        "Silver threads form a continuous temporary handrail",
+        "Riven spots the falling banner pole",
+        "A controlled crimson arc diverts it toward empty paving",
+        "Kael leads the last hesitant students onto the stairs"
+      ],
+      "dialogue": [
+        {
+          "speaker": "mira",
+          "text": "Hold the silver line and keep moving! No one runs ahead!",
+          "offset": 0.2,
+          "duration": 4.16
+        },
+        {
+          "speaker": "riven",
+          "text": "The passage is clear. Bring them through!",
+          "offset": 4.65,
+          "duration": 2.705
+        }
+      ],
+      "sfx": [
+        "silver_thread",
+        "metal_fall",
+        "lightning",
+        "footsteps"
+      ],
+      "continuity": {
+        "previous_shot": 19,
+        "next_shot": 21,
+        "preserve": "Character identities, outfits, injury state, magic colours and movement direction persist across the connected shots.",
+        "entrance": "Continue the prior shot's final action; any change of location is shown along the established route."
+      }
+    },
+    {
+      "id": 21,
+      "start": 210,
+      "duration": 10,
+      "section": "A Rift in the Sky",
+      "location": "ruins",
+      "characters": [
+        "kael",
+        "mira",
+        "riven"
+      ],
+      "action": "rift",
+      "camera": "medium",
+      "magic": "rift",
+      "description": "A wraith of fractured violet armour descends from the rift and strikes the empty ceremonial dais, scattering crystal shards.",
+      "expression": "Kael shocked; Riven battle-ready",
+      "action_beats": [
+        "A narrow shadow separates from the rift",
+        "Violet armour plates assemble around the descending shape",
+        "The wraith strikes the abandoned dais",
+        "Crystal shards skid across the court",
+        "Mira spots the moving gap inside its chest"
+      ],
+      "dialogue": [
+        {
+          "speaker": "riven",
+          "text": "That thing isn't made of flesh.",
+          "offset": 0.2,
+          "duration": 2.342
+        },
+        {
+          "speaker": "mira",
+          "text": "Its shape is borrowed. Watch the dark gap beneath its armour.",
+          "offset": 4.65,
+          "duration": 4.16
+        }
+      ],
+      "sfx": [
+        "wraith",
+        "stone_impact",
+        "crystal_shatter"
+      ],
+      "continuity": {
+        "previous_shot": 20,
+        "next_shot": 22,
+        "preserve": "Character identities, outfits, injury state, magic colours and movement direction persist across the connected shots.",
+        "entrance": "Continue the prior shot's final action; any change of location is shown along the established route."
+      }
+    },
+    {
+      "id": 22,
+      "start": 220,
+      "duration": 10,
+      "section": "A Rift in the Sky",
+      "location": "ruins",
+      "characters": [
+        "riven",
+        "mira",
+        "kael"
+      ],
+      "action": "battle",
+      "camera": "track",
+      "magic": "crimson",
+      "description": "Riven intercepts the wraith with a short lightning strike; its armour opens to let the bolt pass and seals immediately behind it.",
+      "expression": "Riven's confidence turns to calculation",
+      "action_beats": [
+        "Riven runs across the cleared paving",
+        "Crimson current gathers along his forearm",
+        "He releases a narrow bolt at the wraith's chest",
+        "The armour parts and the bolt passes through empty space",
+        "Riven lands and changes his footing instead of firing again"
+      ],
+      "dialogue": [
+        {
+          "speaker": "riven",
+          "text": "Fine. Let us see how borrowed armour handles lightning!",
+          "offset": 0.2,
+          "duration": 3.433
+        },
+        {
+          "speaker": "mira",
+          "text": "Stop! It opens around the strike, then closes again!",
+          "offset": 4.65,
+          "duration": 3.433
+        }
+      ],
+      "sfx": [
+        "lightning",
+        "wraith_shift",
+        "footsteps"
+      ],
+      "continuity": {
+        "previous_shot": 21,
+        "next_shot": 23,
+        "preserve": "Character identities, outfits, injury state, magic colours and movement direction persist across the connected shots.",
+        "entrance": "Continue the prior shot's final action; any change of location is shown along the established route."
+      }
+    },
+    {
+      "id": 23,
+      "start": 230,
+      "duration": 10,
+      "section": "A Rift in the Sky",
+      "location": "ruins",
+      "characters": [
+        "kael",
+        "elder",
+        "mira",
+        "riven"
+      ],
+      "action": "rescue",
+      "camera": "wide",
+      "magic": "rift",
+      "description": "The failed strike tears a weakened arch loose. Kael sees a student trapped beneath its lower beam while the Elder braces the collapsing ward.",
+      "expression": "Kael immediate concern; Elder strained concentration",
+      "action_beats": [
+        "The wraith's displaced energy hits the damaged arch",
+        "A lower beam drops across the escape route",
+        "Kael notices a trapped hand beneath the dust",
+        "The Elder braces the overhead ward with both hands",
+        "Kael turns away from safety and toward the ruins"
+      ],
+      "dialogue": [
+        {
+          "speaker": "kael",
+          "text": "Someone is still under that arch!",
+          "offset": 0.2,
+          "duration": 2.342
+        },
+        {
+          "speaker": "elder",
+          "text": "I cannot leave the ward. The entire passage would fall!",
+          "offset": 4.65,
+          "duration": 3.796
+        }
+      ],
+      "sfx": [
+        "stone_crack",
+        "debris",
+        "ward_strain"
+      ],
+      "continuity": {
+        "previous_shot": 22,
+        "next_shot": 24,
+        "preserve": "Character identities, outfits, injury state, magic colours and movement direction persist across the connected shots.",
+        "entrance": "Continue the prior shot's final action; any change of location is shown along the established route."
+      }
+    },
+    {
+      "id": 24,
+      "start": 240,
+      "duration": 10,
+      "section": "A Hero Without Power",
+      "location": "ruins",
+      "characters": [
+        "kael",
+        "mira",
+        "riven"
+      ],
+      "action": "run",
+      "camera": "track",
+      "magic": "none",
+      "description": "Kael runs beneath falling dust toward the trapped student while Mira and Riven keep the wraith away from his path.",
+      "expression": "Kael fierce resolve; Mira worried trust",
+      "action_beats": [
+        "Kael ducks under a hanging stone fragment",
+        "He sprints toward the trapped student's hand",
+        "Mira turns a silver thread into the wraith's path",
+        "Riven circles to draw the creature's next strike",
+        "Kael slides to his knees beside the fallen beam"
+      ],
+      "dialogue": [
+        {
+          "speaker": "mira",
+          "text": "Kael, wait for a shield!",
+          "offset": 0.2,
+          "duration": 1.978
+        },
+        {
+          "speaker": "kael",
+          "text": "There isn't time. Keep its eyes on you, not the arch!",
+          "offset": 4.65,
+          "duration": 4.16
+        }
+      ],
+      "sfx": [
+        "running",
+        "debris",
+        "silver_thread",
+        "wraith"
+      ],
+      "continuity": {
+        "previous_shot": 23,
+        "next_shot": 25,
+        "preserve": "Character identities, outfits, injury state, magic colours and movement direction persist across the connected shots.",
+        "entrance": "Continue the prior shot's final action; any change of location is shown along the established route."
+      }
+    },
+    {
+      "id": 25,
+      "start": 250,
+      "duration": 10,
+      "section": "A Hero Without Power",
+      "location": "ruins",
+      "characters": [
+        "kael"
+      ],
+      "action": "rescue",
+      "camera": "close",
+      "magic": "none",
+      "description": "Kael tests the beam with his shoulder, finds it too heavy, and searches the rubble for a usable lever instead of forcing it.",
+      "expression": "strained but reassuring",
+      "action_beats": [
+        "Kael presses his shoulder beneath the fallen beam",
+        "The weight drives him back onto one knee",
+        "He changes his grip instead of abandoning the student",
+        "His eyes find a broken iron banner bracket",
+        "He reaches across the rubble for the bracket"
+      ],
+      "dialogue": [
+        {
+          "speaker": "kael",
+          "text": "Look at me. We do this together. Tell me when your foot is free.",
+          "offset": 0.2,
+          "duration": 5.251
+        },
+        {
+          "speaker": "narrator",
+          "text": "He had no spell. He had a choice.",
+          "offset": 5.681,
+          "duration": 3.069
+        }
+      ],
+      "sfx": [
+        "strain",
+        "stone_scrape",
+        "breath"
+      ],
+      "continuity": {
+        "previous_shot": 24,
+        "next_shot": 26,
+        "preserve": "Character identities, outfits, injury state, magic colours and movement direction persist across the connected shots.",
+        "entrance": "Continue the prior shot's final action; any change of location is shown along the established route."
+      }
+    },
+    {
+      "id": 26,
+      "start": 260,
+      "duration": 10,
+      "section": "A Hero Without Power",
+      "location": "ruins",
+      "characters": [
+        "kael",
+        "mira"
+      ],
+      "action": "rescue",
+      "camera": "medium",
+      "magic": "silver",
+      "description": "Kael wedges the iron bracket beneath the beam. Mira catches it with a silver thread, stabilising the fulcrum while he levers the stone upward.",
+      "expression": "Kael concentrated effort; Mira absolute focus",
+      "action_beats": [
+        "Kael drives the iron bracket into the gap",
+        "Mira anchors a thread around the shifting fulcrum",
+        "Kael bears down on the bracket with both hands",
+        "The stone rises just enough to release the trapped foot",
+        "Mira keeps the beam steady as the student crawls free"
+      ],
+      "dialogue": [
+        {
+          "speaker": "mira",
+          "text": "I can steady it, but I cannot carry the whole beam.",
+          "offset": 0.2,
+          "duration": 4.16
+        },
+        {
+          "speaker": "kael",
+          "text": "Then steady it. I will do the lifting.",
+          "offset": 4.65,
+          "duration": 3.069
+        }
+      ],
+      "sfx": [
+        "iron_scrape",
+        "silver_thread",
+        "stone_lift"
+      ],
+      "continuity": {
+        "previous_shot": 25,
+        "next_shot": 27,
+        "preserve": "Character identities, outfits, injury state, magic colours and movement direction persist across the connected shots.",
+        "entrance": "Continue the prior shot's final action; any change of location is shown along the established route."
+      }
+    },
+    {
+      "id": 27,
+      "start": 270,
+      "duration": 10,
+      "section": "A Hero Without Power",
+      "location": "ruins",
+      "characters": [
+        "kael",
+        "mira",
+        "riven"
+      ],
+      "action": "rescue",
+      "camera": "track",
+      "magic": "crimson",
+      "description": "Kael carries the freed student toward the passage. Riven slides between them and the wraith, blocking its descending claw with a grounded lightning arc.",
+      "expression": "Kael relieved urgency; Riven protective ferocity",
+      "action_beats": [
+        "Kael lifts the student's arm over his shoulder",
+        "They move toward the covered passage",
+        "The wraith lunges toward their unguarded backs",
+        "Riven slides across the paving and raises a grounded arc",
+        "Kael passes the student into Mira's waiting hands"
+      ],
+      "dialogue": [
+        {
+          "speaker": "riven",
+          "text": "You got them out? Good. Now get yourself out!",
+          "offset": 0.2,
+          "duration": 3.433
+        },
+        {
+          "speaker": "kael",
+          "text": "Not while you are still standing here alone.",
+          "offset": 4.65,
+          "duration": 3.069
+        }
+      ],
+      "sfx": [
+        "footsteps",
+        "lightning_guard",
+        "wraith_claw"
+      ],
+      "continuity": {
+        "previous_shot": 26,
+        "next_shot": 28,
+        "preserve": "Character identities, outfits, injury state, magic colours and movement direction persist across the connected shots.",
+        "entrance": "Continue the prior shot's final action; any change of location is shown along the established route."
+      }
+    },
+    {
+      "id": 28,
+      "start": 280,
+      "duration": 10,
+      "section": "A Hero Without Power",
+      "location": "ruins",
+      "characters": [
+        "kael",
+        "riven",
+        "mira"
+      ],
+      "action": "battle",
+      "camera": "medium",
+      "magic": "rift",
+      "description": "The wraith presses through Riven's guard and sends him skidding. Kael steps into the open space before the creature can follow.",
+      "expression": "Riven pain; Kael frightened resolve",
+      "action_beats": [
+        "The wraith pushes its claw through the edge of the arc",
+        "Riven loses his footing on the broken stone",
+        "He skids away and catches himself on one hand",
+        "Kael steps between the wraith and his fallen friend",
+        "The creature turns its empty face toward Kael"
+      ],
+      "dialogue": [
+        {
+          "speaker": "riven",
+          "text": "Kael, you cannot block that!",
+          "offset": 0.2,
+          "duration": 1.978
+        },
+        {
+          "speaker": "kael",
+          "text": "I know. But I can make it look at me.",
+          "offset": 4.65,
+          "duration": 3.796
+        }
+      ],
+      "sfx": [
+        "guard_break",
+        "stone_slide",
+        "wraith"
+      ],
+      "continuity": {
+        "previous_shot": 27,
+        "next_shot": 29,
+        "preserve": "Character identities, outfits, injury state, magic colours and movement direction persist across the connected shots.",
+        "entrance": "Continue the prior shot's final action; any change of location is shown along the established route."
+      }
+    },
+    {
+      "id": 29,
+      "start": 290,
+      "duration": 10,
+      "section": "A Hero Without Power",
+      "location": "ruins",
+      "characters": [
+        "kael",
+        "mira",
+        "riven"
+      ],
+      "action": "fall",
+      "camera": "close",
+      "magic": "origin",
+      "description": "A pressure wave throws Kael against the old tower's boundary wall. His unmarked wrist touches a buried woven symbol, and the noise of battle falls away.",
+      "expression": "Kael dazed recognition",
+      "action_beats": [
+        "The wraith releases a pressure wave across the ruins",
+        "Kael is thrown backward toward the old boundary wall",
+        "His palm lands on an engraved stone beneath the dust",
+        "An unfinished woven mark lights beneath his wrist",
+        "The surrounding battle becomes distant and muffled"
+      ],
+      "dialogue": [
+        {
+          "speaker": "mira",
+          "text": "Kael! Stay with us!",
+          "offset": 0.2,
+          "duration": 1.615
+        },
+        {
+          "speaker": "ancient",
+          "text": "At last. A hand without a name, at the door without a key.",
+          "offset": 4.65,
+          "duration": 4.887
+        }
+      ],
+      "sfx": [
+        "pressure_wave",
+        "body_fall",
+        "ancient_pulse"
+      ],
+      "continuity": {
+        "previous_shot": 28,
+        "next_shot": 30,
+        "preserve": "Character identities, outfits, injury state, magic colours and movement direction persist across the connected shots.",
+        "entrance": "Continue the prior shot's final action; any change of location is shown along the established route."
+      }
+    },
+    {
+      "id": 30,
+      "start": 300,
+      "duration": 10,
+      "section": "The Forgotten Voice",
+      "location": "ruins",
+      "characters": [
+        "kael"
+      ],
+      "action": "listen",
+      "camera": "close",
+      "magic": "origin",
+      "description": "Kael remains against the wall as fine luminous lines emerge from ordinary stone, linking the rubble, his coat, and the distant ward.",
+      "expression": "fear turning to astonishment",
+      "action_beats": [
+        "Kael lifts his head from the boundary stone",
+        "A pale line appears beneath the broken paving",
+        "More lines reveal the edges of the shattered arch",
+        "He follows a line into the seam of his own sleeve",
+        "The lines converge around his still-unmarked wrist"
+      ],
+      "dialogue": [
+        {
+          "speaker": "kael",
+          "text": "Who is there? Why can I see lines inside everything?",
+          "offset": 0.2,
+          "duration": 3.796
+        },
+        {
+          "speaker": "ancient",
+          "text": "Because you are listening beneath the signatures, not above them.",
+          "offset": 4.65,
+          "duration": 3.796
+        }
+      ],
+      "sfx": [
+        "origin_whisper",
+        "heart",
+        "muffled_battle"
+      ],
+      "continuity": {
+        "previous_shot": 29,
+        "next_shot": 31,
+        "preserve": "Character identities, outfits, injury state, magic colours and movement direction persist across the connected shots.",
+        "entrance": "Continue the prior shot's final action; any change of location is shown along the established route."
+      }
+    },
+    {
+      "id": 31,
+      "start": 310,
+      "duration": 10,
+      "section": "The Forgotten Voice",
+      "location": "ruins",
+      "characters": [
+        "kael"
+      ],
+      "action": "listen",
+      "camera": "medium",
+      "magic": "origin",
+      "description": "The lines align with memories of his mother's woven wrist ribbon, then return to the present ruins without changing his physical location.",
+      "expression": "Kael grief and recognition",
+      "action_beats": [
+        "Kael touches the old ribbon inside his cuff",
+        "Its familiar weave aligns with the glowing stone pattern",
+        "A remembered hand briefly overlays his own",
+        "Kael's fingers close around the ribbon",
+        "The memory fades while the present-day lines remain"
+      ],
+      "dialogue": [
+        {
+          "speaker": "ancient",
+          "text": "Your mother did not leave you powerless. She hid your beginning from those who would claim it.",
+          "offset": 0.2,
+          "duration": 6.342
+        },
+        {
+          "speaker": "kael",
+          "text": "She was protecting me?",
+          "offset": 6.772,
+          "duration": 1.615
+        }
+      ],
+      "sfx": [
+        "memory_chime",
+        "cloth",
+        "origin_whisper"
+      ],
+      "continuity": {
+        "previous_shot": 30,
+        "next_shot": 32,
+        "preserve": "Character identities, outfits, injury state, magic colours and movement direction persist across the connected shots.",
+        "entrance": "Continue the prior shot's final action; any change of location is shown along the established route."
+      }
+    },
+    {
+      "id": 32,
+      "start": 320,
+      "duration": 10,
+      "section": "The Forgotten Voice",
+      "location": "ruins",
+      "characters": [
+        "kael"
+      ],
+      "action": "listen",
+      "camera": "close",
+      "magic": "origin",
+      "description": "A broken stone fragment rises between Kael's hands as he involuntarily follows two intersecting origin lines; he lets it fall when the voice names the cost.",
+      "expression": "temptation giving way to caution",
+      "action_beats": [
+        "Kael follows two crossing lines with his fingertips",
+        "A small stone fragment rises between his hands",
+        "The lines tighten around his wrist",
+        "He feels a sudden pressure behind his eyes",
+        "He releases the fragment and it settles into the dust"
+      ],
+      "dialogue": [
+        {
+          "speaker": "ancient",
+          "text": "Origin Weaving changes what magic connects. Every new connection asks something of its maker.",
+          "offset": 0.2,
+          "duration": 5.251
+        },
+        {
+          "speaker": "kael",
+          "text": "What does it ask?",
+          "offset": 5.681,
+          "duration": 1.615
+        }
+      ],
+      "sfx": [
+        "stone_hover",
+        "origin_strain",
+        "stone_drop"
+      ],
+      "continuity": {
+        "previous_shot": 31,
+        "next_shot": 33,
+        "preserve": "Character identities, outfits, injury state, magic colours and movement direction persist across the connected shots.",
+        "entrance": "Continue the prior shot's final action; any change of location is shown along the established route."
+      }
+    },
+    {
+      "id": 33,
+      "start": 330,
+      "duration": 10,
+      "section": "The Forgotten Voice",
+      "location": "ruins",
+      "characters": [
+        "kael"
+      ],
+      "action": "listen",
+      "camera": "close",
+      "magic": "origin",
+      "description": "The Ancient Voice makes its offer as the ward visibly fractures beyond Kael's shoulder. He sees his friends still fighting through the translucent lines.",
+      "expression": "Kael moral clarity through fear",
+      "action_beats": [
+        "The glowing lines pull into a ring before Kael",
+        "A fracture crosses the distant golden ward",
+        "Mira and Riven remain visible through the ring",
+        "Kael watches them hold the same failing defensive line",
+        "He sets his palm against the unfinished origin mark"
+      ],
+      "dialogue": [
+        {
+          "speaker": "ancient",
+          "text": "A memory. A promise. Perhaps a name. Open the first seal, and I will lend you a beginning.",
+          "offset": 0.2,
+          "duration": 6.705
+        },
+        {
+          "speaker": "kael",
+          "text": "No stolen lives?",
+          "offset": 7.135,
+          "duration": 1.251
+        }
+      ],
+      "sfx": [
+        "ward_crack",
+        "ancient_pulse",
+        "muffled_lightning"
+      ],
+      "continuity": {
+        "previous_shot": 32,
+        "next_shot": 34,
+        "preserve": "Character identities, outfits, injury state, magic colours and movement direction persist across the connected shots.",
+        "entrance": "Continue the prior shot's final action; any change of location is shown along the established route."
+      }
+    },
+    {
+      "id": 34,
+      "start": 340,
+      "duration": 10,
+      "section": "The Forgotten Voice",
+      "location": "ruins",
+      "characters": [
+        "kael"
+      ],
+      "action": "listen",
+      "camera": "medium",
+      "magic": "origin",
+      "description": "Kael refuses the promise of limitless power and chooses a single connection to the broken arch, testing the terms rather than surrendering himself.",
+      "expression": "quiet defiance",
+      "action_beats": [
+        "The offered ring expands toward Kael's chest",
+        "He pushes its far edge away with an open hand",
+        "He selects one loose origin line instead of the whole ring",
+        "That line reaches toward the broken arch",
+        "He draws a single controlled breath and stands"
+      ],
+      "dialogue": [
+        {
+          "speaker": "ancient",
+          "text": "Only what you choose to weave. Only what you agree to pay.",
+          "offset": 0.2,
+          "duration": 4.524
+        },
+        {
+          "speaker": "kael",
+          "text": "Then I choose one chance to help them.",
+          "offset": 4.954,
+          "duration": 3.069
+        }
+      ],
+      "sfx": [
+        "origin_thread",
+        "breath",
+        "cloth"
+      ],
+      "continuity": {
+        "previous_shot": 33,
+        "next_shot": 35,
+        "preserve": "Character identities, outfits, injury state, magic colours and movement direction persist across the connected shots.",
+        "entrance": "Continue the prior shot's final action; any change of location is shown along the established route."
+      }
+    },
+    {
+      "id": 35,
+      "start": 350,
+      "duration": 10,
+      "section": "The Forgotten Voice",
+      "location": "ruins",
+      "characters": [
+        "kael",
+        "mira",
+        "riven"
+      ],
+      "action": "weave",
+      "camera": "track",
+      "magic": "origin",
+      "description": "Battle sound returns. Kael rises from the wall and sees a precise origin line running through the loose iron bracket beside Mira's damaged handrail.",
+      "expression": "Kael newly focused; Mira startled hope",
+      "action_beats": [
+        "Full battle sound returns around Kael",
+        "He pushes away from the engraved boundary wall",
+        "Mira turns while keeping her silver thread taut",
+        "Kael follows the origin line through the iron bracket",
+        "He approaches with his hand held open and steady"
+      ],
+      "dialogue": [
+        {
+          "speaker": "mira",
+          "text": "You are standing. How are you standing?",
+          "offset": 0.2,
+          "duration": 2.705
+        },
+        {
+          "speaker": "kael",
+          "text": "Mira, keep your thread on the bracket. I can see where it wants to go.",
+          "offset": 2.985,
+          "duration": 5.615
+        }
+      ],
+      "sfx": [
+        "battle_return",
+        "footsteps",
+        "silver_thread"
+      ],
+      "continuity": {
+        "previous_shot": 34,
+        "next_shot": 36,
+        "preserve": "Character identities, outfits, injury state, magic colours and movement direction persist across the connected shots.",
+        "entrance": "Continue the prior shot's final action; any change of location is shown along the established route."
+      }
+    },
+    {
+      "id": 36,
+      "start": 360,
+      "duration": 10,
+      "section": "The First Spell",
+      "location": "ruins",
+      "characters": [
+        "kael",
+        "mira"
+      ],
+      "action": "weave",
+      "camera": "close",
+      "magic": "origin",
+      "description": "Kael connects the bracket's origin line to the fallen beam; the lifted weight shifts into the surviving arch foundation instead of Mira's exhausted hand.",
+      "expression": "careful concentration and growing trust",
+      "action_beats": [
+        "Kael takes the bracket's pale origin line between two fingers",
+        "Mira holds her silver thread still for him",
+        "He guides the pale line toward the surviving foundation",
+        "The beam's weight settles into the intact stone",
+        "Mira's strained arm lowers as the load leaves it"
+      ],
+      "dialogue": [
+        {
+          "speaker": "kael",
+          "text": "Not stronger. Connected differently. The foundation can hold what your hand cannot.",
+          "offset": 0.2,
+          "duration": 4.524
+        },
+        {
+          "speaker": "mira",
+          "text": "Then show me the connection.",
+          "offset": 4.954,
+          "duration": 1.978
+        }
+      ],
+      "sfx": [
+        "origin_weave",
+        "stone_settle",
+        "silver_release"
+      ],
+      "continuity": {
+        "previous_shot": 35,
+        "next_shot": 37,
+        "preserve": "Character identities, outfits, injury state, magic colours and movement direction persist across the connected shots.",
+        "entrance": "Continue the prior shot's final action; any change of location is shown along the established route."
+      }
+    },
+    {
+      "id": 37,
+      "start": 370,
+      "duration": 10,
+      "section": "The First Spell",
+      "location": "ruins",
+      "characters": [
+        "kael",
+        "mira",
+        "riven"
+      ],
+      "action": "weave",
+      "camera": "medium",
+      "magic": "origin",
+      "description": "The unfinished mark lights on Kael's wrist for the first time. He sways as a familiar melody leaves his memory, then steadies himself against the repaired foundation.",
+      "expression": "wonder interrupted by sudden loss",
+      "action_beats": [
+        "The completed connection pulses through the foundation",
+        "A faint woven mark appears on Kael's wrist",
+        "Riven notices it and lowers his guarded fist",
+        "Kael reaches instinctively for the ribbon in his cuff",
+        "He sways and steadies himself against the repaired stone"
+      ],
+      "dialogue": [
+        {
+          "speaker": "riven",
+          "text": "Your hand, Kael. That is definitely not nothing.",
+          "offset": 0.2,
+          "duration": 3.069
+        },
+        {
+          "speaker": "kael",
+          "text": "There was a song I used to know. Why can't I remember it?",
+          "offset": 4.65,
+          "duration": 4.887
+        }
+      ],
+      "sfx": [
+        "first_spell",
+        "memory_fade",
+        "breath"
+      ],
+      "continuity": {
+        "previous_shot": 36,
+        "next_shot": 38,
+        "preserve": "Character identities, outfits, injury state, magic colours and movement direction persist across the connected shots.",
+        "entrance": "Continue the prior shot's final action; any change of location is shown along the established route."
+      }
+    },
+    {
+      "id": 38,
+      "start": 380,
+      "duration": 10,
+      "section": "The First Spell",
+      "location": "ruins",
+      "characters": [
+        "kael",
+        "mira",
+        "riven"
+      ],
+      "action": "battle",
+      "camera": "track",
+      "magic": "silver",
+      "description": "Mira anchors the wraith's left arm to the repaired arch while Riven draws its attention toward the empty centre of the court; Kael follows their movements into position.",
+      "expression": "Mira tactical certainty; Kael determined recovery",
+      "action_beats": [
+        "Mira casts a silver loop around the wraith's left arm",
+        "The loop anchors into the repaired arch foundation",
+        "Riven backs toward the cleared centre of the court",
+        "The creature follows him and stretches the silver restraint",
+        "Kael takes position beside the intact origin line"
+      ],
+      "dialogue": [
+        {
+          "speaker": "mira",
+          "text": "We discuss the price later. It opens around a direct strike, remember?",
+          "offset": 0.2,
+          "duration": 4.524
+        },
+        {
+          "speaker": "kael",
+          "text": "Then we stop striking directly.",
+          "offset": 4.954,
+          "duration": 1.978
+        }
+      ],
+      "sfx": [
+        "silver_snare",
+        "wraith_strain",
+        "footsteps"
+      ],
+      "continuity": {
+        "previous_shot": 37,
+        "next_shot": 39,
+        "preserve": "Character identities, outfits, injury state, magic colours and movement direction persist across the connected shots.",
+        "entrance": "Continue the prior shot's final action; any change of location is shown along the established route."
+      }
+    },
+    {
+      "id": 39,
+      "start": 390,
+      "duration": 10,
+      "section": "The First Spell",
+      "location": "ruins",
+      "characters": [
+        "kael",
+        "mira",
+        "riven"
+      ],
+      "action": "battle",
+      "camera": "medium",
+      "magic": "crimson",
+      "description": "Riven releases a low red arc along the paving rather than into the wraith, testing whether Kael can redirect power through Mira's suspended silver thread.",
+      "expression": "Riven alert trust; Kael precise resolve",
+      "action_beats": [
+        "Riven lowers his charged fist toward the paving",
+        "A narrow crimson arc follows the stone seams",
+        "Mira suspends a silver thread above the arc",
+        "Kael tracks the two lines without touching either",
+        "He raises two fingers to connect their crossings"
+      ],
+      "dialogue": [
+        {
+          "speaker": "riven",
+          "text": "Tell me where to put the lightning, and please say somewhere sensible.",
+          "offset": 0.2,
+          "duration": 4.524
+        },
+        {
+          "speaker": "kael",
+          "text": "The ground. I will give it a path.",
+          "offset": 4.954,
+          "duration": 3.069
+        }
+      ],
+      "sfx": [
+        "low_lightning",
+        "silver_thread",
+        "origin_pulse"
+      ],
+      "continuity": {
+        "previous_shot": 38,
+        "next_shot": 40,
+        "preserve": "Character identities, outfits, injury state, magic colours and movement direction persist across the connected shots.",
+        "entrance": "Continue the prior shot's final action; any change of location is shown along the established route."
+      }
+    },
+    {
+      "id": 40,
+      "start": 400,
+      "duration": 10,
+      "section": "The First Spell",
+      "location": "ruins",
+      "characters": [
+        "kael",
+        "mira",
+        "riven"
+      ],
+      "action": "weave",
+      "camera": "close",
+      "magic": "origin",
+      "description": "Kael's first combat weave slips. The current jumps toward his hand, and Mira pulls her thread aside before it burns him; they reset without losing their positions.",
+      "expression": "Kael frustration; Mira firm reassurance",
+      "action_beats": [
+        "Kael joins the crossing lines too early",
+        "A stray crimson spark jumps toward his fingers",
+        "Mira sharply redirects the silver thread away from his hand",
+        "Kael releases the failed connection and exhales",
+        "He matches the moving thread's rhythm with his wrist"
+      ],
+      "dialogue": [
+        {
+          "speaker": "kael",
+          "text": "I lost it. The lines keep moving!",
+          "offset": 0.2,
+          "duration": 2.705
+        },
+        {
+          "speaker": "mira",
+          "text": "So do we. Follow the motion instead of forcing it to stop.",
+          "offset": 4.65,
+          "duration": 4.524
+        }
+      ],
+      "sfx": [
+        "misfire",
+        "silver_snap",
+        "breath"
+      ],
+      "continuity": {
+        "previous_shot": 39,
+        "next_shot": 41,
+        "preserve": "Character identities, outfits, injury state, magic colours and movement direction persist across the connected shots.",
+        "entrance": "Continue the prior shot's final action; any change of location is shown along the established route."
+      }
+    },
+    {
+      "id": 41,
+      "start": 410,
+      "duration": 10,
+      "section": "The First Spell",
+      "location": "ruins",
+      "characters": [
+        "kael",
+        "mira",
+        "riven"
+      ],
+      "action": "battle",
+      "camera": "wide",
+      "magic": "origin",
+      "description": "The three spread into a triangle: Mira fixes the wraith's orientation, Riven sends current along the paving, and Kael begins weaving between their separate lines.",
+      "expression": "shared determination",
+      "action_beats": [
+        "Mira shifts to the creature's restrained left flank",
+        "Riven braces at the opposite point of the court",
+        "Kael steps into the open third point between them",
+        "The three lines form a visible triangular pattern",
+        "Their breathing settles into a shared attack rhythm"
+      ],
+      "dialogue": [
+        {
+          "speaker": "narrator",
+          "text": "A thread to hold. Lightning to reveal. A beginning to connect them. Three gifts, finally moving as one.",
+          "offset": 0.2,
+          "duration": 6.705
+        },
+        {
+          "speaker": "kael",
+          "text": "Again. Together this time.",
+          "offset": 7.135,
+          "duration": 1.615
+        }
+      ],
+      "sfx": [
+        "silver_thread",
+        "crimson_charge",
+        "origin_charge"
+      ],
+      "continuity": {
+        "previous_shot": 40,
+        "next_shot": 42,
+        "preserve": "Character identities, outfits, injury state, magic colours and movement direction persist across the connected shots.",
+        "entrance": "Continue the prior shot's final action; any change of location is shown along the established route."
+      }
+    },
+    {
+      "id": 42,
+      "start": 420,
+      "duration": 10,
+      "section": "Three Powers, One Battle",
+      "location": "ruins",
+      "characters": [
+        "kael",
+        "mira",
+        "riven"
+      ],
+      "action": "battle",
+      "camera": "track",
+      "magic": "silver",
+      "description": "Mira snaps her restraint low, forcing the wraith to plant its right leg. Its armour must open on the left side to keep balance, exposing the moving void beneath.",
+      "expression": "Mira sharp tactical focus",
+      "action_beats": [
+        "Mira lowers her stance beside the repaired arch",
+        "Her silver restraint pulls the wraith's left shoulder down",
+        "The creature plants its right leg to recover balance",
+        "The left armour plates part around the strained joint",
+        "Riven follows the exposed moving void with his eyes"
+      ],
+      "dialogue": [
+        {
+          "speaker": "mira",
+          "text": "Left shoulder down. Make it choose where to open.",
+          "offset": 0.2,
+          "duration": 3.433
+        },
+        {
+          "speaker": "riven",
+          "text": "I see the gap. It is moving against the armour.",
+          "offset": 4.65,
+          "duration": 3.796
+        }
+      ],
+      "sfx": [
+        "thread_tension",
+        "armour_shift",
+        "stone_scrape"
+      ],
+      "continuity": {
+        "previous_shot": 41,
+        "next_shot": 43,
+        "preserve": "Character identities, outfits, injury state, magic colours and movement direction persist across the connected shots.",
+        "entrance": "Continue the prior shot's final action; any change of location is shown along the established route."
+      }
+    },
+    {
+      "id": 43,
+      "start": 430,
+      "duration": 10,
+      "section": "Three Powers, One Battle",
+      "location": "ruins",
+      "characters": [
+        "kael",
+        "mira",
+        "riven"
+      ],
+      "action": "battle",
+      "camera": "medium",
+      "magic": "crimson",
+      "description": "Riven sends three brief lightning pulses along the paving. Kael follows their timing and threads the third pulse into Mira's silver restraint.",
+      "expression": "Riven measured intensity; Kael absolute concentration",
+      "action_beats": [
+        "Riven grounds the first short pulse into the paving",
+        "Kael watches its route without intervening",
+        "A second pulse establishes a repeatable path",
+        "The third pulse reaches the suspended silver thread",
+        "Kael weaves the current into the thread's origin line"
+      ],
+      "dialogue": [
+        {
+          "speaker": "riven",
+          "text": "One to measure. One to follow. The third is yours!",
+          "offset": 0.2,
+          "duration": 3.796
+        },
+        {
+          "speaker": "kael",
+          "text": "I have it. Keep the current steady!",
+          "offset": 4.65,
+          "duration": 2.705
+        }
+      ],
+      "sfx": [
+        "lightning_pulse",
+        "lightning_pulse",
+        "origin_join"
+      ],
+      "continuity": {
+        "previous_shot": 42,
+        "next_shot": 44,
+        "preserve": "Character identities, outfits, injury state, magic colours and movement direction persist across the connected shots.",
+        "entrance": "Continue the prior shot's final action; any change of location is shown along the established route."
+      }
+    },
+    {
+      "id": 44,
+      "start": 440,
+      "duration": 10,
+      "section": "Three Powers, One Battle",
+      "location": "ruins",
+      "characters": [
+        "kael",
+        "mira",
+        "riven"
+      ],
+      "action": "battle",
+      "camera": "track",
+      "magic": "origin",
+      "description": "The redirected lightning travels inside the silver restraint and reaches the wraith through the contact it cannot open around; its armour separates from the core.",
+      "expression": "Kael determined; Mira fierce satisfaction",
+      "action_beats": [
+        "Crimson light runs inside the silver restraint",
+        "The contact point stays fixed against the wraith's armour",
+        "The creature tries to open around an attack already touching it",
+        "Its armour plates separate unevenly from the inner void",
+        "Mira tightens the restraint to keep the opening aligned"
+      ],
+      "dialogue": [
+        {
+          "speaker": "kael",
+          "text": "It can avoid a strike. It cannot avoid a connection already holding it!",
+          "offset": 0.2,
+          "duration": 4.887
+        },
+        {
+          "speaker": "mira",
+          "text": "Riven, now! Through the thread!",
+          "offset": 5.317,
+          "duration": 1.978
+        }
+      ],
+      "sfx": [
+        "thread_lightning",
+        "armour_break",
+        "wraith_roar"
+      ],
+      "continuity": {
+        "previous_shot": 43,
+        "next_shot": 45,
+        "preserve": "Character identities, outfits, injury state, magic colours and movement direction persist across the connected shots.",
+        "entrance": "Continue the prior shot's final action; any change of location is shown along the established route."
+      }
+    },
+    {
+      "id": 45,
+      "start": 450,
+      "duration": 10,
+      "section": "Three Powers, One Battle",
+      "location": "ruins",
+      "characters": [
+        "kael",
+        "mira",
+        "riven"
+      ],
+      "action": "battle",
+      "camera": "wide",
+      "magic": "rift",
+      "description": "The wraith tears free from its damaged shell and lashes toward Kael; Riven catches him by the coat while Mira spreads a thread lattice between the core and the passage.",
+      "expression": "Kael alarm; friends immediate protective reflex",
+      "action_beats": [
+        "The fractured armour falls away from the wraith",
+        "The exposed void lashes across the court toward Kael",
+        "Riven catches the back of Kael's navy coat",
+        "He pulls Kael clear of the first lash",
+        "Mira spreads a lattice between the core and the passage"
+      ],
+      "dialogue": [
+        {
+          "speaker": "riven",
+          "text": "Your turn to be rescued, Ardyn!",
+          "offset": 0.2,
+          "duration": 2.342
+        },
+        {
+          "speaker": "mira",
+          "text": "The shell was only a lock. The real thing is coming through!",
+          "offset": 4.65,
+          "duration": 4.524
+        }
+      ],
+      "sfx": [
+        "armour_drop",
+        "void_lash",
+        "cloth_pull",
+        "silver_lattice"
+      ],
+      "continuity": {
+        "previous_shot": 44,
+        "next_shot": 46,
+        "preserve": "Character identities, outfits, injury state, magic colours and movement direction persist across the connected shots.",
+        "entrance": "Continue the prior shot's final action; any change of location is shown along the established route."
+      }
+    },
+    {
+      "id": 46,
+      "start": 460,
+      "duration": 10,
+      "section": "Three Powers, One Battle",
+      "location": "ruins",
+      "characters": [
+        "kael",
+        "mira",
+        "riven",
+        "elder"
+      ],
+      "action": "weave",
+      "camera": "medium",
+      "magic": "origin",
+      "description": "The Elder reveals the rift's anchor line beneath the broken dais. Kael runs the linked silver-and-crimson current into that anchor rather than chasing the moving core.",
+      "expression": "Elder urgent clarity; Kael decisive understanding",
+      "action_beats": [
+        "The Elder points his gold staff beneath the broken dais",
+        "A hidden anchor line appears in the fractured stone",
+        "Kael turns away from the moving void and toward the anchor",
+        "Mira reorients the silver lattice toward his open hand",
+        "Riven sends a final controlled surge along their shared path"
+      ],
+      "dialogue": [
+        {
+          "speaker": "elder",
+          "text": "The dais, Kael! Close its anchor, not its mouth!",
+          "offset": 0.2,
+          "duration": 3.433
+        },
+        {
+          "speaker": "kael",
+          "text": "Mira, hold the line. Riven, everything you have left!",
+          "offset": 4.65,
+          "duration": 3.433
+        }
+      ],
+      "sfx": [
+        "gold_reveal",
+        "silver_thread",
+        "lightning_surge"
+      ],
+      "continuity": {
+        "previous_shot": 45,
+        "next_shot": 47,
+        "preserve": "Character identities, outfits, injury state, magic colours and movement direction persist across the connected shots.",
+        "entrance": "Continue the prior shot's final action; any change of location is shown along the established route."
+      }
+    },
+    {
+      "id": 47,
+      "start": 470,
+      "duration": 10,
+      "section": "Three Powers, One Battle",
+      "location": "ruins",
+      "characters": [
+        "kael",
+        "mira",
+        "riven",
+        "elder"
+      ],
+      "action": "seal",
+      "camera": "wide",
+      "magic": "seal",
+      "description": "Kael folds the anchor into a closed woven loop. The void retracts upward, the rift pinches shut, and the last violet fragments dissolve above the court.",
+      "expression": "strained resolve giving way to stunned relief",
+      "action_beats": [
+        "Kael brings the two ends of the anchor line together",
+        "The silver-crimson current traces a closed woven loop",
+        "The void retracts toward the narrowing rift",
+        "Violet fragments break into harmless light above the courtyard",
+        "The repaired sky returns and Kael's knees begin to give"
+      ],
+      "dialogue": [
+        {
+          "speaker": "kael",
+          "text": "You came through a broken connection. Then that is where this ends!",
+          "offset": 0.2,
+          "duration": 4.524
+        },
+        {
+          "speaker": "narrator",
+          "text": "The sky held. For one impossible moment, so did Kael.",
+          "offset": 4.954,
+          "duration": 3.796
+        }
+      ],
+      "sfx": [
+        "origin_close",
+        "rift_collapse",
+        "particle_fall",
+        "wind_release"
+      ],
+      "continuity": {
+        "previous_shot": 46,
+        "next_shot": 48,
+        "preserve": "Character identities, outfits, injury state, magic colours and movement direction persist across the connected shots.",
+        "entrance": "Continue the prior shot's final action; any change of location is shown along the established route."
+      }
+    },
+    {
+      "id": 48,
+      "start": 480,
+      "duration": 10,
+      "section": "The Price of Power",
+      "location": "ruins",
+      "characters": [
+        "kael",
+        "mira",
+        "riven"
+      ],
+      "action": "fall",
+      "camera": "medium",
+      "magic": "origin",
+      "description": "Kael falls beside the repaired foundation. Mira catches his shoulder while Riven kneels in the dust; the origin mark flickers between presence and absence.",
+      "expression": "Kael exhaustion; Mira restrained fear",
+      "action_beats": [
+        "Kael's knees fold as the woven light leaves his hand",
+        "Mira catches his shoulder before he hits the paving",
+        "Riven kneels at his other side",
+        "Kael's origin mark flickers beneath a shaking thumb",
+        "He forces his eyes to meet Mira's"
+      ],
+      "dialogue": [
+        {
+          "speaker": "mira",
+          "text": "Kael, look at me. Tell me your name.",
+          "offset": 0.2,
+          "duration": 3.069
+        },
+        {
+          "speaker": "kael",
+          "text": "Kael Ardyn. I think I know that much.",
+          "offset": 4.65,
+          "duration": 3.069
+        }
+      ],
+      "sfx": [
+        "body_fall",
+        "breath",
+        "origin_flicker"
+      ],
+      "continuity": {
+        "previous_shot": 47,
+        "next_shot": 49,
+        "preserve": "Character identities, outfits, injury state, magic colours and movement direction persist across the connected shots.",
+        "entrance": "Continue the prior shot's final action; any change of location is shown along the established route."
+      }
+    },
+    {
+      "id": 49,
+      "start": 490,
+      "duration": 10,
+      "section": "The Price of Power",
+      "location": "ruins",
+      "characters": [
+        "kael",
+        "mira",
+        "riven"
+      ],
+      "action": "talk",
+      "camera": "close",
+      "magic": "none",
+      "description": "Kael holds his mother's ribbon and tries to hum its familiar lullaby. The tune will not come; the price has taken something real.",
+      "expression": "quiet grief and frightened honesty",
+      "action_beats": [
+        "Kael draws the old woven ribbon from his cuff",
+        "He rubs its frayed edge between his fingers",
+        "His lips attempt the beginning of a familiar tune",
+        "The tune fails and he lowers his gaze",
+        "Mira places her hand beside his without taking the ribbon"
+      ],
+      "dialogue": [
+        {
+          "speaker": "kael",
+          "text": "My mother sang to me when storms came. I remember her hands, but the song is gone.",
+          "offset": 0.2,
+          "duration": 6.342
+        },
+        {
+          "speaker": "mira",
+          "text": "I am sorry.",
+          "offset": 6.772,
+          "duration": 1.251
+        }
+      ],
+      "sfx": [
+        "cloth",
+        "wind",
+        "distant_debris"
+      ],
+      "continuity": {
+        "previous_shot": 48,
+        "next_shot": 50,
+        "preserve": "Character identities, outfits, injury state, magic colours and movement direction persist across the connected shots.",
+        "entrance": "Continue the prior shot's final action; any change of location is shown along the established route."
+      }
+    },
+    {
+      "id": 50,
+      "start": 500,
+      "duration": 10,
+      "section": "The Price of Power",
+      "location": "ruins",
+      "characters": [
+        "kael",
+        "mira",
+        "riven"
+      ],
+      "action": "talk",
+      "camera": "medium",
+      "magic": "none",
+      "description": "Riven places Kael's hand against the repaired foundation to show the lives his choice protected; Mira promises to record what he fears losing.",
+      "expression": "Riven sincere steadiness; Mira compassionate resolve",
+      "action_beats": [
+        "Riven rests a hand on the repaired foundation",
+        "He guides Kael's fingers to its solid surface",
+        "Kael looks toward the students safe in the passage",
+        "Mira opens her small academy notebook",
+        "She writes Kael's name at the top of a clean page"
+      ],
+      "dialogue": [
+        {
+          "speaker": "riven",
+          "text": "You saved people today. That does not make the price fair.",
+          "offset": 0.2,
+          "duration": 4.16
+        },
+        {
+          "speaker": "mira",
+          "text": "We will remember with you. You won't carry this alone.",
+          "offset": 4.65,
+          "duration": 3.796
+        }
+      ],
+      "sfx": [
+        "stone_touch",
+        "page_turn",
+        "pencil"
+      ],
+      "continuity": {
+        "previous_shot": 49,
+        "next_shot": 51,
+        "preserve": "Character identities, outfits, injury state, magic colours and movement direction persist across the connected shots.",
+        "entrance": "Continue the prior shot's final action; any change of location is shown along the established route."
+      }
+    },
+    {
+      "id": 51,
+      "start": 510,
+      "duration": 10,
+      "section": "The Price of Power",
+      "location": "ruins",
+      "characters": [
+        "kael",
+        "elder",
+        "mira",
+        "riven"
+      ],
+      "action": "talk",
+      "camera": "medium",
+      "magic": "seal",
+      "description": "The Elder joins them, lowering his staff so its woven engraving aligns with Kael's new mark. Kael demands an honest answer before accepting help.",
+      "expression": "Kael wounded resolve; Elder remorse",
+      "action_beats": [
+        "The Elder approaches through the settling dust",
+        "He kneels and lowers the engraved staff beside Kael's wrist",
+        "The two woven patterns answer one another with a faint pulse",
+        "Kael closes his fingers around the ribbon",
+        "He meets the Elder's eyes and refuses to look away"
+      ],
+      "dialogue": [
+        {
+          "speaker": "kael",
+          "text": "You recognised that symbol before the crystal broke. Tell me what you know.",
+          "offset": 0.2,
+          "duration": 4.887
+        },
+        {
+          "speaker": "elder",
+          "text": "Yes. I owe you the truth.",
+          "offset": 5.317,
+          "duration": 2.342
+        }
+      ],
+      "sfx": [
+        "staff_tap",
+        "seal_pulse",
+        "dust_wind"
+      ],
+      "continuity": {
+        "previous_shot": 50,
+        "next_shot": 52,
+        "preserve": "Character identities, outfits, injury state, magic colours and movement direction persist across the connected shots.",
+        "entrance": "Continue the prior shot's final action; any change of location is shown along the established route."
+      }
+    },
+    {
+      "id": 52,
+      "start": 520,
+      "duration": 10,
+      "section": "The Price of Power",
+      "location": "ruins",
+      "characters": [
+        "kael",
+        "elder",
+        "mira",
+        "riven"
+      ],
+      "action": "talk",
+      "camera": "close",
+      "magic": "seal",
+      "description": "The Elder names Kael's mother as the keeper of the first seal. The supposedly empty wrist was the lock she left to protect him.",
+      "expression": "Elder grave confession; Kael stunned understanding",
+      "action_beats": [
+        "The Elder traces the first loop of the woven engraving",
+        "Kael follows the same loop on his own wrist",
+        "Mira compares the pattern with her notebook sketch",
+        "Riven looks toward the old tower beyond the court",
+        "A pale line stretches from Kael's mark toward that tower"
+      ],
+      "dialogue": [
+        {
+          "speaker": "elder",
+          "text": "Your mother guarded the first seal. She hid its key inside your unawakened signature.",
+          "offset": 0.2,
+          "duration": 5.251
+        },
+        {
+          "speaker": "kael",
+          "text": "And opening it woke the rift?",
+          "offset": 5.681,
+          "duration": 2.342
+        }
+      ],
+      "sfx": [
+        "seal_line",
+        "page_rustle",
+        "low_tower_pulse"
+      ],
+      "continuity": {
+        "previous_shot": 51,
+        "next_shot": 53,
+        "preserve": "Character identities, outfits, injury state, magic colours and movement direction persist across the connected shots.",
+        "entrance": "Continue the prior shot's final action; any change of location is shown along the established route."
+      }
+    },
+    {
+      "id": 53,
+      "start": 530,
+      "duration": 10,
+      "section": "The Price of Power",
+      "location": "ruins",
+      "characters": [
+        "kael",
+        "elder",
+        "mira",
+        "riven"
+      ],
+      "action": "walk",
+      "camera": "wide",
+      "magic": "origin",
+      "description": "A pale line leads from Kael's wrist across the ruined courtyard to the tower entrance. He accepts his friends' support and stands to follow it.",
+      "expression": "Kael wary determination; friends united concern",
+      "action_beats": [
+        "The line from Kael's wrist extends across the broken court",
+        "Its far end illuminates the tower's low entrance",
+        "Riven offers Kael a forearm to help him stand",
+        "Mira gathers the notebook and steadies his other side",
+        "All four turn toward the nearby tower doorway"
+      ],
+      "dialogue": [
+        {
+          "speaker": "elder",
+          "text": "Something outside felt the lock weaken. The first seal must be closed from within.",
+          "offset": 0.2,
+          "duration": 5.251
+        },
+        {
+          "speaker": "kael",
+          "text": "Then show us the door.",
+          "offset": 5.681,
+          "duration": 1.978
+        }
+      ],
+      "sfx": [
+        "origin_guidance",
+        "footsteps",
+        "tower_pulse"
+      ],
+      "continuity": {
+        "previous_shot": 52,
+        "next_shot": 54,
+        "preserve": "Character identities, outfits, injury state, magic colours and movement direction persist across the connected shots.",
+        "entrance": "Continue the prior shot's final action; any change of location is shown along the established route."
+      }
+    },
+    {
+      "id": 54,
+      "start": 540,
+      "duration": 10,
+      "section": "The First Seal",
+      "location": "tower",
+      "characters": [
+        "kael",
+        "mira",
+        "riven",
+        "elder"
+      ],
+      "action": "walk",
+      "camera": "track",
+      "magic": "seal",
+      "description": "The group crosses the short courtyard approach to the sealed tower; the camera follows behind them through the doorway instead of cutting them to a new place.",
+      "expression": "shared caution and resolve",
+      "action_beats": [
+        "The group follows the pale line across the final paving stones",
+        "Riven supports Kael as they reach the tower threshold",
+        "The Elder touches his staff to the engraved door",
+        "The door opens just wide enough for them to pass",
+        "Camera follows their shoulders into the dark passage"
+      ],
+      "dialogue": [
+        {
+          "speaker": "riven",
+          "text": "For the record, I preferred it when our biggest problem was the examination board.",
+          "offset": 0.2,
+          "duration": 5.251
+        },
+        {
+          "speaker": "mira",
+          "text": "Keep complaining. It means you are still breathing.",
+          "offset": 5.681,
+          "duration": 3.069
+        }
+      ],
+      "sfx": [
+        "footsteps",
+        "stone_door",
+        "staff_chime"
+      ],
+      "continuity": {
+        "previous_shot": 53,
+        "next_shot": 55,
+        "preserve": "Character identities, outfits, injury state, magic colours and movement direction persist across the connected shots.",
+        "entrance": "Continue the prior shot's final action; any change of location is shown along the established route."
+      }
+    },
+    {
+      "id": 55,
+      "start": 550,
+      "duration": 10,
+      "section": "The First Seal",
+      "location": "tower",
+      "characters": [
+        "kael",
+        "mira",
+        "riven",
+        "elder"
+      ],
+      "action": "walk",
+      "camera": "track",
+      "magic": "seal",
+      "description": "They descend the tower's short spiral stair. Mira sends a silver guide line down the inner rail while Riven lights each landing with controlled sparks.",
+      "expression": "Mira focused care; Riven subdued vigilance",
+      "action_beats": [
+        "The Elder leads onto the first spiral stair",
+        "Mira anchors a silver guide line along the damaged rail",
+        "Riven lights the next landing with a small held spark",
+        "Kael carefully shifts his weight down the last steps",
+        "The group reaches the chamber doorway together"
+      ],
+      "dialogue": [
+        {
+          "speaker": "mira",
+          "text": "One step at a time. The rail is broken on the inside.",
+          "offset": 0.2,
+          "duration": 4.524
+        },
+        {
+          "speaker": "kael",
+          "text": "I can feel something waiting below us.",
+          "offset": 4.954,
+          "duration": 2.705
+        }
+      ],
+      "sfx": [
+        "stairs",
+        "silver_thread",
+        "small_spark",
+        "chamber_drone"
+      ],
+      "continuity": {
+        "previous_shot": 54,
+        "next_shot": 56,
+        "preserve": "Character identities, outfits, injury state, magic colours and movement direction persist across the connected shots.",
+        "entrance": "Continue the prior shot's final action; any change of location is shown along the established route."
+      }
+    },
+    {
+      "id": 56,
+      "start": 560,
+      "duration": 10,
+      "section": "The First Seal",
+      "location": "seal",
+      "characters": [
+        "kael",
+        "mira",
+        "riven",
+        "elder"
+      ],
+      "action": "listen",
+      "camera": "wide",
+      "magic": "seal",
+      "description": "The underground chamber opens around a single suspended woven ring; six distant, unlit sockets surround it. Kael recognises the first loop from his mother's ribbon.",
+      "expression": "awe shaded by foreboding",
+      "action_beats": [
+        "The four enter the chamber without changing formation",
+        "A suspended woven ring lights above the central stone",
+        "Six unlit sockets become visible around the outer wall",
+        "Kael lifts his mother's ribbon beside the first ring",
+        "The ribbon's weave matches the chamber's unfinished loop"
+      ],
+      "dialogue": [
+        {
+          "speaker": "ancient",
+          "text": "Seven seals hold the world's beginning apart. You have touched only the first.",
+          "offset": 0.2,
+          "duration": 4.887
+        },
+        {
+          "speaker": "kael",
+          "text": "You never said there were seven.",
+          "offset": 5.317,
+          "duration": 2.342
+        }
+      ],
+      "sfx": [
+        "seal_resonance",
+        "chamber_echo",
+        "cloth"
+      ],
+      "continuity": {
+        "previous_shot": 55,
+        "next_shot": 57,
+        "preserve": "Character identities, outfits, injury state, magic colours and movement direction persist across the connected shots.",
+        "entrance": "Continue the prior shot's final action; any change of location is shown along the established route."
+      }
+    },
+    {
+      "id": 57,
+      "start": 570,
+      "duration": 10,
+      "section": "The First Seal",
+      "location": "seal",
+      "characters": [
+        "kael",
+        "mira",
+        "riven",
+        "elder"
+      ],
+      "action": "seal",
+      "camera": "medium",
+      "magic": "origin",
+      "description": "Kael reaches toward the ring, then deliberately keeps his friends' hands linked to his shoulders; he closes the unfinished loop without offering a second memory.",
+      "expression": "Kael mature defiance; friends steady trust",
+      "action_beats": [
+        "Kael raises his marked hand toward the suspended ring",
+        "He stops before the ring can draw him forward",
+        "Mira and Riven keep a steady hand on each shoulder",
+        "Kael follows the existing loop instead of creating a new line",
+        "The unfinished ends approach without taking another memory"
+      ],
+      "dialogue": [
+        {
+          "speaker": "kael",
+          "text": "No new bargain. We close what is already open, and we keep hold of each other.",
+          "offset": 0.2,
+          "duration": 5.978
+        },
+        {
+          "speaker": "ancient",
+          "text": "A careful answer, little weaver.",
+          "offset": 6.408,
+          "duration": 1.978
+        }
+      ],
+      "sfx": [
+        "origin_weave",
+        "seal_tension",
+        "heartbeat"
+      ],
+      "continuity": {
+        "previous_shot": 56,
+        "next_shot": 58,
+        "preserve": "Character identities, outfits, injury state, magic colours and movement direction persist across the connected shots.",
+        "entrance": "Continue the prior shot's final action; any change of location is shown along the established route."
+      }
+    },
+    {
+      "id": 58,
+      "start": 580,
+      "duration": 10,
+      "section": "The First Seal",
+      "location": "seal",
+      "characters": [
+        "kael",
+        "mira",
+        "riven",
+        "elder"
+      ],
+      "action": "seal",
+      "camera": "close",
+      "magic": "seal",
+      "description": "The first seal closes with a quiet gold-and-teal pulse. Kael repeats his friends' names and his own, anchoring what remains while the Ancient Voice recedes.",
+      "expression": "relief with a deliberate refusal to surrender",
+      "action_beats": [
+        "The two ends of the first seal meet",
+        "A restrained gold-and-teal pulse passes around the chamber",
+        "Kael presses his unshaking palm against his own chest",
+        "He names each friend while meeting their eyes",
+        "The Ancient Voice fades beyond the closed woven ring"
+      ],
+      "dialogue": [
+        {
+          "speaker": "kael",
+          "text": "Mira Veyne. Riven Sol. Kael Ardyn. These names are mine to keep.",
+          "offset": 0.2,
+          "duration": 4.524
+        },
+        {
+          "speaker": "mira",
+          "text": "And we are still here.",
+          "offset": 4.954,
+          "duration": 1.978
+        }
+      ],
+      "sfx": [
+        "seal_close",
+        "gentle_chime",
+        "voice_recede"
+      ],
+      "continuity": {
+        "previous_shot": 57,
+        "next_shot": 59,
+        "preserve": "Character identities, outfits, injury state, magic colours and movement direction persist across the connected shots.",
+        "entrance": "Continue the prior shot's final action; any change of location is shown along the established route."
+      }
+    },
+    {
+      "id": 59,
+      "start": 590,
+      "duration": 10,
+      "section": "The First Seal",
+      "location": "seal",
+      "characters": [
+        "kael",
+        "mira",
+        "riven",
+        "elder"
+      ],
+      "action": "talk",
+      "camera": "wide",
+      "magic": "seal",
+      "description": "As the friends turn toward the stairs, a second socket flickers crimson behind them. Far above, the repaired sky reveals one unfamiliar star; the next story has begun.",
+      "expression": "Kael hopeful resolve; Elder hidden alarm",
+      "action_beats": [
+        "The group turns toward the stairway as one",
+        "Kael pauses and looks back at the closed first ring",
+        "A second socket briefly flickers on the chamber wall",
+        "The Elder notices the flicker but keeps walking",
+        "Camera rises along the tower toward one unfamiliar star"
+      ],
+      "dialogue": [
+        {
+          "speaker": "kael",
+          "text": "If this world has forgotten how to hold together, we will learn.",
+          "offset": 0.2,
+          "duration": 4.524
+        },
+        {
+          "speaker": "ancient",
+          "text": "One seal sleeps. Six have heard your name.",
+          "offset": 4.954,
+          "duration": 3.069
+        }
+      ],
+      "sfx": [
+        "second_seal",
+        "ascending_wind",
+        "final_chime"
+      ],
+      "continuity": {
+        "previous_shot": 58,
+        "next_shot": null,
+        "preserve": "Character identities, outfits, injury state, magic colours and movement direction persist across the connected shots.",
+        "entrance": "Continue the prior shot's final action; any change of location is shown along the established route."
+      }
+    }
+  ]
+}

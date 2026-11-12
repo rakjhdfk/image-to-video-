@@ -1,0 +1,251 @@
+{
+  "fingerprint": "712b1d783ec029348f97e7904e0346575477ad1061321aab7da21d334eb7e1f9",
+  "frames": 240,
+  "duration": 10,
+  "render_seconds": 17.37,
+  "sample_frame_hashes": [
+    "4741bc221fef2daa3b6af6851d07d535b0d132673be0e4e917be6b00a996e692",
+    "e98824997318b9f2c59e131b1f0069021459f7eab542cc896950e60264c7696e",
+    "68f2d2e8f5433d5ba7a9588e3667222b5d193368c4d1e9fddfcd725deb99c391",
+    "6293f746a9687966bc0a9951a9e1b11a048bd87cd57c6c7636a836538588e334",
+    "f8cb2edd0b8cdee8c6866a829005b820770e541217d85cc90a28f37d7006c81f",
+    "58155fcb733cdd1603688b03526da661093f6e044cb0203a8d35a58c4411bc54",
+    "f95d4a4ea7ccfea066ba4b090a0e82c35fbda4eba4a51a43e52af9cf11a0c879",
+    "0ab3d31dc1a097bad62a74d502b3cccaaf27de2d618f808ae58ed1b3da1a8df7",
+    "0a6fb5bcc5fbe52c217ee34c371b9b63d3ccd217871cd97a45772e345c39b4d9",
+    "0d583429678159b7bd26b8dd0a16b5e13a6c6ff49927a51b6e28d3297bcc78b5"
+  ],
+  "character_motion_samples": [
+    {
+      "kael": [
+        516.976,
+        684.0,
+        4.481,
+        "weave",
+        false
+      ],
+      "mira": [
+        884.176,
+        684.0,
+        4.481,
+        "weave",
+        false
+      ],
+      "riven": [
+        1132.576,
+        684.0,
+        4.81,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        536.392,
+        684.75,
+        0.4,
+        "listen",
+        false
+      ],
+      "mira": [
+        915.267,
+        684.75,
+        5.81,
+        "idle",
+        false
+      ],
+      "riven": [
+        1131.767,
+        684.75,
+        5.81,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        534.2,
+        685.5,
+        0.8,
+        "listen",
+        false
+      ],
+      "mira": [
+        913.95,
+        685.5,
+        6.81,
+        "idle",
+        false
+      ],
+      "riven": [
+        1130.95,
+        685.5,
+        6.81,
+        "idle",
+        true
+      ]
+    },
+    {
+      "kael": [
+        531.999,
+        686.25,
+        1.2,
+        "listen",
+        false
+      ],
+      "mira": [
+        912.624,
+        686.25,
+        7.81,
+        "idle",
+        false
+      ],
+      "riven": [
+        1130.124,
+        686.25,
+        7.81,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        529.788,
+        687.0,
+        1.6,
+        "listen",
+        false
+      ],
+      "mira": [
+        911.288,
+        687.0,
+        8.81,
+        "idle",
+        false
+      ],
+      "riven": [
+        1129.288,
+        687.0,
+        8.81,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        527.569,
+        687.75,
+        2.0,
+        "listen",
+        true
+      ],
+      "mira": [
+        909.944,
+        687.75,
+        9.81,
+        "idle",
+        false
+      ],
+      "riven": [
+        1128.444,
+        687.75,
+        9.81,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        525.341,
+        688.5,
+        2.4,
+        "listen",
+        true
+      ],
+      "mira": [
+        908.591,
+        688.5,
+        10.81,
+        "idle",
+        false
+      ],
+      "riven": [
+        1127.591,
+        688.5,
+        10.81,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        523.104,
+        689.25,
+        2.8,
+        "listen",
+        true
+      ],
+      "mira": [
+        907.229,
+        689.25,
+        11.81,
+        "idle",
+        false
+      ],
+      "riven": [
+        1126.729,
+        689.25,
+        11.81,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        520.857,
+        690.0,
+        3.2,
+        "listen",
+        false
+      ],
+      "mira": [
+        905.857,
+        690.0,
+        12.81,
+        "idle",
+        false
+      ],
+      "riven": [
+        1125.857,
+        690.0,
+        12.81,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        518.602,
+        690.75,
+        3.6,
+        "listen",
+        false
+      ],
+      "mira": [
+        904.477,
+        690.75,
+        13.81,
+        "idle",
+        false
+      ],
+      "riven": [
+        1124.977,
+        690.75,
+        13.81,
+        "idle",
+        false
+      ]
+    }
+  ],
+  "description": "The unfinished mark lights on Kael's wrist for the first time. He sways as a familiar melody leaves his memory, then steadies himself against the repaired foundation."
+}

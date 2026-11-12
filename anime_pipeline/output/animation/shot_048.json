@@ -1,0 +1,251 @@
+{
+  "fingerprint": "4805464e375169c34bf029e6aa61a511209587f2cec686383418ef94284b8e09",
+  "frames": 240,
+  "duration": 10,
+  "render_seconds": 16.49,
+  "sample_frame_hashes": [
+    "43936a19a2c302ce64a8cf0a724557ab7e106a8e51c2d72ade0559901e34e287",
+    "6ce3729c687386f85ec02f102e6767ee4826029f04b49e8373ccf8d6b239c24b",
+    "843ca2dba9f56bbba67b9090f75961cb38025b282b757e28a25a233362ff76f8",
+    "281b9c46b30606a1f49efe4fe42eb83b34ecb6a54c1097165be4d052011d40ff",
+    "c4586195b2a9d8bb56e174da7c593469b29ff7c18b19c10fad268bcf62812094",
+    "2441b0b601f386bf01b621f1d4e7894f200feb694c3eae0d35b35500f5ea170b",
+    "f183c5c8b174c90cafef993c5c1d9fe32197ca39a378ab59b48c73d25bf6297e",
+    "11d3fcb55994a79def98b490715da6e2c255a14da577ad4d37c579b627fbd643",
+    "6ca2a49c6baa0cb5980be7cbad411299320373cdbb2d3f9501be0763fc8bee33",
+    "c5e8b14e6304c52e8e8b6e6da8b3f321c6f9b94db642e4c30971c9e14144df5f"
+  ],
+  "character_motion_samples": [
+    {
+      "kael": [
+        477.143,
+        684.0,
+        3.485,
+        "seal",
+        false
+      ],
+      "mira": [
+        671.543,
+        684.0,
+        3.983,
+        "idle",
+        false
+      ],
+      "riven": [
+        865.943,
+        684.0,
+        3.983,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        561.417,
+        687.023,
+        0.5,
+        "kneel",
+        false
+      ],
+      "mira": [
+        788.742,
+        687.023,
+        0.5,
+        "rescue",
+        true
+      ],
+      "riven": [
+        344.917,
+        687.023,
+        0.5,
+        "kneel",
+        false
+      ]
+    },
+    {
+      "kael": [
+        559.283,
+        693.963,
+        1.0,
+        "kneel",
+        false
+      ],
+      "mira": [
+        787.133,
+        693.963,
+        1.0,
+        "rescue",
+        true
+      ],
+      "riven": [
+        342.283,
+        693.963,
+        1.0,
+        "kneel",
+        false
+      ]
+    },
+    {
+      "kael": [
+        557.139,
+        703.868,
+        1.5,
+        "kneel",
+        false
+      ],
+      "mira": [
+        785.514,
+        703.868,
+        1.5,
+        "rescue",
+        false
+      ],
+      "riven": [
+        339.639,
+        703.868,
+        1.5,
+        "kneel",
+        false
+      ]
+    },
+    {
+      "kael": [
+        554.987,
+        715.776,
+        2.0,
+        "kneel",
+        false
+      ],
+      "mira": [
+        783.887,
+        715.776,
+        2.0,
+        "rescue",
+        false
+      ],
+      "riven": [
+        336.987,
+        715.776,
+        2.0,
+        "kneel",
+        false
+      ]
+    },
+    {
+      "kael": [
+        552.825,
+        728.719,
+        2.5,
+        "kneel",
+        true
+      ],
+      "mira": [
+        782.25,
+        728.719,
+        2.5,
+        "rescue",
+        false
+      ],
+      "riven": [
+        334.325,
+        728.719,
+        2.5,
+        "kneel",
+        false
+      ]
+    },
+    {
+      "kael": [
+        550.655,
+        741.717,
+        3.0,
+        "kneel",
+        true
+      ],
+      "mira": [
+        780.605,
+        741.717,
+        3.0,
+        "rescue",
+        false
+      ],
+      "riven": [
+        331.655,
+        741.717,
+        3.0,
+        "kneel",
+        false
+      ]
+    },
+    {
+      "kael": [
+        548.475,
+        753.783,
+        3.5,
+        "kneel",
+        false
+      ],
+      "mira": [
+        778.95,
+        753.783,
+        3.5,
+        "rescue",
+        false
+      ],
+      "riven": [
+        328.975,
+        753.783,
+        3.5,
+        "kneel",
+        false
+      ]
+    },
+    {
+      "kael": [
+        546.287,
+        763.92,
+        4.0,
+        "kneel",
+        false
+      ],
+      "mira": [
+        777.287,
+        763.92,
+        4.0,
+        "rescue",
+        false
+      ],
+      "riven": [
+        326.287,
+        763.92,
+        4.0,
+        "kneel",
+        false
+      ]
+    },
+    {
+      "kael": [
+        544.09,
+        771.122,
+        4.5,
+        "kneel",
+        false
+      ],
+      "mira": [
+        775.615,
+        771.122,
+        4.5,
+        "rescue",
+        false
+      ],
+      "riven": [
+        323.59,
+        771.122,
+        4.5,
+        "kneel",
+        false
+      ]
+    }
+  ],
+  "description": "Kael falls beside the repaired foundation. Mira catches his shoulder while Riven kneels in the dust; the origin mark flickers between presence and absence."
+}

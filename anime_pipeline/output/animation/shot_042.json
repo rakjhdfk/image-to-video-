@@ -1,0 +1,251 @@
+{
+  "fingerprint": "e43aeb533a3b089b60485a189f7d28e12c1c04e13d921829aae5281fa2524773",
+  "frames": 240,
+  "duration": 10,
+  "render_seconds": 15.79,
+  "sample_frame_hashes": [
+    "08a198cc3ae892a6cf21ed1457267c95c11003ddf80448747bf5a1cd5478a690",
+    "4767dc3dd6339228e98291b899080d8f8d912b75dc82a69e1113afbc4f8d3771",
+    "53912d8b225c7c4bd715abb3692dcb98dfdf34d95fe6e2e5b5795df655cd1988",
+    "94c6389572bb431992e1523b593730d11efd99e241fba3fc8f1fb58ce661b022",
+    "cc7bc218ab7b08d8a2e739e938db6d8da8dd31a18d33823a0f1c844d6330d354",
+    "0c992c5965a058b526d45f3e28b1d54a8f3ef3609fd2270263624f70743f6e22",
+    "740006a703d50ec138c668183f30955fd1772e4801a7acedcd7850fa2675f31f",
+    "9b99297202db234685fafddbf5af5576c558b893f104bf5e5ebea023e8eb338b",
+    "3394b24743d115ce07f3177703cd30ea882d177d9762a67fddf8d9f34b5660d3",
+    "d8b9a783936724a7f388d79e6a2a55e5ccad1ad3499974cb55965aed9b3c6ffa"
+  ],
+  "character_motion_samples": [
+    {
+      "kael": [
+        307.2,
+        672.0,
+        4.979,
+        "weave",
+        false
+      ],
+      "mira": [
+        629.6,
+        672.0,
+        4.979,
+        "weave",
+        false
+      ],
+      "riven": [
+        837.6,
+        672.0,
+        4.979,
+        "weave",
+        false
+      ]
+    },
+    {
+      "kael": [
+        351.218,
+        672.0,
+        0.45,
+        "idle",
+        false
+      ],
+      "mira": [
+        663.218,
+        687.6,
+        0.7,
+        "weave",
+        true
+      ],
+      "riven": [
+        850.418,
+        672.0,
+        0.45,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        343.392,
+        672.0,
+        0.9,
+        "idle",
+        false
+      ],
+      "mira": [
+        655.392,
+        687.6,
+        1.0,
+        "weave",
+        true
+      ],
+      "riven": [
+        842.592,
+        672.0,
+        0.9,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        335.876,
+        672.0,
+        1.35,
+        "idle",
+        false
+      ],
+      "mira": [
+        647.876,
+        687.6,
+        1.3,
+        "weave",
+        false
+      ],
+      "riven": [
+        835.076,
+        672.0,
+        1.35,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        328.816,
+        672.0,
+        1.8,
+        "idle",
+        false
+      ],
+      "mira": [
+        640.816,
+        687.6,
+        1.6,
+        "weave",
+        false
+      ],
+      "riven": [
+        828.016,
+        672.0,
+        1.8,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        322.351,
+        672.0,
+        2.25,
+        "idle",
+        false
+      ],
+      "mira": [
+        634.351,
+        687.6,
+        1.9,
+        "weave",
+        false
+      ],
+      "riven": [
+        821.551,
+        672.0,
+        2.25,
+        "idle",
+        true
+      ]
+    },
+    {
+      "kael": [
+        316.606,
+        672.0,
+        2.7,
+        "idle",
+        false
+      ],
+      "mira": [
+        628.606,
+        687.6,
+        2.2,
+        "weave",
+        false
+      ],
+      "riven": [
+        815.806,
+        672.0,
+        2.7,
+        "idle",
+        true
+      ]
+    },
+    {
+      "kael": [
+        311.696,
+        672.0,
+        3.15,
+        "idle",
+        false
+      ],
+      "mira": [
+        623.696,
+        687.6,
+        2.5,
+        "weave",
+        false
+      ],
+      "riven": [
+        810.896,
+        672.0,
+        3.15,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        307.714,
+        672.0,
+        3.6,
+        "idle",
+        false
+      ],
+      "mira": [
+        619.714,
+        687.6,
+        2.8,
+        "weave",
+        false
+      ],
+      "riven": [
+        806.914,
+        672.0,
+        3.6,
+        "idle",
+        false
+      ]
+    },
+    {
+      "kael": [
+        304.74,
+        672.0,
+        4.05,
+        "idle",
+        false
+      ],
+      "mira": [
+        616.74,
+        687.6,
+        3.1,
+        "weave",
+        false
+      ],
+      "riven": [
+        803.94,
+        672.0,
+        4.05,
+        "idle",
+        false
+      ]
+    }
+  ],
+  "description": "Mira snaps her restraint low, forcing the wraith to plant its right leg. Its armour must open on the left side to keep balance, exposing the moving void beneath."
+}
